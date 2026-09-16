@@ -4,23 +4,11 @@
     "league": "الدوري الإنجليزي",
     "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
     "homeTeam": "ليفربول",
-    "homeLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
+    "homeLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
     "awayTeam": "أرسنال",
-    "awayLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-    "time": "0 - 0",
+    "awayLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+    "time": "PM 8:00",
     "status": "لم يبدأ بعد",
-    "streamUrl": "https://yoy1.b-cdn.net/S1/ar/stream.m3u8"
-  },
-  {
-    "day": "today",
-    "league": "الدوري الإنجليزي",
-    "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-    "homeTeam": "ليفربول",
-    "homeLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
-    "awayTeam": "أرسنال",
-    "awayLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-    "time": "0 - 0",
-    "status": "بث مباشر",
     "streamUrl": "https://yoy1.b-cdn.net/S1/ar/stream.m3u8"
   }
 ]
