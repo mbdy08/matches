@@ -9,5 +9,38 @@
     "time": "PM 7:00",
     "status": "لم يبدأ بعد",
     "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "day": "today",
+    "league": "الدوري الإسباني",
+    "homeTeam": "ريال مدريد",
+    "homeLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/realmadrid.png",
+    "awayTeam": "برشلونة",
+    "awayLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/barcelona.png",
+    "time": "PM 10:00",
+    "status": "مباشر الآن",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "day": "tomorrow",
+    "league": "دوري أبطال أوروبا",
+    "homeTeam": "مانشستر سيتي",
+    "homeLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/mancity.png",
+    "awayTeam": "بايرن ميونخ",
+    "awayLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/bayern.png",
+    "time": "PM 9:45",
+    "status": "غداً",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "day": "yesterday",
+    "league": "الدوري الإنجليزي",
+    "homeTeam": "ليفربول",
+    "homeLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/liverpool.png",
+    "awayTeam": "أرسنال",
+    "awayLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/arsenal.png",
+    "time": "2 - 1",
+    "status": "انتهت",
+    "streamUrl": ""
   }
 ]
