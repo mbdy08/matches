@@ -1,0 +1,13 @@
+[
+  {
+    "day": "today",
+    "league": "دوري أبطال آسيا للنخبة",
+    "homeTeam": "النصر",
+    "homeLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/alnassr.png",
+    "awayTeam": "العين",
+    "awayLogo": "https://raw.githubusercontent.com/mbdy08/matches/main/clubs/alain.png",
+    "time": "PM 7:00",
+    "status": "لم يبدأ بعد",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  }
+]
