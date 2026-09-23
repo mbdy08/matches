@@ -8,7 +8,7 @@
         "awayTeam":  "عمان",
         "awayLogo":  "clubs/Khaleeji_27/Flag_of_Oman.png",
         "time":  "PM 5:30",
-        "status":  "بث مباشر",
+        "status":  "لم تبدأ بعد",
         "viewers":  "12",
         "streamUrl":  "https://toto1.b-cdn.net/S1/ar/stream.m3u8"
     },
@@ -16,13 +16,13 @@
         "day":  "today",
         "league":  "الدوري الإسباني",
         "leagueLogo":  "clubs/Khaleeji_27/كأس_الخليج_العربي_27.png",
-        "homeTeam":  "",
-        "homeLogo":  "clubs/realmadrid.png",
-        "awayTeam":  "",
-        "awayLogo":  "clubs/barcelona.png",
+        "homeTeam":  "السعودية",
+        "homeLogo":  "clubs/Khaleeji_27/Flag_of_Saudi_Arabia.png",
+        "awayTeam":  "الكويت",
+        "awayLogo":  "clubs/Khaleeji_27/Flag_of_Kuwait.png",
         "time":  "PM 9:00",
-        "status":  "النهاية",
-        "viewers":  "25.0K",
+        "status":  "لم تبدأ بعد",
+        "viewers":  "6",
         "streamUrl":  "https://toto1.b-cdn.net/S2/ar/stream.m3u8"
     }
 ]
