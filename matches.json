@@ -1,14 +1,14 @@
 ﻿[
     {
         "day":  "today",
-        "league":  "دوري أبطال أوروبا",
-        "leagueLogo":  "clubs/ucl.png",
-        "homeTeam":  "ليفربول",
-        "homeLogo":  "clubs/liverpool.png",
-        "awayTeam":  "أرسنال",
-        "awayLogo":  "clubs/arsenal.png",
+        "league":  "كأس الخليج",
+        "leagueLogo":  "clubs/Khaleeji_27/كأس_الخليج_العربي_27.png",
+        "homeTeam":  "العراق",
+        "homeLogo":  "clubs/Khaleeji_27/iraq.png",
+        "awayTeam":  "عمان",
+        "awayLogo":  "clubs/Khaleeji_27/Flag_of_Oman.png",
         "time":  "PM 8:00",
-        "status":  "مباشر الآن",
+        "status":  "لم يبدأ بعد",
         "viewers":  "18.5K",
         "streamUrl":  "ENC_JhwaPBpMSnwRDAYKRRxSH1UqBkAiDAJKAFRMExdbQURAUy8FQCFaA10="
     },
