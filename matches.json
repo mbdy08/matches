@@ -1,28 +1,13 @@
-﻿[
-    {
-        "day":  "today",
-        "league":  "كأس الخليج",
-        "leagueLogo":  "clubs/Khaleeji_27/كأس_الخليج_العربي_27.png",
-        "homeTeam":  "العراق",
-        "homeLogo":  "clubs/Khaleeji_27/iraq.png",
-        "awayTeam":  "عمان",
-        "awayLogo":  "clubs/Khaleeji_27/Flag_of_Oman.png",
-        "time":  "PM 8:00",
-        "status":  "لم يبدأ بعد",
-        "viewers":  "18.5K",
-        "streamUrl":  "ENC_PBwRPBJNVkoGKxUaVkYWSBEwBksiBANWNkNrAAdIGwAXFzUFSyFSAkE="
-    },
-    {
-        "day":  "today",
-        "league":  "الدوري الإسباني",
-        "leagueLogo":  "clubs/laliga.png",
-        "homeTeam":  "ريال مدريد",
-        "homeLogo":  "clubs/realmadrid.png",
-        "awayTeam":  "برشلونة",
-        "awayLogo":  "clubs/barcelona.png",
-        "time":  "PM 10:00",
-        "status":  "لم يبدأ بعد",
-        "viewers":  "25.0K",
-        "streamUrl":  "ENC_JhwaPBpMSnwRDAYKRRxSH1UqBkAiDAJKAFdMExdbQURAUy8FQCFaA10="
-    }
-]
+﻿{
+    "day":  "today",
+    "league":  "كأس الخليج",
+    "leagueLogo":  "clubs/Khaleeji_27/كأس_الخليج_العربي_27.png",
+    "homeTeam":  "العراق",
+    "homeLogo":  "clubs/Khaleeji_27/iraq.png",
+    "awayTeam":  "عمان",
+    "awayLogo":  "clubs/Khaleeji_27/Flag_of_Oman.png",
+    "time":  "PM 8:00",
+    "status":  "لم يبدأ بعد",
+    "viewers":  "18.5K",
+    "streamUrl":  "ENC_PBwRPBJNVkoGKxUaVkYWSBEwBksiBANWNkNrAAdIGwAXFzUFSyFSAkE="
+}
