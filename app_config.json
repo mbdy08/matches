@@ -1,6 +1,6 @@
 {
   "app_version": "1.0.0",
-  "is_update_available": true,
+  "is_update_available": false,
   "force_update": true,
   "update_title_ar": "تحديث جديد متوفر!",
   "update_title_en": "New Update Available!",
