@@ -1,6 +1,6 @@
 {
   "app_version": "1.0.0",
-  "is_update_available": false,
+  "is_update_available": true,
   "force_update": false,
   "update_title": "تحديث جديد متوفر!",
   "update_message": "يتوفر إصدار جديد يتضمن تحسينات في استقرار البث وسرعة فتح السيرفرات.",
