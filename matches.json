@@ -10,7 +10,7 @@
         "time":  "PM 9:30",
         "status":  "لم تبدأ بعد",
         "viewers":  "12",
-        "streamUrl":  "https://raw.githubusercontent.com/mbdy08/matches/main/Before_Live.mp4"
+        "streamUrl":  "https://cdn.jsdelivr.net/gh/mbdy08/matches@main/Before_Live.mp4"
     },
     {
         "day":  "today",
@@ -23,6 +23,6 @@
         "time":  "PM 9:00",
         "status":  "لم تبدأ بعد",
         "viewers":  "6",
-        "streamUrl":  "https://raw.githubusercontent.com/mbdy08/matches/main/Before_Live.mp4"
+        "streamUrl":  "hhttps://cdn.jsdelivr.net/gh/mbdy08/matches@main/Before_Live.mp4"
     }
 ]
