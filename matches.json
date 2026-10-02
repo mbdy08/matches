@@ -10,7 +10,7 @@
         "time":  "PM 5:30",
         "status":  "لم تبدأ بعد",
         "viewers":  "12",
-        "streamUrl":  "https://toto1.b-cdn.net/S1/ar/stream.m3u8"
+        "streamUrl":  "/matches/Before_Live.mp4"
     },
     {
         "day":  "today",
@@ -23,6 +23,6 @@
         "time":  "PM 9:00",
         "status":  "لم تبدأ بعد",
         "viewers":  "6",
-        "streamUrl":  "https://mbdy08.github.io/matches/Before_Live.mp4"
+        "streamUrl":  "/matches/Before_Live.mp4"
     }
 ]
