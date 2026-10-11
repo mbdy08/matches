@@ -1,21 +1,7 @@
 ﻿[
     
+
 {
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
-  "awayTeam": "ليفربول - Liverpool",
-  "awayLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/125.ts",
-  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/29.ts",
-  "stream4k": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/10.ts"
-}
-,{
   "day": "today",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
@@ -45,7 +31,21 @@
   "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/53.ts",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "ليفربول - Liverpool",
+  "awayLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
+  "time": "0 - 3",
+  "status": "أنتهت",
+  "viewers": "2",
+  
+  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/29.ts"
+  
+}
 ]
 
 
