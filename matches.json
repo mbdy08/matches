@@ -15,6 +15,21 @@
   "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/29.ts",
   "stream4k": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/10.ts"
 }
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "ساسولو - Sassuolo",
+  "awayLogo": "clubs/serie_A/italy_sassuolo_700x700.football-logos.cc.png",
+  "time": "PM 7:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/127.ts",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 ]
