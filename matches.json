@@ -30,7 +30,21 @@
   "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "دوري أورا",
+  "leagueLogo": "clubs/ORA/ORA_League.png",
+  "homeTeam": "الزمالك - Zamalek",
+  "homeLogo": "clubs/ORA/egypt_zamalek_700x700.football-logos.cc.png",
+  "awayTeam": "الاهلي - Al Ahly",
+  "awayLogo": "clubs/ORA/egypt_al-ahly_700x700.football-logos.cc.png",
+  "time": "PM 8:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/52.ts",
+  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/53.ts",
+  "stream4k": ""
+}
 
 ]
 
