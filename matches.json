@@ -1,22 +1,8 @@
 ﻿[
     
 
+
 {
-  "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "ساسولو - Sassuolo",
-  "awayLogo": "clubs/serie_A/italy_sassuolo_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/127.ts",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
   "day": "today",
   "league": "دوري أورا",
   "leagueLogo": "clubs/ORA/ORA_League.png",
@@ -65,6 +51,23 @@
   
   "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/29.ts"
   
+}
+
+
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "ساسولو - Sassuolo",
+  "awayLogo": "clubs/serie_A/italy_sassuolo_700x700.football-logos.cc.png",
+  "time": "1 - 1",
+  "status": "أنتهت",
+  "viewers": "1",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
 }
 ]
 
