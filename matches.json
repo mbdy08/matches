@@ -2,10 +2,10 @@
     
 {
   "day": "today",
-  "league": "كأس الخليج",
-  "leagueLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/Khaleeji_27/iraq.png",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
   "awayTeam": "ليفربول - Liverpool",
   "awayLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
   "time": "PM 6:30",
