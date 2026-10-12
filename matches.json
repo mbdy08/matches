@@ -77,6 +77,22 @@
 
 
 
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "نيوكاسل - Newcastle",
+  "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
+  "awayTeam": "كوفنتري - Coventry",
+  "awayLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
+  "time": "0 - 0",
+  "status": "بث مباشر",
+  "viewers": "2",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/128.ts",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 
 
 
