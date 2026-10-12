@@ -85,10 +85,10 @@
   "awayTeam": "الوصل - Al Wasl",
   "awayLogo": "clubs/AFC Champions League Elite/uae_al-wasl_700x700.football-logos.cc.png",
   "time": "1 - 3",
-  "status": "بث مباشر",
+  "status": "أنتهت ",
   "viewers": "4",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/125.ts",
-  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/29.ts",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
