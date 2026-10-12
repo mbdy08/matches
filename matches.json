@@ -6,7 +6,7 @@
 
 
 {
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "يوفينتوس - Juventus",
@@ -24,7 +24,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "مان سيتي - Man City",
@@ -41,7 +41,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "ميلان - AC Milan",
@@ -58,7 +58,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أورا",
   "leagueLogo": "clubs/ORA/ORA_League.png",
   "homeTeam": "الزمالك - Zamalek",
@@ -72,6 +72,35 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "",
+  "homeTeam": "الأهلي - Al Ahli",
+  "homeLogo": "",
+  "awayTeam": "الوصل - Al Wasl",
+  "awayLogo": "",
+  "time": "PM 7:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "4",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
+
+
+
 
 ]
 
