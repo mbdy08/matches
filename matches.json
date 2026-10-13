@@ -92,7 +92,7 @@
   "status": "بث مباشر",
   "viewers": "12",
   "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/22.ts",
-  "streamSd": "",
+  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/125.ts",
   "stream4k": ""
 }
 
@@ -126,8 +126,8 @@
   "time": "PM 10:00",
   "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/69.ts",
+  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/26.ts",
   "stream4k": ""
 }
 
