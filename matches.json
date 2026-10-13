@@ -88,11 +88,11 @@
   "homeLogo": "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
   "awayTeam": "غلطة سراي - Galatasaray",
   "awayLogo": "clubs/Super_Lig/turkey_galatasaray_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "1 - 4",
+  "status": "أنتهت",
   "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/22.ts",
-  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/125.ts",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -105,11 +105,11 @@
   "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
   "awayTeam": "ليل - Lille",
   "awayLogo": "clubs/Ligue_1/france_lille_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "0 - 3",
+  "status": "أنتهت",
   "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/127.ts",
-  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/25.ts",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -123,11 +123,11 @@
   "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
   "awayTeam": "أتلتيكو مدريد - Atletico Madrid",
   "awayLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "2 - 0",
+  "status": "",
   "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/126.ts",
-  "streamSd": "http://194.76.0.163/8zpo3GsVY7/beneficial2concern/652376?token=ShJdY2ZmQQNHCmMZCDZXUh9GSHAWGFMD.ZDsGQVN.WGBFNX013GR9YV1QbGBp0QE9SWmpcXlQXXlUHWlcbRxFACmcDY1tXEVkbVAoAAQJUFxUbRFldAxdeUAdaVAFcUwcHAhwWQlpXQQMLTFhUG0FQQU1VQl4HWTsFVBQLVABGCVxEXFgeEVwNZgFcWVlZBxcDGwESHERcFxETWAxCCQgfEFNZQEBSRwYbX1dBVFtPF1pWRV5EFExGWxMmJxVJRlZKRVVaQVpcDRtfG0BLFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCQ1MCVVJ",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -138,11 +138,11 @@
   "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
   "awayTeam": "فاكينج - Viking",
   "awayLogo": "clubs/Timer_Teams_eufa/norway_viking_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "3 - 3",
+  "status": "",
   "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/126.ts",
-  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/26.ts",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
