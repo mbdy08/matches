@@ -82,27 +82,6 @@
 
 ,{
   "day": "today",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الاتحاد - Al Ittihad",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
-  "awayTeam": "شباب الأهلي - Shabab Al Ahli",
-  "awayLogo": "clubs/AFC Champions League Elite/uae_shabab-al-ahli_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/23.ts",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-,{
-  "day": "today",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
   "homeTeam": "برشلونة - Barcelona",
@@ -151,6 +130,30 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
+  "homeTeam": "الاتحاد - Al Ittihad",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
+  "awayTeam": "شباب الأهلي - Shabab Al Ahli",
+  "awayLogo": "clubs/AFC Champions League Elite/uae_shabab-al-ahli_700x700.football-logos.cc.png",
+  "time": "0 - 0",
+  "status": "بث مباشر",
+  "viewers": "12",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/23.ts",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
 
 
 
