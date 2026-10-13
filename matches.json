@@ -104,9 +104,9 @@
   "awayTeam": "شباب الأهلي - Shabab Al Ahli",
   "awayLogo": "clubs/AFC Champions League Elite/uae_shabab-al-ahli_700x700.football-logos.cc.png",
   "time": "PM 9:15",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/23.ts",
   "streamSd": "",
   "stream4k": ""
 }
