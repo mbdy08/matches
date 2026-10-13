@@ -1,5 +1,5 @@
 ﻿[
-    
+
 
 
 
@@ -7,78 +7,6 @@
 
 {
   "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "يوفينتوس - Juventus",
-  "homeLogo": "clubs/serie_A/italy_juventus_700x700.football-logos.cc.png",
-  "awayTeam": "كالياري - Cagliari",
-  "awayLogo": "clubs/serie_A/italy_cagliari_700x700.football-logos.cc.png",
-  "time": "1 - 1",
-  "status": "أنتهت",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
-  "awayTeam": "ليفربول - Liverpool",
-  "awayLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
-  "time": "0 - 3",
-  "status": "أنتهت",
-  "viewers": "2",
-  
-  "streamSd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/29.ts"
-  
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "ساسولو - Sassuolo",
-  "awayLogo": "clubs/serie_A/italy_sassuolo_700x700.football-logos.cc.png",
-  "time": "1 - 1",
-  "status": "أنتهت",
-  "viewers": "1",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري أورا",
-  "leagueLogo": "clubs/ORA/ORA_League.png",
-  "homeTeam": "الزمالك - Zamalek",
-  "homeLogo": "clubs/ORA/egypt_zamalek_700x700.football-logos.cc.png",
-  "awayTeam": "الاهلي - Al Ahly",
-  "awayLogo": "clubs/ORA/egypt_al-ahly_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-,{
-  "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "نيوكاسل - Newcastle",
@@ -97,7 +25,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال اسيا للنخبة",
   "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "النصر - Al Nasser",
@@ -116,7 +44,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال اسيا للنخبة",
   "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "القوة الجوية - Al Quwa Al Jawiya",
@@ -135,7 +63,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال اسيا للنخبة",
   "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "الأهلي - Al Ahli",
@@ -149,6 +77,46 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+,{
+  "day": "today",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "الهلال - Al Hilal",
+  "homeLogo": "",
+  "awayTeam": "السد - Al Sadd",
+  "awayLogo": "",
+  "time": "PM 7:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "الاتحاد - Al Ittihad",
+  "homeLogo": "",
+  "awayTeam": "شباب الأهلي - Shabab Al Ahli",
+  "awayLogo": "",
+  "time": "PM 6:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
 
 
 
