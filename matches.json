@@ -86,9 +86,9 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
   "awayTeam": "السد - Al Sadd",
   "awayLogo": "clubs/AFC Champions League Elite/qatar_al-sadd_700x700.football-logos.cc.png",
-  "time": "PM 7:00",
+  "time": "0 - 0",
   "status": "بث مباشر",
-  "viewers": "12",
+  "viewers": "82",
   "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/125.ts",
   "streamSd": "",
   "stream4k": ""
@@ -110,6 +110,59 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "برشلونة - Barcelona",
+  "homeLogo": "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
+  "awayTeam": "غلطة سراي - Galatasaray",
+  "awayLogo": "clubs/Super_Lig/turkey_galatasaray_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "ارسنال - Arsenal",
+  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "ليل - Lille",
+  "awayLogo": "clubs/Ligue_1/france_lille_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان يونايتد - Man United",
+  "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
+  "awayTeam": "أتلتيكو مدريد - Atletico Madrid",
+  "awayLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
 
 
 
