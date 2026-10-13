@@ -87,9 +87,9 @@
   "awayTeam": "السد - Al Sadd",
   "awayLogo": "clubs/AFC Champions League Elite/qatar_al-sadd_700x700.football-logos.cc.png",
   "time": "PM 7:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed/Mohamed/125.ts",
   "streamSd": "",
   "stream4k": ""
 }
