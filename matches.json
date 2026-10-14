@@ -132,21 +132,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري أبطال أوروبا",
-  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-white_700x700.football-logos.cc.png",
-  "homeTeam": "ليفربول - Liverpool",
-  "homeLogo": "clubs/UEFA Champions League/england_liverpool_700x700.football-logos.cc.png",
-  "awayTeam": "لاسك - LASK",
-  "awayLogo": "clubs/UEFA Champions League/austria_lask_700x700.football-logos.cc.png",
-  "time": "6 - 3",
-  "status": "بث مباشر",
-  "viewers": "163",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
-  "stream4k": ""
-}
+
 ,{
   "day": "today",
   "league": "دوري أبطال أوروبا",
@@ -155,8 +141,8 @@
   "homeLogo": "clubs/UEFA Champions League/italy_como-1907_700x700.football-logos.cc.png",
   "awayTeam": "فاينورد - Feyenoord",
   "awayLogo": "clubs/UEFA Champions League/netherlands_feyenoord_700x700.football-logos.cc.png",
-  "time": "1 - 2",
-  "status": "بث مباشر",
+  "time": "1 - 3",
+  "status": "أنتهت",
   "viewers": "4",
   "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
   "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
@@ -171,10 +157,10 @@
   "awayTeam": "مان سيتي - Man City",
   "awayLogo": "clubs/UEFA Champions League/england_manchester-city_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "395",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -187,10 +173,10 @@
   "awayTeam": "ريال مدريد - Real Madrid",
   "awayLogo": "clubs/UEFA Champions League/spain_real-madrid_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -203,10 +189,10 @@
   "awayTeam": "فنربخشة - Fenerbahçe",
   "awayLogo": "clubs/UEFA Champions League/turkey_fenerbahce_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s3/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s3/sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -219,9 +205,9 @@
   "awayTeam": "دورتموند - Dortmund",
   "awayLogo": "clubs/UEFA Champions League/germany_borussia-dortmund_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s4/hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -235,13 +221,27 @@
   "awayTeam": "بوتو - Porto",
   "awayLogo": "clubs/UEFA Champions League/portugal_fc-porto_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
+  "streamHd": "https://toto9.b-cdn.net/live/s5/hd/index.m3u8",
+  "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-white_700x700.football-logos.cc.png",
+  "homeTeam": "ليفربول - Liverpool",
+  "homeLogo": "clubs/UEFA Champions League/england_liverpool_700x700.football-logos.cc.png",
+  "awayTeam": "لاسك - LASK",
+  "awayLogo": "clubs/UEFA Champions League/austria_lask_700x700.football-logos.cc.png",
+  "time": "6 - 3",
+  "status": "أنتهت",
+  "viewers": "163",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
