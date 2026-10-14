@@ -237,8 +237,8 @@
   "time": "PM 10:00",
   "status": "لم تبدأ بعد",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "Before_Live1.ts",
+  "streamSd": "Before_Live.m3u",
   "stream4k": ""
 }
 
