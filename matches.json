@@ -123,9 +123,9 @@
   "awayTeam": "نيويورك سيتي - New York City",
   "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-york-city-fc_700x700.football-logos.cc.png",
   "time": "AM 2:30",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
+  "status": "بث مباشر",
+  "viewers": "54",
+  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
