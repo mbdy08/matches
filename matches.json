@@ -5,83 +5,12 @@
 
 
 
+
+
+
+
 {
   "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "نيوكاسل - Newcastle",
-  "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
-  "awayTeam": "كوفنتري - Coventry",
-  "awayLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
-  "time": "4 - 1",
-  "status": "أنتهت ",
-  "viewers": "2",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "النصر - Al Nasser",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
-  "awayTeam": "نيفتشي - Neftchi",
-  "awayLogo": "clubs/AFC Champions League Elite/uzbekistan_neftchi-fergana_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "القوة الجوية - Al Quwa Al Jawiya",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
-  "awayTeam": "العين - Al Ain",
-  "awayLogo": "clubs/AFC Champions League Elite/uae_al-ain_700x700.football-logos.cc.png",
-  "time": "4 - 1",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الأهلي - Al Ahli",
-  "homeLogo": "clubs/AFC Champions League Elite/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
-  "awayTeam": "الوصل - Al Wasl",
-  "awayLogo": "clubs/AFC Champions League Elite/uae_al-wasl_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت ",
-  "viewers": "4",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "today",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
   "homeTeam": "برشلونة - Barcelona",
@@ -98,7 +27,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
   "homeTeam": "ارسنال - Arsenal",
@@ -116,7 +45,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
   "homeTeam": "مان يونايتد - Man United",
@@ -131,7 +60,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
   "homeTeam": "بايرن ميونخ - Bayern Munich ",
@@ -147,7 +76,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال اسيا للنخبة",
   "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "الاتحاد - Al Ittihad",
@@ -161,6 +90,33 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+,{
+  "day": "yesterday",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
+  "homeTeam": "الهلال - Al Hilal",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
+  "awayTeam": "السد - Al Sadd",
+  "awayLogo": "clubs/AFC Champions League Elite/qatar_al-sadd_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت",
+  "viewers": "82",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,20 +134,97 @@
 
 ,{
   "day": "today",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال - Al Hilal",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "السد - Al Sadd",
-  "awayLogo": "clubs/AFC Champions League Elite/qatar_al-sadd_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت",
-  "viewers": "82",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "ليفربول - Liverpool",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
