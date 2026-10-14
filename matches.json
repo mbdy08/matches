@@ -226,7 +226,21 @@
   "stream4k": ""
 }
 
-
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "ريال بيتيس - Real Betis",
+  "homeLogo": "clubs/UEFA Champions League/spain_real-betis_700x700.football-logos.cc.png",
+  "awayTeam": "بوتو - Porto",
+  "awayLogo": "clubs/UEFA Champions League/portugal_fc-porto_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
