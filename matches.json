@@ -143,8 +143,8 @@
   "time": "PM 7:45",
   "status": "لم تبدأ بعد",
   "viewers": "163",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
   "stream4k": ""
 }
 ,{
