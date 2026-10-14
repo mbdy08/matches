@@ -155,10 +155,10 @@
   "homeLogo": "clubs/UEFA Champions League/italy_como-1907_700x700.football-logos.cc.png",
   "awayTeam": "فاينورد - Feyenoord",
   "awayLogo": "clubs/UEFA Champions League/netherlands_feyenoord_700x700.football-logos.cc.png",
-  "time": "PM 7:45",
-  "status": "لم تبدأ بعد",
+  "time": "0 - 0",
+  "status": "بث مباشر",
   "viewers": "4",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
