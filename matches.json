@@ -133,21 +133,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري أبطال أوروبا",
-  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-white_700x700.football-logos.cc.png",
-  "homeTeam": "كومو - Como",
-  "homeLogo": "clubs/UEFA Champions League/italy_como-1907_700x700.football-logos.cc.png",
-  "awayTeam": "فاينورد - Feyenoord",
-  "awayLogo": "clubs/UEFA Champions League/netherlands_feyenoord_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت",
-  "viewers": "4",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
-  "stream4k": ""
-}
+
 ,{
   "day": "today",
   "league": "دوري أبطال أوروبا",
@@ -242,7 +228,21 @@
   "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-white_700x700.football-logos.cc.png",
+  "homeTeam": "كومو - Como",
+  "homeLogo": "clubs/UEFA Champions League/italy_como-1907_700x700.football-logos.cc.png",
+  "awayTeam": "فاينورد - Feyenoord",
+  "awayLogo": "clubs/UEFA Champions League/netherlands_feyenoord_700x700.football-logos.cc.png",
+  "time": "2 - 3",
+  "status": "أنتهت",
+  "viewers": "4",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
