@@ -142,11 +142,11 @@
   "homeLogo": "clubs/UEFA Champions League/france_paris-saint-germain_700x700.football-logos.cc.png",
   "awayTeam": "مان سيتي - Man City",
   "awayLogo": "clubs/UEFA Champions League/england_manchester-city_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "4 - 2",
+  "status": "أنتهت",
   "viewers": "946",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -158,11 +158,11 @@
   "homeLogo": "clubs/UEFA Champions League/italy_roma_700x700.football-logos.cc.png",
   "awayTeam": "ريال مدريد - Real Madrid",
   "awayLogo": "clubs/UEFA Champions League/spain_real-madrid_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "3 - 4",
+  "status": "أنتهت",
   "viewers": "1.5K",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -174,11 +174,11 @@
   "homeLogo": "clubs/UEFA Champions League/england_aston-villa_700x700.football-logos.cc.png",
   "awayTeam": "فنربخشة - Fenerbahçe",
   "awayLogo": "clubs/UEFA Champions League/turkey_fenerbahce_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "6 - 0",
+  "status": "أنتهت",
   "viewers": "32",
-  "streamHd": "https://toto9.b-cdn.net/live/s3/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s3/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -190,10 +190,10 @@
   "homeLogo": "clubs/UEFA Champions League/norway_bodo-glimt_700x700.football-logos.cc.png",
   "awayTeam": "دورتموند - Dortmund",
   "awayLogo": "clubs/UEFA Champions League/germany_borussia-dortmund_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "1 - 0",
+  "status": "أنتهت",
   "viewers": "64",
-  "streamHd": "https://toto9.b-cdn.net/live/s4/hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -206,10 +206,10 @@
   "homeLogo": "clubs/UEFA Champions League/spain_real-betis_700x700.football-logos.cc.png",
   "awayTeam": "بوتو - Porto",
   "awayLogo": "clubs/UEFA Champions League/portugal_fc-porto_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "3 - 2",
+  "status": "أنتهت",
   "viewers": "17",
-  "streamHd": "https://toto9.b-cdn.net/live/s5/hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
