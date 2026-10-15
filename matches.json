@@ -137,6 +137,132 @@
 
 
 
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري المؤتمر الأوروبي",
+  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
+  "homeTeam": "طرابزون سبور - Trabzonspor",
+  "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
+  "awayTeam": "بالوسيور - KuPS",
+  "awayLogo": "clubs/UEFA Conference League/finland_kups_700x700.football-logos.cc.png",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "32",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - Milan",
+  "homeLogo": "clubs/UEFA Europa League/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "سالزبورج - Salzburg",
+  "awayLogo": "clubs/UEFA Europa League/austria_salzburg_700x700.football-logos.cc.png",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "كريستال بالاس - Crystal Palace",
+  "homeLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
+  "awayTeam": "ليون - Lyon",
+  "awayLogo": "clubs/UEFA Europa League/france_lyon_700x700.football-logos.cc.png",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "يوفنتوس - Juventus",
+  "homeLogo": "clubs/UEFA Europa League/italy_juventus_700x700.football-logos.cc.png",
+  "awayTeam": "سيلتا فيغو - Celta",
+  "awayLogo": "clubs/UEFA Europa League/spain_celta_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "بورنموث - Bournemouth",
+  "homeLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
+  "awayTeam": "شتورم غراتس - Sturm Graz",
+  "awayLogo": "clubs/UEFA Europa League/austria_sturm-graz_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري المؤتمر الأوروبي",
+  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
+  "homeTeam": "برايتون - Brighton",
+  "homeLogo": "clubs/UEFA Conference League/england_brighton_700x700.football-logos.cc.png",
+  "awayTeam": "زالجيريس - Zalgiris",
+  "awayLogo": "clubs/UEFA Conference League/lithuania_kauno-zalgiris_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
 ,{
   "day": "today",
   "league": "MLS",
