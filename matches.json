@@ -114,6 +114,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ,{
   "day": "today",
   "league": "MLS",
@@ -122,10 +145,10 @@
   "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
   "awayTeam": "نيويورك سيتي - New York City",
   "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-york-city-fc_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "0 - 2",
+  "status": "أنتهت",
   "viewers": "54",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
