@@ -157,7 +157,7 @@
   "status": "بث مباشر",
   "viewers": "32",
   "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "",
+  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
   "stream4k": ""
 }
 
