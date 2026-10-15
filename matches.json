@@ -145,58 +145,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري المؤتمر الأوروبي",
-  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
-  "homeTeam": "طرابزون سبور - Trabzonspor",
-  "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
-  "awayTeam": "بالوسيور - KuPS",
-  "awayLogo": "clubs/UEFA Conference League/finland_kups_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "32",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
-  "stream4k": ""
-}
 
-
-,{
-  "day": "today",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - Milan",
-  "homeLogo": "clubs/UEFA Europa League/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "سالزبورج - Salzburg",
-  "awayLogo": "clubs/UEFA Europa League/austria_salzburg_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "75",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
-  "stream4k": ""
-}
-
-
-
-
-
-,{
-  "day": "today",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "كريستال بالاس - Crystal Palace",
-  "homeLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
-  "awayTeam": "ليون - Lyon",
-  "awayLogo": "clubs/UEFA Europa League/france_lyon_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s3/hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
 
 
 
@@ -211,10 +160,10 @@
   "awayTeam": "سيلتا فيغو - Celta",
   "awayLogo": "clubs/UEFA Europa League/spain_celta_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "status": "بث مباشر",
+  "viewers": "79",
+  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -232,9 +181,9 @@
   "awayTeam": "شتورم غراتس - Sturm Graz",
   "awayLogo": "clubs/UEFA Europa League/austria_sturm-graz_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -253,8 +202,42 @@
   "awayTeam": "زالجيريس - Zalgiris",
   "awayLogo": "clubs/UEFA Conference League/lithuania_kauno-zalgiris_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/s3/sd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري المؤتمر الأوروبي",
+  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
+  "homeTeam": "طرابزون سبور - Trabzonspor",
+  "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
+  "awayTeam": "بالوسيور - KuPS",
+  "awayLogo": "clubs/UEFA Conference League/finland_kups_700x700.football-logos.cc.png",
+  "time": "2 - 4",
+  "status": "",
+  "viewers": "32",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - Milan",
+  "homeLogo": "clubs/UEFA Europa League/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "سالزبورج - Salzburg",
+  "awayLogo": "clubs/UEFA Europa League/austria_salzburg_700x700.football-logos.cc.png",
+  "time": "0 - 4",
+  "status": "أنتهت",
+  "viewers": "75",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
@@ -262,6 +245,23 @@
 
 
 
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "كريستال بالاس - Crystal Palace",
+  "homeLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
+  "awayTeam": "ليون - Lyon",
+  "awayLogo": "clubs/UEFA Europa League/france_lyon_700x700.football-logos.cc.png",
+  "time": "3 - 2",
+  "status": "أنتهت",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ,{
   "day": "today",
