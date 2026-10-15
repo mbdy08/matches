@@ -159,11 +159,11 @@
   "homeLogo": "clubs/UEFA Europa League/italy_juventus_700x700.football-logos.cc.png",
   "awayTeam": "سيلتا فيغو - Celta",
   "awayLogo": "clubs/UEFA Europa League/spain_celta_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "2 - 1",
+  "status": "أنتهت",
   "viewers": "79",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -180,10 +180,10 @@
   "homeLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
   "awayTeam": "شتورم غراتس - Sturm Graz",
   "awayLogo": "clubs/UEFA Europa League/austria_sturm-graz_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "3 - 0",
+  "status": "أنتهت",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -201,10 +201,10 @@
   "homeLogo": "clubs/UEFA Conference League/england_brighton_700x700.football-logos.cc.png",
   "awayTeam": "زالجيريس - Zalgiris",
   "awayLogo": "clubs/UEFA Conference League/lithuania_kauno-zalgiris_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "4 - 0",
+  "status": "أنتهت",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s3/sd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
