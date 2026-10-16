@@ -165,7 +165,21 @@
 }
 
 
-
+,{
+  "day": "today",
+  "league": "تشامبيون شيب ",
+  "leagueLogo": "clubs/EFL_Championship/england_efl-championship_700x700.football-logos.cc.png",
+  "homeTeam": "وولفرهامبتون - Wolves",
+  "homeLogo": "clubs/EFL_Championship/england_wolves_700x700.football-logos.cc.png",
+  "awayTeam": "بيرنلي - Burnley",
+  "awayLogo": "clubs/EFL_Championship/england_burnley_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
