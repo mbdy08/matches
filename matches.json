@@ -202,6 +202,22 @@
 
 
 
+,{
+  "day": "tomorrow",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "تشيلسي - Chelsea",
+  "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
+  "awayTeam": "ايفرتون - Everton",
+  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+  "time": "PM 2:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 
 
 
