@@ -252,6 +252,37 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "ايبسويتش - Ipswich",
+  "awayLogo": "clubs/premier_league/england_ipswich_700x700.football-logos.cc.png",
+  "time": "PM 5:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "ليفربول - Liverpool",
+  "homeLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
+  "awayTeam": "برينتفورد - Brentford",
+  "awayLogo": "clubs/premier_league/england_brentford_700x700.football-logos.cc.png",
+  "time": "PM 5:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
