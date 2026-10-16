@@ -136,11 +136,42 @@
 
 
 
+,{
+  "day": "today",
+  "league": "تشامبيون شيب ",
+  "leagueLogo": "clubs/EFL_Championship/england_efl-championship_700x700.football-logos.cc.png",
+  "homeTeam": "وولفرهامبتون - Wolves",
+  "homeLogo": "clubs/EFL_Championship/england_wolves_700x700.football-logos.cc.png",
+  "awayTeam": "بيرنلي - Burnley",
+  "awayLogo": "clubs/EFL_Championship/england_burnley_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "بث مباشر",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
+  "stream4k": ""
+}
 
 
 
 
 
+
+,{
+  "day": "today",
+  "league": "الدوري الاسباني",
+  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
+  "homeTeam": "لاكورونيا - La Coruna",
+  "homeLogo": "clubs/laliga/spain_deportivo-la-coruna_700x700.football-logos.cc.png",
+  "awayTeam": "ليفانتي - Levante",
+  "awayLogo": "clubs/laliga/spain_levante_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "بث مباشر",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
+  "stream4k": ""
+}
 
 
 
@@ -156,30 +187,16 @@
   "homeLogo": "clubs/CAF Champions League/egypt_zamalek_700x700.football-logos.cc.png",
   "awayTeam": "الجيش الرواندي - APR FC",
   "awayLogo": "clubs/CAF Champions League/Armée_Patriotique_Rwandaise.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "today",
-  "league": "تشامبيون شيب ",
-  "leagueLogo": "clubs/EFL_Championship/england_efl-championship_700x700.football-logos.cc.png",
-  "homeTeam": "وولفرهامبتون - Wolves",
-  "homeLogo": "clubs/EFL_Championship/england_wolves_700x700.football-logos.cc.png",
-  "awayTeam": "بيرنلي - Burnley",
-  "awayLogo": "clubs/EFL_Championship/england_burnley_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "time": "1 - 0",
+  "status": "أنتهت",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
 
 
 
