@@ -145,10 +145,10 @@
   "awayTeam": "بيرنلي - Burnley",
   "awayLogo": "clubs/EFL_Championship/england_burnley_700x700.football-logos.cc.png",
   "time": "2 - 1",
-  "status": "بث مباشر",
+  "status": "أنتهت",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -166,10 +166,10 @@
   "awayTeam": "ليفانتي - Levante",
   "awayLogo": "clubs/laliga/spain_levante_700x700.football-logos.cc.png",
   "time": "1 - 1",
-  "status": "بث مباشر",
+  "status": "أنتهت",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
