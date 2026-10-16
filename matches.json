@@ -237,7 +237,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "tomorrow",
   "league": "الدوري الألماني",
   "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
   "homeTeam": "يونيون برلين - Union Berlin",
@@ -253,7 +253,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "tomorrow",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "مان سيتي - Man City",
@@ -269,7 +269,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "tomorrow",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "ليفربول - Liverpool",
@@ -286,7 +286,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "tomorrow",
   "league": "دوري نجوم العراق ",
   "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
   "homeTeam": "دهوك",
@@ -301,6 +301,22 @@
   "stream4k": ""
 }
 
+
+,{
+  "day": "tomorrow",
+  "league": "الدوري الفرنسي",
+  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
+  "homeTeam": "ستراسبورغ - Strasbourg",
+  "homeLogo": "",
+  "awayTeam": "باريس - PSG",
+  "awayLogo": "",
+  "time": "PM 6:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
