@@ -148,10 +148,10 @@
         "homeLogo":  "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
         "awayTeam":  "أستون فيلا - Aston Villa",
         "awayLogo":  "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
-        "time":  "PM 7:30",
-        "status":  "لم تبدأ بعد",
+        "time":  "0 - 0",
+        "status":  "أنتهت",
         "viewers":  "12",
-        "streamHd":  "",
+        "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
     },
