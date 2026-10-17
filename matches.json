@@ -164,10 +164,10 @@
         "homeLogo":  "clubs/دوري_نجوم_العراق/iraq_al-karma_700x700.football-logos.cc.png",
         "awayTeam":  "القوة الجوية",
         "awayLogo":  "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
-        "time":  "PM 8:30",
-        "status":  "لم تبدأ بعد",
+        "time":  "0 - 0",
+        "status":  "بث مباشر",
         "viewers":  "12",
-        "streamHd":  "",
+        "streamHd":  "https://toto9.b-cdn.net/live/s5/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
     },
