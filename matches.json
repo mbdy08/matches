@@ -94,21 +94,7 @@
 
 
 
-    {
-        "day":  "today",
-        "league":  "الدوري الانجليزي",
-        "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-        "homeTeam":  "تشيلسي - Chelsea",
-        "homeLogo":  "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
-        "awayTeam":  "ايفرتون - Everton",
-        "awayLogo":  "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
-        "time":  "0 - 1",
-        "status":  "بث مباشر",
-        "viewers":  "846",
-        "streamHd":  "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-        "streamSd":  "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
-        "stream4k":  ""
-    },
+   
     {
         "day":  "today",
         "league":  "الدوري الاسباني",
@@ -300,6 +286,20 @@
         "time":  "PM 9:45",
         "status":  "لم تبدأ بعد",
         "viewers":  "12",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    } ,{
+        "day":  "today",
+        "league":  "الدوري الانجليزي",
+        "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+        "homeTeam":  "تشيلسي - Chelsea",
+        "homeLogo":  "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
+        "awayTeam":  "ايفرتون - Everton",
+        "awayLogo":  "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+        "time":  "0 - 2",
+        "status":  "بث مباشر",
+        "viewers":  "846",
         "streamHd":  "",
         "streamSd":  "",
         "stream4k":  ""
