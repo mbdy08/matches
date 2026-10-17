@@ -122,36 +122,8 @@
         "streamSd":  "",
         "stream4k":  ""
     },
-    {
-        "day":  "today",
-        "league":  "دوري نجوم العراق ",
-        "leagueLogo":  "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
-        "homeTeam":  "دهوك",
-        "homeLogo":  "clubs/دوري_نجوم_العراق/iraq_duhok-sc_700x700.football-logos.cc.png",
-        "awayTeam":  "الجولان",
-        "awayLogo":  "clubs/دوري_نجوم_العراق/iraq_al-jolan_700x700.football-logos.cc.png",
-        "time":  "0 - 0",
-        "status":  "بث مباشر",
-        "viewers":  "12",
-        "streamHd":  "https://toto9.b-cdn.net/live/s5/hd/index.m3u8",
-        "streamSd":  "",
-        "stream4k":  ""
-    },
-    {
-        "day":  "today",
-        "league":  "الدوري الفرنسي",
-        "leagueLogo":  "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
-        "homeTeam":  "ستراسبورغ - Strasbourg",
-        "homeLogo":  "clubs/Ligue_1/france_rc-strasbourg-alsace_700x700.football-logos.cc.png",
-        "awayTeam":  "باريس - PSG",
-        "awayLogo":  "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
-        "time":  "0 - 0",
-        "status":  "بث مباشر",
-        "viewers":  "12",
-        "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-        "streamSd":  "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
-        "stream4k":  ""
-    },
+   
+    
     
     {
         "day":  "today",
@@ -161,7 +133,7 @@
         "homeLogo":  "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
         "awayTeam":  "لايبزيج - Leipzig",
         "awayLogo":  "clubs/Bundesliga/germany_rb-leipzig_700x700.football-logos.cc.png",
-        "time":  "0 - 0",
+        "time":  "0 - 3",
         "status":  "بث مباشر",
         "viewers":  "12",
         "streamHd":  "https://toto9.b-cdn.net/live/s4/hd/index.m3u8",
@@ -324,8 +296,38 @@
         "streamSd":  "",
         "stream4k":  ""
     }
-
-
+,
+     {
+        "day":  "today",
+        "league":  "دوري نجوم العراق ",
+        "leagueLogo":  "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
+        "homeTeam":  "دهوك",
+        "homeLogo":  "clubs/دوري_نجوم_العراق/iraq_duhok-sc_700x700.football-logos.cc.png",
+        "awayTeam":  "الجولان",
+        "awayLogo":  "clubs/دوري_نجوم_العراق/iraq_al-jolan_700x700.football-logos.cc.png",
+        "time":  "2 - 0",
+        "status":  "أنتهت",
+        "viewers":  "12",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
+,
+    {
+        "day":  "today",
+        "league":  "الدوري الفرنسي",
+        "leagueLogo":  "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
+        "homeTeam":  "ستراسبورغ - Strasbourg",
+        "homeLogo":  "clubs/Ligue_1/france_rc-strasbourg-alsace_700x700.football-logos.cc.png",
+        "awayTeam":  "باريس - PSG",
+        "awayLogo":  "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
+        "time":  "3 - 1",
+        "status":  "أنتهت",
+        "viewers":  "12",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
 
 
 
