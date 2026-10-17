@@ -83,64 +83,24 @@
 
 
 
-
-
-
 {
         "day":  "today",
-        "league":  "الدوري الاسباني",
-        "leagueLogo":  "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
-        "homeTeam":  "ريال بيتيس - Real Betis",
-        "homeLogo":  "clubs/laliga/spain_real-betis_700x700.football-logos.cc.png",
-        "awayTeam":  "برشلونة - Barcelona",
-        "awayLogo":  "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
-        "time":  "4 - 2",
-        "status":  "بث مباشر",
-        "viewers":  "2643",
-        "streamHd":  "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-        "streamSd":  "",
-        "stream4k":  ""
-    },
-
-
-
-
-
-
-   
-   
-    
-    
-    {
-        "day":  "today",
-        "league":  "الدوري الألماني",
-        "leagueLogo":  "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
-        "homeTeam":  "بايرن ميونخ - Bayern Munich",
-        "homeLogo":  "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
-        "awayTeam":  "لايبزيج - Leipzig",
-        "awayLogo":  "clubs/Bundesliga/germany_rb-leipzig_700x700.football-logos.cc.png",
-        "time":  "0 - 5",
+        "league":  "الدوري الايطالي",
+        "leagueLogo":  "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+        "homeTeam":  "جنوى - Genoa",
+        "homeLogo":  "clubs/serie_A/italy_genoa_700x700.football-logos.cc.png",
+        "awayTeam":  "روما - Roma",
+        "awayLogo":  "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
+        "time":  "PM 9:45",
         "status":  "بث مباشر",
         "viewers":  "12",
-        "streamHd":  "https://toto9.b-cdn.net/live/s4/hd/index.m3u8",
-        "streamSd":  "",
-        "stream4k":  ""
-    },
-    {
-        "day":  "today",
-        "league":  "الدوري الانجليزي",
-        "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-        "homeTeam":  "نيوكاسل - Newcastle",
-        "homeLogo":  "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
-        "awayTeam":  "أستون فيلا - Aston Villa",
-        "awayLogo":  "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
-        "time":  "1 - 0",
-        "status":  "بث مباشر",
-        "viewers":  "5",
         "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
-    },
+    } ,
+
+
+
    
     {
         "day":  "today",
@@ -157,52 +117,38 @@
         "streamSd":  "",
         "stream4k":  ""
     },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
-        "day":  "today",
-        "league":  "الدوري الايطالي",
-        "leagueLogo":  "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-        "homeTeam":  "جنوى - Genoa",
-        "homeLogo":  "clubs/serie_A/italy_genoa_700x700.football-logos.cc.png",
-        "awayTeam":  "روما - Roma",
-        "awayLogo":  "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
-        "time":  "PM 9:45",
-        "status":  "لم تبدأ بعد",
-        "viewers":  "12",
-        "streamHd":  "",
-        "streamSd":  "",
-        "stream4k":  ""
-    } 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    ,{
         "day":  "today",
         "league":  "الدوري الانجليزي",
         "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
@@ -314,9 +260,23 @@
         "streamSd":  "",
         "stream4k":  ""
     }
+,
 
-
-
+{
+        "day":  "today",
+        "league":  "الدوري الاسباني",
+        "leagueLogo":  "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
+        "homeTeam":  "ريال بيتيس - Real Betis",
+        "homeLogo":  "clubs/laliga/spain_real-betis_700x700.football-logos.cc.png",
+        "awayTeam":  "برشلونة - Barcelona",
+        "awayLogo":  "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
+        "time":  "5 - 2",
+        "status":  "أنتهت",
+        "viewers":  "2643",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
 
 
 
@@ -345,9 +305,52 @@
 
 
 
+    ,
 
 
 
+
+
+
+   
+   
+    
+    
+    {
+        "day":  "today",
+        "league":  "الدوري الألماني",
+        "leagueLogo":  "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
+        "homeTeam":  "بايرن ميونخ - Bayern Munich",
+        "homeLogo":  "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
+        "awayTeam":  "لايبزيج - Leipzig",
+        "awayLogo":  "clubs/Bundesliga/germany_rb-leipzig_700x700.football-logos.cc.png",
+        "time":  "1 - 6",
+        "status":  "أنتهت",
+        "viewers":  "12",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
+
+
+
+
+    
+    ,{
+        "day":  "today",
+        "league":  "الدوري الانجليزي",
+        "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+        "homeTeam":  "نيوكاسل - Newcastle",
+        "homeLogo":  "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
+        "awayTeam":  "أستون فيلا - Aston Villa",
+        "awayLogo":  "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
+        "time":  "1 - 0",
+        "status":  "بث مباشر",
+        "viewers":  "5",
+        "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
 
 
 
