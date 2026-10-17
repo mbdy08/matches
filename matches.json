@@ -93,7 +93,7 @@
 
 
 
-    
+
     {
         "day":  "today",
         "league":  "الدوري الانجليزي",
@@ -118,10 +118,10 @@
         "awayTeam":  "اسبانيول - Espanyol",
         "awayLogo":  "clubs/laliga/spain_espanyol_700x700.football-logos.cc.png",
         "time":  "PM 3:00",
-        "status":  "لم تبدأ بعد",
-        "viewers":  "12",
-        "streamHd":  "",
-        "streamSd":  "",
+        "status":  "بث مباشر",
+        "viewers":  "43",
+        "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+        "streamSd":  "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
         "stream4k":  ""
     },
     {
@@ -245,7 +245,7 @@
         "stream4k":  ""
     },
     {
-        "day":  "tomorrow",
+        "day":  "today",
         "league":  "الدوري الانجليزي",
         "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
         "homeTeam":  "نيوكاسل - Newcastle",
