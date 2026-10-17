@@ -266,6 +266,22 @@
 }
 
 
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "كومو - Como",
+  "homeLogo": "clubs/serie_A/italy_como-1907_700x700.football-logos.cc.png",
+  "awayTeam": "فيورنتينا - Fiorentina",
+  "awayLogo": "",
+  "time": "PM 4:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 
 
 
