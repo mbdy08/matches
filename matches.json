@@ -166,10 +166,10 @@
         "homeLogo":  "clubs/Ligue_1/france_rc-strasbourg-alsace_700x700.football-logos.cc.png",
         "awayTeam":  "باريس - PSG",
         "awayLogo":  "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
-        "time":  "PM 6:30",
-        "status":  "لم تبدأ بعد",
+        "time":  "0 - 0",
+        "status":  "بث مباشر",
         "viewers":  "12",
-        "streamHd":  "",
+        "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
     },
