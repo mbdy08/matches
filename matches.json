@@ -94,7 +94,7 @@
         "homeLogo":  "clubs/laliga/spain_real-betis_700x700.football-logos.cc.png",
         "awayTeam":  "برشلونة - Barcelona",
         "awayLogo":  "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
-        "time":  "2 - 1",
+        "time":  "3 - 2",
         "status":  "بث مباشر",
         "viewers":  "2643",
         "streamHd":  "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
@@ -107,21 +107,7 @@
 
 
 
-    {
-        "day":  "today",
-        "league":  "الدوري الايطالي",
-        "leagueLogo":  "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-        "homeTeam":  "بولونيا - Bologna",
-        "homeLogo":  "clubs/serie_A/italy_bologna_700x700.football-logos.cc.png",
-        "awayTeam":  "انتر - Inter",
-        "awayLogo":  "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
-        "time":  "2 - 1",
-        "status":  "بث مباشر",
-        "viewers":  "12",
-        "streamHd":  "https://toto9.b-cdn.net/live/s3/hd/index.m3u8",
-        "streamSd":  "",
-        "stream4k":  ""
-    },
+   
    
     
     
@@ -133,7 +119,7 @@
         "homeLogo":  "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
         "awayTeam":  "لايبزيج - Leipzig",
         "awayLogo":  "clubs/Bundesliga/germany_rb-leipzig_700x700.football-logos.cc.png",
-        "time":  "0 - 3",
+        "time":  "0 - 5",
         "status":  "بث مباشر",
         "viewers":  "12",
         "streamHd":  "https://toto9.b-cdn.net/live/s4/hd/index.m3u8",
@@ -150,7 +136,7 @@
         "awayLogo":  "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
         "time":  "1 - 0",
         "status":  "بث مباشر",
-        "viewers":  "12",
+        "viewers":  "5",
         "streamHd":  "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
@@ -166,7 +152,7 @@
         "awayLogo":  "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
         "time":  "0 - 0",
         "status":  "بث مباشر",
-        "viewers":  "12",
+        "viewers":  "54",
         "streamHd":  "https://toto9.b-cdn.net/live/s5/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
@@ -328,6 +314,46 @@
         "streamSd":  "",
         "stream4k":  ""
     }
+
+
+
+
+
+
+
+
+
+
+
+
+,
+ {
+        "day":  "today",
+        "league":  "الدوري الايطالي",
+        "leagueLogo":  "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+        "homeTeam":  "بولونيا - Bologna",
+        "homeLogo":  "clubs/serie_A/italy_bologna_700x700.football-logos.cc.png",
+        "awayTeam":  "انتر - Inter",
+        "awayLogo":  "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
+        "time":  "3 - 1",
+        "status":  "أنتهت",
+        "viewers":  "12",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
