@@ -183,21 +183,7 @@
         "streamSd":  "",
         "stream4k":  ""
     },
-    {
-        "day":  "today",
-        "league":  "كأس الخليج تحت 17 سنة",
-        "leagueLogo":  "clubs/Gulf_cap_un17/logo_Gulf_cap.png",
-        "homeTeam":  "العراق",
-        "homeLogo":  "clubs/Gulf_cap_un17/Flag_of_Iraq.png",
-        "awayTeam":  "اليمن",
-        "awayLogo":  "clubs/Gulf_cap_un17/Flag_of_Yemen.png",
-        "time":  "PM 8:00",
-        "status":  "لم تبدأ بعد",
-        "viewers":  "12",
-        "streamHd":  "",
-        "streamSd":  "",
-        "stream4k":  ""
-    },
+   
     {
         "day":  "today",
         "league":  "دوري نجوم العراق ",
