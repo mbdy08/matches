@@ -161,10 +161,10 @@
         "homeLogo":  "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
         "awayTeam":  "لايبزيج - Leipzig",
         "awayLogo":  "clubs/Bundesliga/germany_rb-leipzig_700x700.football-logos.cc.png",
-        "time":  "PM 7:30",
-        "status":  "لم تبدأ بعد",
+        "time":  "0 - 0",
+        "status":  "بث مباشر",
         "viewers":  "12",
-        "streamHd":  "",
+        "streamHd":  "https://toto9.b-cdn.net/live/s4/hd/index.m3u8",
         "streamSd":  "",
         "stream4k":  ""
     },
