@@ -288,10 +288,10 @@
   "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
   "awayTeam": "أتالانتا - Atalanta",
   "awayLogo": "clubs/serie_A/italy_atalanta_700x700.football-logos.cc.png",
-  "time": "PM 7:00",
-  "status": "لم تبدأ بعد",
+  "time": "0 - 0",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
