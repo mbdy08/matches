@@ -274,11 +274,11 @@
   "homeLogo": "clubs/laliga/spain_sevilla_700x700.football-logos.cc.png",
   "awayTeam": "ريال مدريد - Real Madrid",
   "awayLogo": "clubs/laliga/spain_real-madrid_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "4 - 1",
+  "status": "أنتهت",
   "viewers": "2435",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -293,10 +293,10 @@
   "homeLogo": "clubs/serie_A/italy_juventus_700x700.football-logos.cc.png",
   "awayTeam": "لاتسيو - Lazio",
   "awayLogo": "clubs/serie_A/italy_lazio_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "0 - 3",
+  "status": "أنتهت",
   "viewers": "54",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
