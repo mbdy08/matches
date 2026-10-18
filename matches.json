@@ -244,7 +244,21 @@
 
 
 
-
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان يونايتد - Man United",
+  "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
+  "awayTeam": "ليدز - Leeds",
+  "awayLogo": "clubs/premier_league/england_leeds-united_700x700.football-logos.cc.png",
+  "time": "PM 4:00",
+  "status": "بث مباشر",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
@@ -268,21 +282,7 @@
 }
 
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان يونايتد - Man United",
-  "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
-  "awayTeam": "ليدز - Leeds",
-  "awayLogo": "clubs/premier_league/england_leeds-united_700x700.football-logos.cc.png",
-  "time": "PM 4:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 
 
@@ -296,9 +296,9 @@
   "awayTeam": "كريستال بالاس - Crystal Palace",
   "awayLogo": "clubs/premier_league/england_crystal-palace_700x700.football-logos.cc.png",
   "time": "PM 4:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -312,9 +312,9 @@
   "awayTeam": "سندرلاند - Sunderland",
   "awayLogo": "clubs/premier_league/england_sunderland_700x700.football-logos.cc.png",
   "time": "PM 4:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/s3/hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
