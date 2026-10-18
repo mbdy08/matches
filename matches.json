@@ -263,21 +263,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "نوتينغام - Nottingham",
-  "awayLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "534",
-  "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
-  "stream4k": ""
-}
+
 
 
 ,{
@@ -432,7 +418,21 @@
 }
 
 
-
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "نوتينغام - Nottingham",
+  "awayLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
+  "time": "0 - 1",
+  "status": "أنتهت",
+  "viewers": "534",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
