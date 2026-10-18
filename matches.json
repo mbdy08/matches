@@ -271,9 +271,9 @@
   "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
   "awayTeam": "نوتينغام - Nottingham",
   "awayLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
-  "time": "PM 6:30",
+  "time": "0 - 0",
   "status": "بث مباشر",
-  "viewers": "12",
+  "viewers": "534",
   "streamHd": "https://toto9.b-cdn.net/live/s1/hd/index.m3u8",
   "streamSd": "https://toto9.b-cdn.net/live/s1/sd/index.m3u8",
   "stream4k": ""
@@ -298,21 +298,6 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري أبطال أفريقيا",
-  "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "",
-  "homeLogo": "",
-  "awayTeam": "",
-  "awayLogo": "",
-  "time": "PM 7:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
 
 
 ,{
