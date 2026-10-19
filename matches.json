@@ -190,39 +190,11 @@
 
 
 
-,{
-  "day": "today",
-  "league": "Super Lig",
-  "leagueLogo": "clubs/Super_Lig/turkey_super-lig_700x700.football-logos.cc.png",
-  "homeTeam": "طرابزون - Trabzonspor",
-  "homeLogo": "clubs/Super_Lig/turkey_trabzonspor_700x700.football-logos.cc.png",
-  "awayTeam": "بشكتاش - Beşiktaş",
-  "awayLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s2/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s2/sd/index.m3u8",
-  "stream4k": ""
-}
 
 
 
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "الحزم",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hazem_700x700.football-logos.cc.png",
-  "time": "PM 9:00",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/s3/hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/s3/sd/index.m3u8",
-  "stream4k": ""
-}
+
+
 
 
 
@@ -264,9 +236,37 @@
 
 
 
+,{
+  "day": "today",
+  "league": "Super Lig",
+  "leagueLogo": "clubs/Super_Lig/turkey_super-lig_700x700.football-logos.cc.png",
+  "homeTeam": "طرابزون - Trabzonspor",
+  "homeLogo": "clubs/Super_Lig/turkey_trabzonspor_700x700.football-logos.cc.png",
+  "awayTeam": "بشكتاش - Beşiktaş",
+  "awayLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
-
-
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الهلال",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
+  "awayTeam": "الحزم",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hazem_700x700.football-logos.cc.png",
+  "time": "0 - 1",
+  "status": "أنتهت ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
