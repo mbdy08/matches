@@ -111,9 +111,9 @@
   "league": "دوري أورا",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "الزمالك - Zamalek",
-  "homeLogo": "",
-  "awayTeam": "",
-  "awayLogo": "",
+  "homeLogo": "clubs/ORA/egypt_zamalek_700x700.football-logos.cc.png",
+  "awayTeam": "بترول أسيوط - Asyut Petroleum",
+  "awayLogo": "clubs/ORA/egypt_asyut-petroleum_700x700.football-logos.cc.png",
   "time": "PM 5:00",
   "status": "لم تبدأ بعد",
   "viewers": "12",
@@ -123,8 +123,37 @@
 }
 
 
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "فنربخشة - Fenerbahçe",
+  "homeLogo": "clubs/UEFA Champions League/turkey_fenerbahce_700x700.football-logos.cc.png",
+  "awayTeam": "سلافيا براغ - Slavia Praha",
+  "awayLogo": "clubs/UEFA Champions League/czech-republic_slavia-praha_700x700.football-logos.cc.png",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
-
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "صباح - Sabah",
+  "homeLogo": "clubs/UEFA Champions League/azerbaijan_sabah_700x700.football-logos.cc.png",
+  "awayTeam": "دورتموند - Dortmund",
+  "awayLogo": "clubs/UEFA Champions League/germany_borussia-dortmund_700x700.football-logos.cc.png",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
