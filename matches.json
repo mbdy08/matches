@@ -105,15 +105,19 @@
 
 
 
+
+
+
+
 ,{
   "day": "today",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "صباح - Sabah",
-  "homeLogo": "clubs/UEFA Champions League/azerbaijan_sabah_700x700.football-logos.cc.png",
-  "awayTeam": "دورتموند - Dortmund",
-  "awayLogo": "clubs/UEFA Champions League/germany_borussia-dortmund_700x700.football-logos.cc.png",
-  "time": "PM 7:45",
+  "homeTeam": "برشلونة - Barcelona",
+  "homeLogo": "clubs/UEFA Champions League/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "باريس - PSG",
+  "awayLogo": "clubs/UEFA Champions League/france_paris-saint-germain_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
   "status": "بث مباشر",
   "viewers": "12",
   "streamHd": "http://176.125.243.84:8080/live/ch1_hd/index.m3u8",
@@ -121,26 +125,37 @@
   "stream4k": ""
 }
 
-
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "ليفربول - Liverpool",
+  "homeLogo": "clubs/UEFA Champions League/england_liverpool_700x700.football-logos.cc.png",
+  "awayTeam": "فياريال - Villarreal",
+  "awayLogo": "clubs/UEFA Champions League/spain_villarreal_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "بث مباشر",
+  "viewers": "12",
+  "streamHd": "http://176.125.243.84:8080/live/ch2_hd/index.m3u8",
+  "streamSd": "http://176.125.243.84:8080/live/ch2_sd/index.m3u8",
+  "stream4k": ""
+}
 
 ,{
   "day": "today",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "فنربخشة - Fenerbahçe",
-  "homeLogo": "clubs/UEFA Champions League/turkey_fenerbahce_700x700.football-logos.cc.png",
-  "awayTeam": "سلافيا براغ - Slavia Praha",
-  "awayLogo": "clubs/UEFA Champions League/czech-republic_slavia-praha_700x700.football-logos.cc.png",
-  "time": "PM 7:45",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/UEFA Champions League/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "أيك أثينا - AEK Athens",
+  "awayLogo": "clubs/UEFA Champions League/greece_aek-athens_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
   "status": "بث مباشر",
   "viewers": "12",
-  "streamHd": "http://176.125.243.84:8080/live/ch2_hd/index.m3u8",
-  "streamSd": "",
+  "streamHd": "http://176.125.243.84:8080/live/ch5_hd/index.m3u8",
+  "streamSd": "http://176.125.243.84:8080/live/ch5_sd/index.m3u8",
   "stream4k": ""
 }
-
-
-
 
 
 ,{
@@ -151,7 +166,7 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
   "awayTeam": "الاتفاق",
   "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ettifaq_700x700.football-logos.cc.png",
-  "time": "PM 9:00",
+  "time": "0 - 0",
   "status": "بث مباشر",
   "viewers": "12",
   "streamHd": "http://176.125.243.84:8080/live/ch3_hd/index.m3u8",
@@ -172,7 +187,7 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
   "awayTeam": "نيوم",
   "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_neom_700x700.football-logos.cc.png",
-  "time": "PM 9:00",
+  "time": "0 - 0",
   "status": "بث مباشر",
   "viewers": "12",
   "streamHd": "http://176.125.243.84:8080/live/ch4_hd/index.m3u8",
@@ -184,16 +199,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ,{
   "day": "today",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "برشلونة - Barcelona",
-  "homeLogo": "clubs/UEFA Champions League/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "باريس - PSG",
-  "awayLogo": "clubs/UEFA Champions League/france_paris-saint-germain_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "homeTeam": "صباح - Sabah",
+  "homeLogo": "clubs/UEFA Champions League/azerbaijan_sabah_700x700.football-logos.cc.png",
+  "awayTeam": "دورتموند - Dortmund",
+  "awayLogo": "clubs/UEFA Champions League/germany_borussia-dortmund_700x700.football-logos.cc.png",
+  "time": "2 - 1",
+  "status": "أنتهت ",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
@@ -206,42 +232,17 @@
   "day": "today",
   "league": "دوري أبطال أوروبا",
   "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "ليفربول - Liverpool",
-  "homeLogo": "clubs/UEFA Champions League/england_liverpool_700x700.football-logos.cc.png",
-  "awayTeam": "فياريال - Villarreal",
-  "awayLogo": "clubs/UEFA Champions League/spain_villarreal_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "homeTeam": "فنربخشة - Fenerbahçe",
+  "homeLogo": "clubs/UEFA Champions League/turkey_fenerbahce_700x700.football-logos.cc.png",
+  "awayTeam": "سلافيا براغ - Slavia Praha",
+  "awayLogo": "clubs/UEFA Champions League/czech-republic_slavia-praha_700x700.football-logos.cc.png",
+  "time": "2 - 2",
+  "status": "أنتهت ",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
-
-
-,{
-  "day": "today",
-  "league": "دوري أبطال أوروبا",
-  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/UEFA Champions League/england_manchester-city_700x700.football-logos.cc.png",
-  "awayTeam": "أيك أثينا - AEK Athens",
-  "awayLogo": "clubs/UEFA Champions League/greece_aek-athens_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
 
 
 
