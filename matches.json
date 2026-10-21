@@ -162,11 +162,11 @@
   "homeLogo": "clubs/UEFA Champions League/england_arsenal_700x700.football-logos.cc.png",
   "awayTeam": "بايرن ميونخ - Bayern Munich",
   "awayLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 2",
+  "status": "أنتهت ",
   "viewers": "354",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -177,11 +177,11 @@
   "homeLogo": "clubs/UEFA Champions League/spain_real-madrid_700x700.football-logos.cc.png",
   "awayTeam": "لايبزيج - RB Leipzig",
   "awayLogo": "clubs/UEFA Champions League/germany_rb-leipzig_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 4",
+  "status": "أنتهت ",
   "viewers": "2735",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -192,10 +192,10 @@
   "homeLogo": "clubs/UEFA Champions League/italy_inter_700x700.football-logos.cc.png",
   "awayTeam": "شاختار - Shakhtar",
   "awayLogo": "clubs/UEFA Champions League/ukraine_shakhtar_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "2364",
-  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
+  "time": "0 - 1",
+  "status": "أنتهت ",
+  "viewers": "23",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
