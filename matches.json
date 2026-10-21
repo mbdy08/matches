@@ -163,10 +163,10 @@
   "awayTeam": "بايرن ميونخ - Bayern Munich",
   "awayLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
   "stream4k": ""
 }
 ,{
@@ -178,10 +178,10 @@
   "awayTeam": "لايبزيج - RB Leipzig",
   "awayLogo": "clubs/UEFA Champions League/germany_rb-leipzig_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
   "stream4k": ""
 }
 ,{
@@ -193,9 +193,9 @@
   "awayTeam": "شاختار - Shakhtar",
   "awayLogo": "clubs/UEFA Champions League/ukraine_shakhtar_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -208,9 +208,9 @@
   "awayTeam": "فاكينج - Viking",
   "awayLogo": "clubs/UEFA Champions League/norway_viking_700x700.football-logos.cc.png",
   "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch4_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
