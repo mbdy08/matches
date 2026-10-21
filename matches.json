@@ -160,9 +160,9 @@
   "awayTeam": "كومو - Como",
   "awayLogo": "clubs/UEFA Champions League/italy_como-1907_700x700.football-logos.cc.png",
   "time": "PM 7:45",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
+  "status": "بث مباشر  ",
+  "viewers": "32",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -176,9 +176,9 @@
   "awayTeam": "ليل - Lille",
   "awayLogo": "clubs/Ligue_1/france_lille_700x700.football-logos.cc.png",
   "time": "PM 7:45",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
+  "status": "بث مباشر  ",
+  "viewers": "8",
+  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
