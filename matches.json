@@ -177,9 +177,9 @@
   "homeLogo": "clubs/UEFA Champions League/spain_real-madrid_700x700.football-logos.cc.png",
   "awayTeam": "لايبزيج - RB Leipzig",
   "awayLogo": "clubs/UEFA Champions League/germany_rb-leipzig_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
-  "viewers": "12",
+  "viewers": "2735",
   "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
   "stream4k": ""
@@ -192,28 +192,14 @@
   "homeLogo": "clubs/UEFA Champions League/italy_inter_700x700.football-logos.cc.png",
   "awayTeam": "شاختار - Shakhtar",
   "awayLogo": "clubs/UEFA Champions League/ukraine_shakhtar_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
-  "viewers": "12",
+  "viewers": "2364",
   "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
-,{
-  "day": "today",
-  "league": "دوري أبطال أوروبا",
-  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "أستون فيلا - Aston Villa",
-  "homeLogo": "clubs/UEFA Champions League/england_aston-villa_700x700.football-logos.cc.png",
-  "awayTeam": "فاكينج - Viking",
-  "awayLogo": "clubs/UEFA Champions League/norway_viking_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch4_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 
 ,{
