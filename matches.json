@@ -117,7 +117,39 @@
 
 
 
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "بورنموث - Bournemouth",
+  "awayLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "stream4k": ""
+}
 
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "بشكتاش - Beşiktaş",
+  "homeLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
+  "awayTeam": "كريستال بالاس - Crystal Palace",
+  "awayLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
+  "stream4k": ""
+}
 
 
 ,{
@@ -128,11 +160,11 @@
   "homeLogo": "clubs/UEFA Europa League/italy_juventus_700x700.football-logos.cc.png",
   "awayTeam": "رين - Rennes",
   "awayLogo": "clubs/UEFA Europa League/france_rennes_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 2",
+  "status": "أنتهت ",
   "viewers": "234",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -146,8 +178,8 @@
   "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
   "awayTeam": "هارتس - Hearts",
   "awayLogo": "clubs/UEFA Conference League/scotland_hearts_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 2",
+  "status": "أنتهت ",
   "viewers": "534",
   "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
@@ -164,9 +196,9 @@
   "awayTeam": "يابونك - Jablonec",
   "awayLogo": "clubs/UEFA Conference League/czech-republic_jablonec_700x700.football-logos.cc.png",
   "time": "0 - 0",
-  "status": "  بث مباشر",
+  "status": "  أنتهت ",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -189,39 +221,7 @@
 }
 
 
-,{
-  "day": "today",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "بورنموث - Bournemouth",
-  "awayLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
 
-
-
-,{
-  "day": "today",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "بشكتاش - Beşiktaş",
-  "homeLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
-  "awayTeam": "كريستال بالاس - Crystal Palace",
-  "awayLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
 
 
 
