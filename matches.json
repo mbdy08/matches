@@ -122,9 +122,9 @@
   "league": "دوري نجوم العراق ",
   "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
   "homeTeam": "أربيل",
-  "homeLogo": "",
+  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_erbil-sc_700x700.football-logos.cc.png",
   "awayTeam": "زاخو",
-  "awayLogo": "",
+  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_zakho-sc_700x700.football-logos.cc.png",
   "time": "PM 5:00",
   "status": "لم تبدأ بعد",
   "viewers": "12",
@@ -134,7 +134,56 @@
 }
 
 
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "يوفينتوس - Juventus",
+  "homeLogo": "",
+  "awayTeam": "رين - Rennes",
+  "awayLogo": "",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
+
+
+,{
+  "day": "today",
+  "league": "دوري المؤتمر الأوروبي",
+  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
+  "homeTeam": "طرابزون سبور - Trabzonspor",
+  "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
+  "awayTeam": "هارتس - Hearts",
+  "awayLogo": "",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري المؤتمر الأوروبي",
+  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
+  "homeTeam": "برايتون -  Brighton",
+  "homeLogo": "clubs/UEFA Conference League/england_brighton_700x700.football-logos.cc.png",
+  "awayTeam": "يابونك - Jablonec",
+  "awayLogo": "",
+  "time": "PM 7:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
