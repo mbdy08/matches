@@ -125,11 +125,11 @@
   "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
   "awayTeam": "بورنموث - Bournemouth",
   "awayLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "3 - 0",
+  "status": "أنتهت ",
   "viewers": "237",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -143,11 +143,11 @@
   "homeLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
   "awayTeam": "كريستال بالاس - Crystal Palace",
   "awayLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 2",
+  "status": "أنتهت ",
   "viewers": "23",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -181,7 +181,7 @@
   "time": "0 - 2",
   "status": "أنتهت ",
   "viewers": "534",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -212,10 +212,10 @@
   "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
   "awayTeam": "الطلبة",
   "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-talaba_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 0",
+  "status": "أنتهت ",
   "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch4_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
