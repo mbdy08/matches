@@ -186,7 +186,56 @@
 }
 
 
+,{
+  "day": "today",
+  "league": "دوري نجوم العراق ",
+  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
+  "homeTeam": "القوة الجوية",
+  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
+  "awayTeam": "الطلبة",
+  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-talaba_700x700.football-logos.cc.png",
+  "time": "PM 6:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "بورنموث - Bournemouth",
+  "awayLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+,{
+  "day": "today",
+  "league": "دوري الأوروبي",
+  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
+  "homeTeam": "بشكتاش - Beşiktaş",
+  "homeLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
+  "awayTeam": "كريستال بالاس - Crystal Palace",
+  "awayLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
