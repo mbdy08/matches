@@ -128,11 +128,11 @@
   "homeLogo": "clubs/UEFA Europa League/italy_juventus_700x700.football-logos.cc.png",
   "awayTeam": "رين - Rennes",
   "awayLogo": "clubs/UEFA Europa League/france_rennes_700x700.football-logos.cc.png",
-  "time": "PM 7:45",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -146,7 +146,7 @@
   "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
   "awayTeam": "هارتس - Hearts",
   "awayLogo": "clubs/UEFA Conference League/scotland_hearts_700x700.football-logos.cc.png",
-  "time": "PM 7:45",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
