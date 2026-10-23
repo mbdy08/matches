@@ -150,21 +150,37 @@
 
 
 
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الهلال",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
+  "awayTeam": "القادسية",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-qadsiah_700x700.football-logos.cc.png",
+  "time": "PM 9:00",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "stream4k": ""
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الاهلي",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
+  "awayTeam": "الخليج",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-khaleej_700x700.football-logos.cc.png",
+  "time": "PM 9:00",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 ,{
@@ -186,38 +202,10 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الاهلي",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
-  "awayTeam": "الخليج",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-khaleej_700x700.football-logos.cc.png",
-  "time": "PM 9:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
 
 
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "القادسية",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-qadsiah_700x700.football-logos.cc.png",
-  "time": "PM 9:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
+
 
 
 ,{
