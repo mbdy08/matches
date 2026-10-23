@@ -150,21 +150,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الاتحاد",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
-  "awayTeam": "الدرعية",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_diriyah-club_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch3_sd/index.m3u8",
-  "stream4k": ""
-}
+
 
 
 
@@ -189,7 +175,7 @@
   "homeLogo": "clubs/دوري_نجوم_العراق/iraq_duhok-sc_700x700.football-logos.cc.png",
   "awayTeam": "كربلاء",
   "awayLogo": "clubs/دوري_نجوم_العراق/iraq_karbala-sc_700x700.football-logos.cc.png",
-  "time": "0 - 0",
+  "time": "1 - 1",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
@@ -284,6 +270,22 @@
   "stream4k": ""
 }
 
+
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الاتحاد",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
+  "awayTeam": "الدرعية",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_diriyah-club_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
