@@ -1,160 +1,8 @@
 ﻿[
 
+
 {
   "day": "yesterday",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "بورنموث - Bournemouth",
-  "awayLogo": "clubs/UEFA Europa League/england_bournemouth_700x700.football-logos.cc.png",
-  "time": "3 - 0",
-  "status": "أنتهت ",
-  "viewers": "237",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "بشكتاش - Beşiktaş",
-  "homeLogo": "clubs/Super_Lig/turkey_besiktas_700x700.football-logos.cc.png",
-  "awayTeam": "كريستال بالاس - Crystal Palace",
-  "awayLogo": "clubs/UEFA Europa League/england_crystal-palace_700x700.football-logos.cc.png",
-  "time": "2 - 2",
-  "status": "أنتهت ",
-  "viewers": "23",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "يوفينتوس - Juventus",
-  "homeLogo": "clubs/UEFA Europa League/italy_juventus_700x700.football-logos.cc.png",
-  "awayTeam": "رين - Rennes",
-  "awayLogo": "clubs/UEFA Europa League/france_rennes_700x700.football-logos.cc.png",
-  "time": "2 - 2",
-  "status": "أنتهت ",
-  "viewers": "234",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري المؤتمر الأوروبي",
-  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
-  "homeTeam": "طرابزون سبور - Trabzonspor",
-  "homeLogo": "clubs/UEFA Conference League/turkey_trabzonspor_700x700.football-logos.cc.png",
-  "awayTeam": "هارتس - Hearts",
-  "awayLogo": "clubs/UEFA Conference League/scotland_hearts_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت ",
-  "viewers": "534",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري المؤتمر الأوروبي",
-  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
-  "homeTeam": "برايتون -  Brighton",
-  "homeLogo": "clubs/UEFA Conference League/england_brighton_700x700.football-logos.cc.png",
-  "awayTeam": "يابونك - Jablonec",
-  "awayLogo": "clubs/UEFA Conference League/czech-republic_jablonec_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "  أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري نجوم العراق ",
-  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
-  "homeTeam": "القوة الجوية",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
-  "awayTeam": "الطلبة",
-  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-talaba_700x700.football-logos.cc.png",
-  "time": "1 - 0",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري نجوم العراق ",
-  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
-  "homeTeam": "أربيل",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_erbil-sc_700x700.football-logos.cc.png",
-  "awayTeam": "زاخو",
-  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_zakho-sc_700x700.football-logos.cc.png",
-  "time": "2 - 1",
-  "status": "أنتهت ",
-  "viewers": "32",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "ايبسويتش - Ipswich",
@@ -169,7 +17,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري روشن السعودي   ",
   "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
   "homeTeam": "الاهلي",
@@ -186,21 +34,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري روشن السعودي   ",
   "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
   "homeTeam": "الهلال",
@@ -216,7 +51,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري روشن السعودي   ",
   "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
   "homeTeam": "النصر",
@@ -232,7 +67,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري نجوم العراق ",
   "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
   "homeTeam": "الزوراء",
@@ -249,7 +84,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري روشن السعودي   ",
   "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
   "homeTeam": "الاتحاد",
@@ -264,7 +99,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري نجوم العراق ",
   "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
   "homeTeam": "دهوك",
@@ -302,7 +137,7 @@
 
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "مان سيتي - Man City",
@@ -312,14 +147,14 @@
   "time": "PM 2:30",
   "status": "لم تبدأ بعد",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "stream4k": "https://toto9.b-cdn.net/live/ch1_4k/index.m3u8"
 }
 
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "كومو - Como",
@@ -335,7 +170,7 @@
 }
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "أرسنال - Arsenal",
@@ -353,7 +188,7 @@
 
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "كوفنتري - Coventry",
@@ -373,7 +208,7 @@
 
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "روما - Roma",
@@ -390,7 +225,7 @@
 
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الألماني",
   "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
   "homeTeam": "دورتموند - Dortmund",
@@ -406,7 +241,7 @@
 }
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "تشيلسي - Chelsea",
@@ -424,7 +259,7 @@
 
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "دوري أبطال أفريقيا",
   "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
   "homeTeam": "الزمالك - Zamalek",
@@ -440,7 +275,7 @@
 }
 
 ,{
-  "day": "tomorrow",
+  "day": "today",
   "league": "الدوري الاسباني",
   "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
   "homeTeam": "أتلتيكو مدريد - Atletico Madrid",
