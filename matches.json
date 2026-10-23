@@ -161,7 +161,7 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
   "awayTeam": "الفيصلي",
   "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-faisaly-fc_700x700.football-logos.cc.png",
-  "time": "PM 4:30",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
@@ -179,9 +179,9 @@
   "awayTeam": "الشرطة",
   "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-shorta_700x700.football-logos.cc.png",
   "time": "PM 5:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
