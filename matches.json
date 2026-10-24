@@ -153,21 +153,7 @@
   "stream4k": ""
 }
 
-,{
-  "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "كومو - Como",
-  "homeLogo": "clubs/serie_A/italy_como-1907_700x700.football-logos.cc.png",
-  "awayTeam": "ساسولو - Sassuolo",
-  "awayLogo": "clubs/serie_A/italy_sassuolo_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "3",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 
 
@@ -291,7 +277,21 @@
   "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "كومو - Como",
+  "homeLogo": "clubs/serie_A/italy_como-1907_700x700.football-logos.cc.png",
+  "awayTeam": "ساسولو - Sassuolo",
+  "awayLogo": "clubs/serie_A/italy_sassuolo_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت ",
+  "viewers": "3",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
