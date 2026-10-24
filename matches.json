@@ -152,29 +152,6 @@
 
 ,{
   "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "روما - Roma",
-  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
-  "awayTeam": "نابولي - Napoli",
-  "awayLogo": "clubs/serie_A/italy_napoli_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "269",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
   "league": "الدوري الألماني",
   "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
   "homeTeam": "دورتموند - Dortmund",
@@ -270,7 +247,21 @@
   "stream4k": ""
 }
 
-
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "روما - Roma",
+  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
+  "awayTeam": "نابولي - Napoli",
+  "awayLogo": "clubs/serie_A/italy_napoli_700x700.football-logos.cc.png",
+  "time": "3 - 3",
+  "status": "أنتهت ",
+  "viewers": "269",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
