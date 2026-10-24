@@ -136,49 +136,6 @@
 
 
 
-
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "ايفرتون - Everton",
-  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "89",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "كوفنتري - Coventry",
-  "homeLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
-  "awayTeam": "فولهام - Fulham",
-  "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch3_sd/index.m3u8",
-  "stream4k": ""
-}
-
-
-
-
-
 ,{
   "day": "today",
   "league": "الدوري الايطالي",
@@ -187,13 +144,19 @@
   "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
   "awayTeam": "نابولي - Napoli",
   "awayLogo": "clubs/serie_A/italy_napoli_700x700.football-logos.cc.png",
-  "time": "PM 7:00",
+  "time": "0 - 0",
   "status": "بث مباشر",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
+
+
+
 
 
 ,{
@@ -293,6 +256,37 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "ايفرتون - Everton",
+  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت ",
+  "viewers": "89",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "كوفنتري - Coventry",
+  "homeLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
+  "awayTeam": "فولهام - Fulham",
+  "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
+  "time": "1 - 0",
+  "status": "أنتهت ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
