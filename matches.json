@@ -18,7 +18,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "تشيلسي - Chelsea",
@@ -34,7 +34,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الألماني",
   "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
   "homeTeam": "دورتموند - Dortmund",
@@ -54,7 +54,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "مان سيتي - Man City",
@@ -69,7 +69,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "كومو - Como",
@@ -85,7 +85,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "أرسنال - Arsenal",
@@ -101,7 +101,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "كوفنتري - Coventry",
@@ -117,7 +117,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "روما - Roma",
@@ -162,7 +162,7 @@
   "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
   "awayTeam": "نيويورك سيتي - New York City",
   "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-york-city-fc_700x700.football-logos.cc.png",
-  "time": "AM 2:30",
+  "time": "AM 12:30",
   "status": "لم تبدأ بعد",
   "viewers": "12",
   "streamHd": "",
