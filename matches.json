@@ -134,7 +134,21 @@
 
 
 
-
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "تشيلسي - Chelsea",
+  "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
+  "awayTeam": "توتنهام - Tottenham",
+  "awayLogo": "clubs/premier_league/england_tottenham_700x700.football-logos.cc.png",
+  "time": "0 - 0",
+  "status": "بث مباشر",
+  "viewers": "645",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "stream4k": ""
+}
 
 ,{
   "day": "today",
@@ -153,21 +167,7 @@
 }
 
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "تشيلسي - Chelsea",
-  "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
-  "awayTeam": "توتنهام - Tottenham",
-  "awayLogo": "clubs/premier_league/england_tottenham_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
-  "viewers": "645",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": ""
-}
+
 
 
 
