@@ -132,7 +132,21 @@
 
 
 
-
+,{
+  "day": "today",
+  "league": "الدوري الاسباني",
+  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
+  "homeTeam": "أتلتيكو مدريد - Atletico Madrid",
+  "homeLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
+  "awayTeam": "لاكورونيا - La Coruna",
+  "awayLogo": "clubs/laliga/spain_deportivo-la-coruna_700x700.football-logos.cc.png",
+  "time": "PM 10:00",
+  "status": "بث مباشر",
+  "viewers": "46",
+  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
+  "stream4k": ""
+}
 
 ,{
   "day": "today",
@@ -142,11 +156,11 @@
   "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
   "awayTeam": "توتنهام - Tottenham",
   "awayLogo": "clubs/premier_league/england_tottenham_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر",
+  "time": "2 - 0",
+  "status": "أنتهت ",
   "viewers": "645",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -159,30 +173,16 @@
   "awayTeam": "فرانكفورت - Frankfurt",
   "awayLogo": "clubs/Bundesliga/germany_eintracht-frankfurt_700x700.football-logos.cc.png",
   "time": "0 - 0",
-  "status": "بث مباشر",
+  "status": "أنتهت ",
   "viewers": "47",
-  "streamHd": "https://toto9.b-cdn.net/live/ch5_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch5_sd/index.m3u8",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "today",
-  "league": "الدوري الاسباني",
-  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
-  "homeTeam": "أتلتيكو مدريد - Atletico Madrid",
-  "homeLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
-  "awayTeam": "لاكورونيا - La Coruna",
-  "awayLogo": "clubs/laliga/spain_deportivo-la-coruna_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
+
 
 ,{
   "day": "today",
