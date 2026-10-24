@@ -3,148 +3,17 @@
 
 {
   "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "ايبسويتش - Ipswich",
-  "homeLogo": "clubs/premier_league/england_ipswich_700x700.football-logos.cc.png",
-  "awayTeam": "نوتينغام - Nottingham",
-  "awayLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
-  "time": "1 - 1",
-  "status": "أنتهت ",
-  "viewers": "7",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الاهلي",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
-  "awayTeam": "الخليج",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-khaleej_700x700.football-logos.cc.png",
-  "time": "1 - 4",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "القادسية",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-qadsiah_700x700.football-logos.cc.png",
-  "time": "2 - 3",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "النصر",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
-  "awayTeam": "الفيصلي",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-faisaly-fc_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت ",
-  "viewers": "873",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "دوري نجوم العراق ",
-  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
-  "homeTeam": "الزوراء",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-zawraa_700x700.football-logos.cc.png",
-  "awayTeam": "الشرطة",
-  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-shorta_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت ",
-  "viewers": "4",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الاتحاد",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
-  "awayTeam": "الدرعية",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_diriyah-club_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "دوري نجوم العراق ",
-  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
-  "homeTeam": "دهوك",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_duhok-sc_700x700.football-logos.cc.png",
-  "awayTeam": "كربلاء",
-  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_karbala-sc_700x700.football-logos.cc.png",
-  "time": "2 - 5",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
   "league": "الدوري الاسباني",
   "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
   "homeTeam": "أتلتيكو مدريد - Atletico Madrid",
   "homeLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
   "awayTeam": "لاكورونيا - La Coruna",
   "awayLogo": "clubs/laliga/spain_deportivo-la-coruna_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "بث مباشر",
+  "time": "0 - 1",
+  "status": "أنتهت ",
   "viewers": "46",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch2_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -273,6 +142,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "MLS",
+  "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
+  "homeTeam": "انتر ميامي - Inter Miami",
+  "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
+  "awayTeam": "نيويورك سيتي - New York City",
+  "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-york-city-fc_700x700.football-logos.cc.png",
+  "time": "AM 2:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 ]
