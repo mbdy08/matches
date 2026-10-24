@@ -136,22 +136,22 @@
 
 
 
+
 ,{
   "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
-  "awayTeam": "أستون فيلا - Aston Villa",
-  "awayLogo": "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
-  "time": "0 - 0",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "ايفرتون - Everton",
+  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+  "time": "PM 5:00",
   "status": "بث مباشر",
-  "viewers": "83",
+  "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
   "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
   "stream4k": "https://toto9.b-cdn.net/live/ch1_4k/index.m3u8"
 }
-
 
 ,{
   "day": "today",
@@ -169,21 +169,7 @@
   "stream4k": ""
 }
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "ايفرتون - Everton",
-  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
-  "time": "PM 5:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 
 
@@ -290,6 +276,21 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "أستون فيلا - Aston Villa",
+  "awayLogo": "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
+  "time": "2 - 1",
+  "status": "أنتهت ",
+  "viewers": "83",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
