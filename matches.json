@@ -137,7 +137,21 @@
 
 
 
-
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "ايفرتون - Everton",
+  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+  "time": "0 - 0",
+  "status": "بث مباشر",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
+  "stream4k": "https://toto9.b-cdn.net/live/ch1_4k/index.m3u8"
+}
 
 ,{
   "day": "today",
@@ -155,21 +169,7 @@
   "stream4k": ""
 }
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "ايفرتون - Everton",
-  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
-  "time": "PM 5:00",
-  "status": "بث مباشر",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": "https://toto9.b-cdn.net/live/ch1_4k/index.m3u8"
-}
+
 
 
 
@@ -181,7 +181,7 @@
   "homeLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
   "awayTeam": "فولهام - Fulham",
   "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
-  "time": "PM 5:00",
+  "time": "0 - 0",
   "status": "بث مباشر",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
