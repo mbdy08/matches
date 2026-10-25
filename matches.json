@@ -162,10 +162,10 @@
   "awayTeam": "بورنموث - Bournemouth",
   "awayLogo": "clubs/premier_league/england_bournemouth_700x700.football-logos.cc.png",
   "time": "PM 5:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -178,9 +178,9 @@
   "awayTeam": "برايتون - Brighton",
   "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
   "time": "PM 5:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -194,9 +194,9 @@
   "awayTeam": "نيوكاسل - Newcastle",
   "awayLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
   "time": "PM 5:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
