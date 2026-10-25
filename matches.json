@@ -153,69 +153,13 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان يونايتد - Man United",
-  "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
-  "awayTeam": "بورنموث - Bournemouth",
-  "awayLogo": "clubs/premier_league/england_bournemouth_700x700.football-logos.cc.png",
-  "time": "0-  0",
-  "status": "بث مباشر  ",
-  "viewers": "432",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": ""
-}
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "ليفربول - Liverpool",
-  "homeLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
-  "awayTeam": "برايتون - Brighton",
-  "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "354",
-  "streamHd": "https://toto9.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "كريستال بالاس - Crystal Palace",
-  "homeLogo": "clubs/premier_league/england_crystal-palace_700x700.football-logos.cc.png",
-  "awayTeam": "نيوكاسل - Newcastle",
-  "awayLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "54",
-  "streamHd": "https://toto9.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
 
-,{
-  "day": "today",
-  "league": "MLS",
-  "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
-  "homeTeam": "انتر ميامي - Inter Miami",
-  "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
-  "awayTeam": "نيويورك ريدبول - New York Red Bulls",
-  "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-york-red-bulls_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت ",
-  "viewers": "173",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
+
+
+
 
 
 ,{
@@ -227,10 +171,10 @@
   "awayTeam": "فرايبورج - Freiburg",
   "awayLogo": "clubs/Bundesliga/germany_freiburg_700x700.football-logos.cc.png",
   "time": "PM 7:30",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
   "stream4k": ""
 }
 
@@ -249,7 +193,65 @@
   "streamSd": "",
   "stream4k": ""
 }
-
-
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان يونايتد - Man United",
+  "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
+  "awayTeam": "بورنموث - Bournemouth",
+  "awayLogo": "clubs/premier_league/england_bournemouth_700x700.football-logos.cc.png",
+  "time": "3 - 0",
+  "status": "بث مباشر  ",
+  "viewers": "432",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "ليفربول - Liverpool",
+  "homeLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
+  "awayTeam": "برايتون - Brighton",
+  "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت ",
+  "viewers": "354",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "كريستال بالاس - Crystal Palace",
+  "homeLogo": "clubs/premier_league/england_crystal-palace_700x700.football-logos.cc.png",
+  "awayTeam": "نيوكاسل - Newcastle",
+  "awayLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
+  "time": "2 - 0",
+  "status": "أنتهت ",
+  "viewers": "54",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "MLS",
+  "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
+  "homeTeam": "انتر ميامي - Inter Miami",
+  "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
+  "awayTeam": "نيويورك ريدبول - New York Red Bulls",
+  "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-york-red-bulls_700x700.football-logos.cc.png",
+  "time": "2 - 0",
+  "status": "أنتهت ",
+  "viewers": "173",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ]
