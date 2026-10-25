@@ -162,21 +162,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الألماني",
-  "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
-  "homeTeam": "بايرن ميونخ - Bayern Munich",
-  "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
-  "awayTeam": "فرايبورج - Freiburg",
-  "awayLogo": "clubs/Bundesliga/germany_freiburg_700x700.football-logos.cc.png",
-  "time": "PM 7:30",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": ""
-}
+
 
 ,{
   "day": "today",
@@ -187,7 +173,24 @@
   "awayTeam": "ريال مدريد - Real Madrid",
   "awayLogo": "clubs/laliga/spain_real-madrid_700x700.football-logos.cc.png",
   "time": "PM 11:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://toto9.b-cdn.net/live/ch9_hd/index.m3u8",
+  "streamSd": "https://toto9.b-cdn.net/live/ch9_sd/index.m3u8",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "الدوري الألماني",
+  "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
+  "homeTeam": "بايرن ميونخ - Bayern Munich",
+  "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
+  "awayTeam": "فرايبورج - Freiburg",
+  "awayLogo": "clubs/Bundesliga/germany_freiburg_700x700.football-logos.cc.png",
+  "time": "1 - 3",
+  "status": "أنتهت ",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
