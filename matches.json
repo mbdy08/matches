@@ -154,6 +154,7 @@
 
 
 
+
 ,{
   "day": "today",
   "league": "MLS",
@@ -170,20 +171,5 @@
   "stream4k": ""
 }
 
-,{
-  "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "انتر - Inter",
-  "homeLogo": "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
-  "awayTeam": "فيورنتينا - Fiorentina",
-  "awayLogo": "clubs/serie_A/italy_fiorentina_700x700.football-logos.cc.png",
-  "time": "PM 2:30",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed11/Mohamed11/127.ts",
-  "streamSd": "",
-  "stream4k": ""
-}
 
 ]
