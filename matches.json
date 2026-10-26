@@ -130,8 +130,8 @@
   "status": "بث مباشر  ",
   "viewers": "536",
   "streamHd": "https://ouou1.b-cdn.net/live/ch10_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
+  "streamSd": "https://ouou1.b-cdn.net/live/ch10_sd/index.m3u8",
+  "stream4k": "https://ouou1.b-cdn.net/live/ch10_4k/index.m3u8"
 }
 
 
