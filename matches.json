@@ -119,12 +119,12 @@
 
 ,{
   "day": "today",
-  "league": "دوري أبطال أفريقيا",
-  "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "الاتحاد - Al Ittihad",
-  "homeLogo": "",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
   "awayTeam": "نيفتشي - Neftchi",
-  "awayLogo": "",
+  "awayLogo": "clubs/AFC Champions League Elite/uzbekistan_neftchi-fergana_700x700.football-logos.cc.png",
   "time": "PM 4:45",
   "status": "لم تبدأ بعد",
   "viewers": "12",
