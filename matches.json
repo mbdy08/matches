@@ -118,7 +118,21 @@
 
 
 
-
+,{
+  "day": "today",
+  "league": "حفل الكرة الذهبية ",
+  "leagueLogo": "clubs/AFC Champions League Elite/images.jpg",
+  "homeTeam": "كرة الذهبية للرجال",
+  "homeLogo": "clubs/AFC Champions League Elite/images.jpg",
+  "awayTeam": "كرة الذهبية للنساء",
+  "awayLogo": "clubs/AFC Champions League Elite/images.jpg",
+  "time": "حي",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch10_hd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 ,{
