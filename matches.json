@@ -152,6 +152,39 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "Super Lig",
+  "leagueLogo": "clubs/Super_Lig/turkey_super-lig_700x700.football-logos.cc.png",
+  "homeTeam": "غلطة سراي - Galatasaray",
+  "homeLogo": "clubs/Super_Lig/turkey_galatasaray_700x700.football-logos.cc.png",
+  "awayTeam": "فنربخشة - Fenerbahçe",
+  "awayLogo": "clubs/Super_Lig/turkey_fenerbahce_700x700.football-logos.cc.png",
+  "time": "PM 9:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "الدوري الفرنسي",
+  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
+  "homeTeam": "باريس - PSG",
+  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
+  "awayTeam": "ليون - Lyon",
+  "awayLogo": "clubs/Ligue_1/france_lyon_700x700.football-logos.cc.png",
+  "time": "PM 10:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 
 ,{
   "day": "today",
