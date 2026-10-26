@@ -125,11 +125,11 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
   "awayTeam": "نيفتشي - Neftchi",
   "awayLogo": "clubs/AFC Champions League Elite/uzbekistan_neftchi-fergana_700x700.football-logos.cc.png",
-  "time": "PM 4:45",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://toto9.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "",
+  "streamSd": "https://toto9.b-cdn.net/live/ch1_sd/index.m3u8",
   "stream4k": ""
 }
 
