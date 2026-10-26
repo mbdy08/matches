@@ -137,6 +137,22 @@
 
 ,{
   "day": "today",
+  "league": "الدوري الفرنسي",
+  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
+  "homeTeam": "باريس - PSG",
+  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
+  "awayTeam": "ليون - Lyon",
+  "awayLogo": "clubs/Ligue_1/france_lyon_700x700.football-logos.cc.png",
+  "time": "PM 10:30",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
   "league": "دوري أبطال اسيا للنخبة",
   "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "القوة الجوية - Al Quwa Al Jawiya",
@@ -168,21 +184,7 @@
 }
 
 
-,{
-  "day": "today",
-  "league": "الدوري الفرنسي",
-  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
-  "homeTeam": "باريس - PSG",
-  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
-  "awayTeam": "ليون - Lyon",
-  "awayLogo": "clubs/Ligue_1/france_lyon_700x700.football-logos.cc.png",
-  "time": "PM 10:30",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 ,{
   "day": "today",
