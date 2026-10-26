@@ -119,21 +119,6 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الأهلي - Al Ahli",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
-  "awayTeam": "الغرافة - Al Gharafa",
-  "awayLogo": "clubs/AFC Champions League Elite/qatar_al-gharafa_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
 
 
 ,{
@@ -179,6 +164,22 @@
   "awayLogo": "clubs/Ligue_1/france_lyon_700x700.football-logos.cc.png",
   "time": "PM 10:30",
   "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري أبطال اسيا للنخبة",
+  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
+  "homeTeam": "الأهلي - Al Ahli",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
+  "awayTeam": "الغرافة - Al Gharafa",
+  "awayLogo": "clubs/AFC Champions League Elite/qatar_al-gharafa_700x700.football-logos.cc.png",
+  "time": "1 - 2",
+  "status": "أنتهت ",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
