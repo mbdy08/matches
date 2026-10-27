@@ -141,7 +141,7 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
   "awayTeam": "الشمال - Al Shamal",
   "awayLogo": "clubs/AFC Champions League Elite/qatar_al-shamal_700x700.football-logos.cc.png",
-  "time": "0 - 0",
+  "time": "1 - 3",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
@@ -161,7 +161,7 @@
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch2_sd/index.m3u8",
+  "streamSd": "",
   "stream4k": ""
 }
 
