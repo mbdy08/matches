@@ -131,7 +131,21 @@
 
 
 
-
+,{
+  "day": "today",
+  "league":"كأس الرابطة الانجليزية ",
+  "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/EFL Cup/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "فليتوود تاون - Fleetwood",
+  "awayLogo": "clubs/EFL Cup/england_fleetwood-town_700x700.football-logos.cc.png",
+  "time": "0 - 0",
+  "status": "بث مباشر  ",
+  "viewers": "12",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch5_hd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
 ,{
   "day": "today",
   "league": "الدوري الايطالي",
@@ -199,21 +213,7 @@
 
 
 
-,{
-  "day": "today",
-  "league":"كأس الرابطة الانجليزية ",
-  "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/EFL Cup/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "فليتوود تاون - Fleetwood",
-  "awayLogo": "clubs/EFL Cup/england_fleetwood-town_700x700.football-logos.cc.png",
-  "time": "PM 11:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 
 
