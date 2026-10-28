@@ -1,105 +1,6 @@
 ﻿[
-
 {
   "day": "yesterday",
-  "league":"كأس الرابطة الانجليزية ",
-  "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/EFL Cup/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "فليتوود تاون - Fleetwood",
-  "awayLogo": "clubs/EFL Cup/england_fleetwood-town_700x700.football-logos.cc.png",
-  "time": "WIN 1 - 1  ",
-  "status": "أنتهت ",
-  "viewers": "65",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "روما - Roma",
-  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
-  "awayTeam": "كالياري - Cagliari",
-  "awayLogo": "clubs/serie_A/italy_cagliari_700x700.football-logos.cc.png",
-  "time": "2 - 4",
-  "status": "أنتهت ",
-  "viewers": "84",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الألماني",
-  "leagueLogo": "clubs/DFB-Pokal/germany_dfb-pokal_700x700.football-logos.cc.png",
-  "homeTeam": "دورتموند - Dortmund",
-  "homeLogo": "clubs/Bundesliga/germany_borussia-dortmund_700x700.football-logos.cc.png",
-  "awayTeam": "فيردر يريمن - Bremen",
-  "awayLogo": "clubs/Bundesliga/germany_werder-bremen_700x700.football-logos.cc.png",
-  "time": "2 - 3",
-  "status": "أنتهت ",
-  "viewers": "8",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال - Al Hilal",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "الشمال - Al Shamal",
-  "awayLogo": "clubs/AFC Champions League Elite/qatar_al-shamal_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا 2",
-  "leagueLogo": "clubs/AFC Champions League Two/tournaments_afc-champions-league-two_700x700.football-logos.cc.png",
-  "homeTeam": "الحسين - Al Hussein",
-  "homeLogo": "clubs/AFC Champions League Two/jordan_al-hussein-irbid_700x700.football-logos.cc.png",
-  "awayTeam": "الشرطة - Al Shorta",
-  "awayLogo": "clubs/AFC Champions League Two/iraq_al-shorta_700x700.football-logos.cc.png",
-  "time": "1 - 1",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
   "league":"كأس الرابطة الانجليزية ",
   "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
   "homeTeam": "ليفربول - Liverpool",
@@ -115,7 +16,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league":"كأس الرابطة الانجليزية ",
   "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
   "homeTeam": "مان سيتي - Man City",
@@ -137,7 +38,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "يوفينتوس - Juventus",
@@ -153,7 +54,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league":"كأس ألمانيا   ",
   "leagueLogo": "clubs/DFB-Pokal/germany_dfb-pokal_700x700.football-logos.cc.png",
   "homeTeam": "بايرن ميونخ - Bayern Munich",
@@ -172,7 +73,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "انتر - Inter",
@@ -187,7 +88,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "ميلان - AC Milan",
@@ -203,5 +104,47 @@
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "MLS",
+  "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
+  "homeTeam": "انتر ميامي - Inter Miami",
+  "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
+  "awayTeam": "سينسيناتي - Cincinnati",
+  "awayLogo": "clubs/MLS-Major_League_Soccer/usa_fc-cincinnati_700x700.football-logos.cc.png",
+  "time": "AM 2:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ]
