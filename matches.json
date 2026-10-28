@@ -107,9 +107,9 @@
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
   "awayTeam": "بولونيا - Bologna",
-  "awayLogo": "",
+  "awayLogo": "clubs/serie_A/italy_bologna_700x700.football-logos.cc.png",
   "time": "PM 8:30",
   "status": "لم تبدأ بعد",
   "viewers": "12",
@@ -123,9 +123,9 @@
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "انتر - Inter",
-  "homeLogo": "",
-  "awayTeam": "",
-  "awayLogo": "",
+  "homeLogo": "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
+  "awayTeam": "فينيسا - Venezia",
+  "awayLogo": "clubs/serie_A/italy_venezia_700x700.football-logos.cc.png",
   "time": "PM 8:30",
   "status": "لم تبدأ بعد",
   "viewers": "12",
@@ -138,11 +138,11 @@
   "day": "today",
   "league":"كأس الرابطة الانجليزية ",
   "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
-  "homeTeam": "",
-  "homeLogo": "",
-  "awayTeam": "",
-  "awayLogo": "",
-  "time": "PM 7:00",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "برايتون - Brighton",
+  "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
+  "time": "PM 10:45",
   "status": "لم تبدأ بعد",
   "viewers": "12",
   "streamHd": "",
@@ -150,6 +150,21 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "يوفينتوس - Juventus",
+  "homeLogo": "",
+  "awayTeam": "جنوى - Genoa",
+  "awayLogo": "",
+  "time": "PM 10:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
