@@ -106,10 +106,10 @@
   "homeLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
   "awayTeam": "تشيلسي - Chelsea",
   "awayLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 1 WIN",
+  "status": "أنتهت ",
   "viewers": "1835",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -122,10 +122,10 @@
   "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
   "awayTeam": "برايتون - Brighton",
   "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 2 WIN",
+  "status": "أنتهت ",
   "viewers": "835",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -144,10 +144,10 @@
   "homeLogo": "clubs/serie_A/italy_juventus_700x700.football-logos.cc.png",
   "awayTeam": "جنوى - Genoa",
   "awayLogo": "clubs/serie_A/italy_genoa_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 0",
+  "status": "أنتهت ",
   "viewers": "35",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -160,10 +160,10 @@
   "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
   "awayTeam": "مجدبرج - Magdeburg",
   "awayLogo": "clubs/DFB-Pokal/germany_1-fc-magdeburg_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 6",
+  "status": "أنتهت ",
   "viewers": "46",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch5_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
