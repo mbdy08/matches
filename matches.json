@@ -138,7 +138,21 @@
   "stream4k": ""
 }
 
-
+,{
+  "day": "today",
+  "league":"كأس ألمانيا   ",
+  "leagueLogo": "clubs/DFB-Pokal/germany_dfb-pokal_700x700.football-logos.cc.png",
+  "homeTeam": "بايرن ميونخ - Bayern Munich",
+  "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
+  "awayTeam": "مجدبرج - Magdeburg",
+  "awayLogo": "clubs/DFB-Pokal/germany_1-fc-magdeburg_700x700.football-logos.cc.png",
+  "time": "PM 10:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ,{
   "day": "today",
@@ -170,5 +184,7 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+
 
 ]
