@@ -100,26 +100,6 @@
 
 
 
-
-
-,{
-  "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "بولونيا - Bologna",
-  "awayLogo": "clubs/serie_A/italy_bologna_700x700.football-logos.cc.png",
-  "time": "4 - 2",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
 ,{
   "day": "today",
   "league":"كأس الرابطة الانجليزية ",
@@ -128,13 +108,19 @@
   "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
   "awayTeam": "برايتون - Brighton",
   "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
-  "time": "PM 10:30",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
   "viewers": "12",
   "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
+
+
+
 
 ,{
   "day": "today",
@@ -169,6 +155,20 @@
   "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "بولونيا - Bologna",
+  "awayLogo": "clubs/serie_A/italy_bologna_700x700.football-logos.cc.png",
+  "time": "4 - 2",
+  "status": "أنتهت ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ]
