@@ -140,9 +140,9 @@
   "awayTeam": "سينسيناتي - Cincinnati",
   "awayLogo": "clubs/MLS-Major_League_Soccer/usa_fc-cincinnati_700x700.football-logos.cc.png",
   "time": "AM 2:30",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://panel.tofi-xtv.com:443/live/Mohamed11/Mohamed11/125.ts",
   "streamSd": "",
   "stream4k": ""
 }
