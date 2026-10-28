@@ -2,137 +2,6 @@
 
 {
   "day": "yesterday",
-  "league": "حفل الكرة الذهبية ",
-  "leagueLogo": "clubs/AFC Champions League Elite/1793039418396.png",
-  "homeTeam": "هاري كين",
-  "homeLogo": "clubs/AFC Champions League Elite/1793039418396.png",
-  "awayTeam": "هاري كين",
-  "awayLogo": "clubs/AFC Champions League Elite/1793039418396.png",
-  "time": "هاري كين",
-  "status": "أنتهت ",
-  "viewers": "536",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الفرنسي",
-  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
-  "homeTeam": "باريس - PSG",
-  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
-  "awayTeam": "ليون - Lyon",
-  "awayLogo": "clubs/Ligue_1/france_lyon_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت ",
-  "viewers": "124",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-,{
-  "day": "yesterday",
-  "league": "Super Lig",
-  "leagueLogo": "clubs/Super_Lig/turkey_super-lig_700x700.football-logos.cc.png",
-  "homeTeam": "غلطة سراي - Galatasaray",
-  "homeLogo": "clubs/Super_Lig/turkey_galatasaray_700x700.football-logos.cc.png",
-  "awayTeam": "فنربخشة - Fenerbahçe",
-  "awayLogo": "clubs/Super_Lig/turkey_fenerbahce_700x700.football-logos.cc.png",
-  "time": "1 - 2",
-  "status": "أنتهت ",
-  "viewers": "64",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "القوة الجوية - Al Quwa Al Jawiya",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
-  "awayTeam": "باختاكور - Pakhtakor",
-  "awayLogo": "clubs/AFC Champions League Elite/uzbekistan_pakhtakor_700x700.football-logos.cc.png",
-  "time": "0 - 1",
-  "status": "أنتهت ",
-  "viewers": "26",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الأهلي - Al Ahli",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
-  "awayTeam": "الغرافة - Al Gharafa",
-  "awayLogo": "clubs/AFC Champions League Elite/qatar_al-gharafa_700x700.football-logos.cc.png",
-  "time": "1 - 2",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري أبطال اسيا للنخبة",
-  "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
-  "homeTeam": "الاتحاد - Al Ittihad",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
-  "awayTeam": "نيفتشي - Neftchi",
-  "awayLogo": "clubs/AFC Champions League Elite/uzbekistan_neftchi-fergana_700x700.football-logos.cc.png",
-  "time": "1 - 2",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
   "league":"كأس الرابطة الانجليزية ",
   "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
   "homeTeam": "أرسنال - Arsenal",
@@ -147,7 +16,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "روما - Roma",
@@ -164,7 +33,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الألماني",
   "leagueLogo": "clubs/DFB-Pokal/germany_dfb-pokal_700x700.football-logos.cc.png",
   "homeTeam": "دورتموند - Dortmund",
@@ -179,7 +48,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال اسيا للنخبة",
   "leagueLogo": "clubs/AFC Champions League Elite/tournaments_afc-champions-league-elite_700x700.football-logos.cc.png",
   "homeTeam": "الهلال - Al Hilal",
@@ -195,7 +64,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري أبطال اسيا 2",
   "leagueLogo": "clubs/AFC Champions League Two/tournaments_afc-champions-league-two_700x700.football-logos.cc.png",
   "homeTeam": "الحسين - Al Hussein",
@@ -211,6 +80,59 @@
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "",
+  "awayTeam": "بولونيا - Bologna",
+  "awayLogo": "",
+  "time": "PM 8:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "انتر - Inter",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 8:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 
 
