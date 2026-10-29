@@ -130,41 +130,6 @@
 
 
 
-
-
-,{
-  "day": "today",
-  "league": "كأس الخليج تحت 17 سنة ",
-  "leagueLogo": "",
-  "homeTeam": "العراق",
-  "homeLogo": "clubs/Gulf_cap_un17/logo_Gulf_cap.png",
-  "awayTeam": "السعودية",
-  "awayLogo": "clubs/Khaleeji_27/Flag_of_Saudi_Arabia.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "72",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "today",
-  "league": "دوري نجوم العراق ",
-  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
-  "homeTeam": "القوة الجوية",
-  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
-  "awayTeam": "الميناء",
-  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-minaa_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
 ,{
   "day": "today",
   "league": "دوري روشن السعودي   ",
@@ -173,13 +138,18 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
   "awayTeam": "الخلود",
   "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-kholood_700x700.football-logos.cc.png",
-  "time": "PM 9:00",
+  "time": "2 - 2",
   "status": " بث مباشر ",
   "viewers": "12",
   "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
+
+
 
 ,{
   "day": "today",
@@ -211,4 +181,37 @@
   "streamSd": "",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "كأس الخليج تحت 17 سنة ",
+  "leagueLogo": "",
+  "homeTeam": "العراق",
+  "homeLogo": "clubs/Gulf_cap_un17/logo_Gulf_cap.png",
+  "awayTeam": "السعودية",
+  "awayLogo": "clubs/Khaleeji_27/Flag_of_Saudi_Arabia.png",
+  "time": "1 - 0",
+  "status": "أنتهت ",
+  "viewers": "72",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري نجوم العراق ",
+  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
+  "homeTeam": "القوة الجوية",
+  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
+  "awayTeam": "الميناء",
+  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-minaa_700x700.football-logos.cc.png",
+  "time": "0 - 0",
+  "status": "أنتهت ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
 ]
