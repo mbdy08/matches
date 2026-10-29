@@ -129,28 +129,6 @@
 
 
 
-
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "النصر",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
-  "awayTeam": "الخلود",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-kholood_700x700.football-logos.cc.png",
-  "time": "2 - 2",
-  "status": " بث مباشر ",
-  "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
 ,{
   "day": "today",
   "league":"كأس الرابطة الانجليزية ",
@@ -159,13 +137,35 @@
   "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
   "awayTeam": "ايفرتون - Everton",
   "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
-  "time": "PM 10:45",
+  "time": "0 - 0",
   "status": " بث مباشر ",
   "viewers": "12",
   "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "النصر",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
+  "awayTeam": "الخلود",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-kholood_700x700.football-logos.cc.png",
+  "time": "3 - 5",
+  "status": "  أنتهت ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
 ,{
   "day": "today",
   "league": "MLS",
