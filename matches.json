@@ -160,9 +160,9 @@
   "awayTeam": "ايفرتون - Everton",
   "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
   "time": "PM 10:45",
-  "status": "لم تبدأ بعد",
+  "status": " بث مباشر ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
