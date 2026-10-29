@@ -146,5 +146,69 @@
   "streamSd": "",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "كأس الخليج تحت 17 سنة ",
+  "leagueLogo": "",
+  "homeTeam": "العراق",
+  "homeLogo": "",
+  "awayTeam": "السعودية",
+  "awayLogo": "",
+  "time": "PM 5:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري نجوم العراق ",
+  "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
+  "homeTeam": "القوة الجوية",
+  "homeLogo": "clubs/دوري_نجوم_العراق/iraq_al-quwa-al-jawiya_700x700.football-logos.cc.png",
+  "awayTeam": "الميناء",
+  "awayLogo": "clubs/دوري_نجوم_العراق/iraq_al-minaa_700x700.football-logos.cc.png",
+  "time": "PM 6:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "النصر",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-nassr_700x700.football-logos.cc.png",
+  "awayTeam": "الخلود",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-kholood_700x700.football-logos.cc.png",
+  "time": "PM 9:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league":"كأس الرابطة الانجليزية ",
+  "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
+  "homeTeam": "نيوكاسل - Newcastle",
+  "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
+  "awayTeam": "ايفرتون - Everton",
+  "awayLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+  "time": "PM 10:45",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ]
