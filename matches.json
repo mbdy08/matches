@@ -174,9 +174,9 @@
   "awayTeam": "الخلود",
   "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-kholood_700x700.football-logos.cc.png",
   "time": "PM 9:00",
-  "status": "لم تبدأ بعد",
+  "status": " بث مباشر ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
