@@ -114,21 +114,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الاتحاد",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
-  "awayTeam": "أبها",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_abha_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": ""
-}
+
 
 ,{
   "day": "today",
@@ -156,6 +142,39 @@
   "awayLogo": "clubs/Ligue_1/france_le-havre-ac_700x700.football-logos.cc.png",
   "time": "PM 9:00",
   "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الاهلي",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
+  "awayTeam": "الشباب",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-shabab_700x700.football-logos.cc.png",
+  "time": "PM 9:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الاتحاد",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
+  "awayTeam": "أبها",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_abha_700x700.football-logos.cc.png",
+  "time": "1 - 1",
+  "status": "أنتهت ",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
