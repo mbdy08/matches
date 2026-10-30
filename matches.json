@@ -126,11 +126,11 @@
   "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
   "awayTeam": "لوهافر - Le Havre",
   "awayLogo": "clubs/Ligue_1/france_le-havre-ac_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 5",
+  "status": "أنتهت  ",
   "viewers": "34",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_sd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -143,11 +143,11 @@
   "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ahli_700x700.football-logos.cc.png",
   "awayTeam": "الشباب",
   "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-shabab_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "6 - 1",
+  "status": "أنتهت  ",
   "viewers": "365",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch2_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
