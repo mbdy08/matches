@@ -3,136 +3,6 @@
   "day": "yesterday",
   "league":"كأس الرابطة الانجليزية ",
   "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
-  "homeTeam": "ليفربول - Liverpool",
-  "homeLogo": "clubs/premier_league/england_liverpool_700x700.football-logos.cc.png",
-  "awayTeam": "تشيلسي - Chelsea",
-  "awayLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
-  "time": "1 - 1 WIN",
-  "status": "أنتهت ",
-  "viewers": "1835",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league":"كأس الرابطة الانجليزية ",
-  "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
-  "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
-  "awayTeam": "برايتون - Brighton",
-  "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
-  "time": "2 - 2 WIN",
-  "status": "أنتهت ",
-  "viewers": "835",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "يوفينتوس - Juventus",
-  "homeLogo": "clubs/serie_A/italy_juventus_700x700.football-logos.cc.png",
-  "awayTeam": "جنوى - Genoa",
-  "awayLogo": "clubs/serie_A/italy_genoa_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت ",
-  "viewers": "35",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league":"كأس ألمانيا   ",
-  "leagueLogo": "clubs/DFB-Pokal/germany_dfb-pokal_700x700.football-logos.cc.png",
-  "homeTeam": "بايرن ميونخ - Bayern Munich",
-  "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
-  "awayTeam": "مجدبرج - Magdeburg",
-  "awayLogo": "clubs/DFB-Pokal/germany_1-fc-magdeburg_700x700.football-logos.cc.png",
-  "time": "1 - 6",
-  "status": "أنتهت ",
-  "viewers": "46",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "انتر - Inter",
-  "homeLogo": "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
-  "awayTeam": "فينيسا - Venezia",
-  "awayLogo": "clubs/serie_A/italy_venezia_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "بولونيا - Bologna",
-  "awayLogo": "clubs/serie_A/italy_bologna_700x700.football-logos.cc.png",
-  "time": "4 - 2",
-  "status": "أنتهت ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
-  "league":"كأس الرابطة الانجليزية ",
-  "leagueLogo": "clubs/EFL Cup/england_efl-cup_700x700.football-logos.cc.png",
   "homeTeam": "نيوكاسل - Newcastle",
   "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
   "awayTeam": "ايفرتون - Everton",
@@ -145,7 +15,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري روشن السعودي   ",
   "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
   "homeTeam": "النصر",
@@ -167,7 +37,7 @@
 
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "MLS",
   "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
   "homeTeam": "انتر ميامي - Inter Miami",
@@ -182,7 +52,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "كأس الخليج تحت 17 سنة ",
   "leagueLogo": "",
   "homeTeam": "العراق",
@@ -198,7 +68,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري نجوم العراق ",
   "leagueLogo": "clubs/دوري_نجوم_العراق/iraq_iraq-stars-league_700x700.football-logos.cc.png",
   "homeTeam": "القوة الجوية",
@@ -213,5 +83,51 @@
   "stream4k": ""
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الاتحاد",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-ittihad_700x700.football-logos.cc.png",
+  "awayTeam": "أبها",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_abha_700x700.football-logos.cc.png",
+  "time": "PM 3:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ]
