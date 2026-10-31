@@ -107,7 +107,7 @@
   "status": "بث مباشر  ",
   "viewers": "524",
   "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_sd/index.m3u8",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -143,6 +143,41 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "روما - Roma",
+  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
+  "awayTeam": "أودينيزي - Udinese",
+  "awayLogo": "clubs/serie_A/italy_udinese_700x700.football-logos.cc.png",
+  "time": "PM 8:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+,{
+  "day": "today",
+  "league": "الدوري الألماني",
+  "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
+  "homeTeam": "بايرن ميونخ - Bayern Munich",
+  "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
+  "awayTeam": "دورتموند - Dortmund ",
+  "awayLogo": "clubs/Bundesliga/germany_borussia-dortmund_700x700.football-logos.cc.png",
+  "time": "PM 8:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 
 ,{
   "day": "today",
