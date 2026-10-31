@@ -116,21 +116,7 @@
 }
 
 
-,{
-  "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "روما - Roma",
-  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
-  "awayTeam": "أودينيزي - Udinese",
-  "awayLogo": "clubs/serie_A/italy_udinese_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "236",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch5_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 
 
@@ -301,6 +287,21 @@
   "time": "0 - 2",
   "status": "   ",
   "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "روما - Roma",
+  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
+  "awayTeam": "أودينيزي - Udinese",
+  "awayLogo": "clubs/serie_A/italy_udinese_700x700.football-logos.cc.png",
+  "time": "2 - 4",
+  "status": "أنتهت   ",
+  "viewers": "236",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
