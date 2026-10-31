@@ -127,28 +127,6 @@
   "streamSd": "",
   "stream4k": ""
 }
-
-,{
-  "day": "today",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "الفتح",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-fateh_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "53",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch10_hd/index.m3u8",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
 ,{
   "day": "today",
   "league": "الدوري الاسباني",
@@ -164,6 +142,28 @@
   "streamSd": "",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "دوري روشن السعودي   ",
+  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
+  "homeTeam": "الهلال",
+  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
+  "awayTeam": "الفتح",
+  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-fateh_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "بث مباشر  ",
+  "viewers": "53",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch10_hd/index.m3u8",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
 
 
 ,{
