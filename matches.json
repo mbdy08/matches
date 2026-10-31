@@ -135,6 +135,23 @@
   "stream4k": ""
 }
 
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "توتنهام - Tottenham",
+  "homeLogo": "clubs/premier_league/england_tottenham_700x700.football-logos.cc.png",
+  "awayTeam": "كريستال بالاس - Crystal Palace",
+  "awayLogo": "clubs/premier_league/england_crystal-palace_700x700.football-logos.cc.png",
+  "time": "PM 8:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 ,{
   "day": "today",
   "league": "الدوري الانجليزي",
