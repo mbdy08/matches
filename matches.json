@@ -91,21 +91,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "تشيلسي - Chelsea",
-  "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
-  "awayTeam": "مان يونايتد - Man United",
-  "awayLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_sd/index.m3u8",
-  "stream4k": ""
-}
+
 
 ,{
   "day": "today",
@@ -166,6 +152,22 @@
   "awayLogo": "clubs/premier_league/england_leeds-united_700x700.football-logos.cc.png",
   "time": "PM 6:00",
   "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "تشيلسي - Chelsea",
+  "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
+  "awayTeam": "مان يونايتد - Man United",
+  "awayLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت   ",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
