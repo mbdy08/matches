@@ -112,21 +112,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "انتر - Inter",
-  "awayLogo": "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "2534",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "stream4k": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8"
-}
+
 ,{
   "day": "today",
   "league": "الدوري الاسباني",
@@ -135,10 +121,10 @@
   "homeLogo": "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
   "awayTeam": "ألافيس - Alavés",
   "awayLogo": "clubs/laliga/spain_deportivo_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 6",
+  "status": "أنتهت   ",
   "viewers": "3262",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
@@ -159,13 +145,32 @@
   "homeLogo": "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
   "awayTeam": "فولهام - Fulham",
   "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 1",
+  "status": "أنتهت   ",
   "viewers": "36",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamHd": "",
   "streamSd": "",
   "stream4k": ""
-},{
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الايطالي",
+  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
+  "homeTeam": "ميلان - AC Milan",
+  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
+  "awayTeam": "انتر - Inter",
+  "awayLogo": "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
+  "time": "1 - 3",
+  "status": "أنتهت   ",
+  "viewers": "2534",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
   "day": "today",
   "league": "دوري روشن السعودي   ",
   "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
