@@ -122,4 +122,53 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "برايتون - Brighton",
+  "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
+  "time": "PM 6:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "نوتينغام - Nottingham",
+  "homeLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
+  "awayTeam": "برينتفورد - Brentford",
+  "awayLogo": "clubs/premier_league/england_brentford_700x700.football-logos.cc.png",
+  "time": "PM 6:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "بورنموث - Bournemouth",
+  "homeLogo": "clubs/premier_league/england_bournemouth_700x700.football-logos.cc.png",
+  "awayTeam": "ليدز - Leeds",
+  "awayLogo": "clubs/premier_league/england_leeds-united_700x700.football-logos.cc.png",
+  "time": "PM 6:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ]
