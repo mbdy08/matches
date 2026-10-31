@@ -111,7 +111,7 @@
   "status": "بث مباشر  ",
   "viewers": "1836",
   "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "",
+  "streamSd": "https://ouou1.b-cdn.net/live/ch2_sd/index.m3u8",
   "stream4k": ""
 }
 
