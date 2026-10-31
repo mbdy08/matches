@@ -128,9 +128,9 @@
   "awayTeam": "دورتموند - Dortmund ",
   "awayLogo": "clubs/Bundesliga/germany_borussia-dortmund_700x700.football-logos.cc.png",
   "time": "PM 8:30",
-  "status": "لم تبدأ بعد",
+  "status": "بث مياشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
@@ -145,9 +145,9 @@
   "awayTeam": "كريستال بالاس - Crystal Palace",
   "awayLogo": "clubs/premier_league/england_crystal-palace_700x700.football-logos.cc.png",
   "time": "PM 8:30",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
   "streamSd": "",
   "stream4k": ""
 }
