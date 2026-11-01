@@ -45,4 +45,47 @@
   "stream4k": ""
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "MLS",
+  "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
+  "homeTeam": "انتر ميامي - Inter Miami",
+  "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
+  "awayTeam": "نيو انجلاند - New England",
+  "awayLogo": "clubs/MLS-Major_League_Soccer/usa_new-england-revolution_700x700.football-logos.cc.png",
+  "time": "AM 3:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 ]
