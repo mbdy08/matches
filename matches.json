@@ -1,230 +1,6 @@
 ﻿[
 {
   "day": "yesterday",
-  "league": "الدوري الاسباني",
-  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
-  "homeTeam": "برشلونة - Barcelona",
-  "homeLogo": "clubs/laliga/spain_barcelona_700x700.football-logos.cc.png",
-  "awayTeam": "ألافيس - Alavés",
-  "awayLogo": "clubs/laliga/spain_deportivo_700x700.football-logos.cc.png",
-  "time": "1 - 6",
-  "status": "أنتهت   ",
-  "viewers": "3262",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "أستون فيلا - Aston Villa",
-  "homeLogo": "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
-  "awayTeam": "فولهام - Fulham",
-  "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
-  "time": "1 - 1",
-  "status": "أنتهت   ",
-  "viewers": "36",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/serie_A/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "انتر - Inter",
-  "awayLogo": "clubs/serie_A/italy_inter_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت   ",
-  "viewers": "2534",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري روشن السعودي   ",
-  "leagueLogo": "clubs/Saudi_Professional_League/saudi-arabia_saudi-professional-league_700x700.football-logos.cc.png",
-  "homeTeam": "الهلال",
-  "homeLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-hilal_700x700.football-logos.cc.png",
-  "awayTeam": "الفتح",
-  "awayLogo": "clubs/Saudi_Professional_League/saudi-arabia_al-fateh_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت   ",
-  "viewers": "53",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الألماني",
-  "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
-  "homeTeam": "بايرن ميونخ - Bayern Munich",
-  "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
-  "awayTeam": "دورتموند - Dortmund ",
-  "awayLogo": "clubs/Bundesliga/germany_borussia-dortmund_700x700.football-logos.cc.png",
-  "time": "2 - 2",
-  "status": "أنتهت   ",
-  "viewers": "1836",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "مان سيتي - Man City",
-  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
-  "awayTeam": "برايتون - Brighton",
-  "awayLogo": "clubs/premier_league/england_brighton_700x700.football-logos.cc.png",
-  "time": "1 - 0",
-  "status": "أنتهت   ",
-  "viewers": "524",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "بورنموث - Bournemouth",
-  "homeLogo": "clubs/premier_league/england_bournemouth_700x700.football-logos.cc.png",
-  "awayTeam": "ليدز - Leeds",
-  "awayLogo": "clubs/premier_league/england_leeds-united_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت   ",
-  "viewers": "18",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "نوتينغام - Nottingham",
-  "homeLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
-  "awayTeam": "برينتفورد - Brentford",
-  "awayLogo": "clubs/premier_league/england_brentford_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت   ",
-  "viewers": "24",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "توتنهام - Tottenham",
-  "homeLogo": "clubs/premier_league/england_tottenham_700x700.football-logos.cc.png",
-  "awayTeam": "كريستال بالاس - Crystal Palace",
-  "awayLogo": "clubs/premier_league/england_crystal-palace_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت   ",
-  "viewers": "474",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "تشيلسي - Chelsea",
-  "homeLogo": "clubs/premier_league/england_chelsea_700x700.football-logos.cc.png",
-  "awayTeam": "مان يونايتد - Man United",
-  "awayLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "أنتهت   ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-,{
-  "day": "yesterday",
-  "league": "الدوري الاسباني",
-  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
-  "homeTeam": "أتلتيكو مدريد - Atletico Madrid",
-  "homeLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
-  "awayTeam": "ليفانتي - Levante",
-  "awayLogo": "clubs/laliga/spain_levante_700x700.football-logos.cc.png",
-  "time": "0 - 2",
-  "status": "   ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "الدوري الايطالي",
-  "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
-  "homeTeam": "روما - Roma",
-  "homeLogo": "clubs/serie_A/italy_roma_700x700.football-logos.cc.png",
-  "awayTeam": "أودينيزي - Udinese",
-  "awayLogo": "clubs/serie_A/italy_udinese_700x700.football-logos.cc.png",
-  "time": "2 - 5",
-  "status": "أنتهت   ",
-  "viewers": "236",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
   "league": "الدوري الايطالي",
   "leagueLogo": "clubs/serie_A/italy_serie-a_700x700.football-logos.cc.png",
   "homeTeam": "يوفينتوس - Juventus",
@@ -239,7 +15,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الاسباني",
   "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
   "homeTeam": "ريال مدريد - Real Madrid",
@@ -254,7 +30,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "أرسنال - Arsenal",
@@ -264,8 +40,8 @@
   "time": "0 - 1",
   "status": "أنتهت   ",
   "viewers": "1293",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch2_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
