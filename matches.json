@@ -244,11 +244,11 @@
   "homeLogo": "clubs/laliga/spain_real-madrid_700x700.football-logos.cc.png",
   "awayTeam": "راسينغ - Racing",
   "awayLogo": "clubs/laliga/spain_racing_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 3",
+  "status": "أنتهت   ",
   "viewers": "1835",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_sd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
