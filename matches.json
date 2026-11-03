@@ -133,11 +133,11 @@
   "homeLogo": "clubs/UEFA Champions League/spain_barcelona_700x700.football-logos.cc.png",
   "awayTeam": "أستون فيلا - Aston Villa",
   "awayLogo": "clubs/UEFA Champions League/england_aston-villa_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 3",
+  "status": "أنتهت   ",
   "viewers": "3253",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -158,11 +158,11 @@
   "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
   "awayTeam": "أتلتيكو مدريد - Atletico Madrid",
   "awayLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 2",
+  "status": "أنتهت   ",
   "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch6_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch6_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -175,11 +175,11 @@
   "homeLogo": "clubs/UEFA Champions League/england_manchester-united_700x700.football-logos.cc.png",
   "awayTeam": "روما - Roma",
   "awayLogo": "clubs/UEFA Champions League/italy_roma_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 3",
+  "status": "أنتهت   ",
   "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -191,11 +191,11 @@
   "homeLogo": "clubs/UEFA Champions League/france_paris-saint-germain_700x700.football-logos.cc.png",
   "awayTeam": "فياريال - Villarreal",
   "awayLogo": "clubs/UEFA Champions League/spain_villarreal_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 6",
+  "status": "أنتهت   ",
   "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -206,11 +206,11 @@
   "homeLogo": "clubs/UEFA Champions League/italy_inter_700x700.football-logos.cc.png",
   "awayTeam": "فاينورد - Feyenoord",
   "awayLogo": "clubs/UEFA Champions League/netherlands_feyenoord_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 3",
+  "status": "أنتهت   ",
   "viewers": "12",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch9_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch9_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
