@@ -126,21 +126,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري أبطال أوروبا",
-  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "غلطة سراي - Galatasaray",
-  "homeLogo": "clubs/UEFA Champions League/turkey_galatasaray_700x700.football-logos.cc.png",
-  "awayTeam": "شتوتجارت - Stuttgart",
-  "awayLogo": "clubs/UEFA Champions League/germany_vfb-stuttgart_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "54",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
-  "stream4k": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8"
-}
+
 ,{
   "day": "today",
   "league": "دوري أبطال اسيا للنخبة",
@@ -157,21 +143,7 @@
   "stream4k": "https://ouou1.b-cdn.net/live/ch5_hd/index.m3u8"
 }
 
-,{
-  "day": "today",
-  "league": "دوري أبطال أوروبا",
-  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "سبورتينغ لشبونة - Sporting",
-  "homeLogo": "clubs/UEFA Champions League/portugal_sporting-cp_700x700.football-logos.cc.png",
-  "awayTeam": "شاختار - Shakhtar",
-  "awayLogo": "clubs/UEFA Champions League/ukraine_shakhtar_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "10",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
-  "stream4k": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8"
-}
+
 
 
 
@@ -184,11 +156,11 @@
   "homeLogo": "clubs/UEFA Champions League/spain_barcelona_700x700.football-logos.cc.png",
   "awayTeam": "أستون فيلا - Aston Villa",
   "awayLogo": "clubs/UEFA Champions League/england_aston-villa_700x700.football-logos.cc.png",
-  "time": "PM 11:00",
-  "status": "لم تبدأ بعد",
+  "time": "0 - 0",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamSd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
   "stream4k": ""
 }
 
@@ -201,11 +173,11 @@
   "homeLogo": "clubs/Bundesliga/germany_bayern-munchen_700x700.football-logos.cc.png",
   "awayTeam": "أتلتيكو مدريد - Atletico Madrid",
   "awayLogo": "clubs/laliga/spain_atletico-madrid_700x700.football-logos.cc.png",
-  "time": "PM 11:00",
-  "status": "لم تبدأ بعد",
+  "time": "0 - 0",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch6_hd/index.m3u8",
+  "streamSd": "https://ouou1.b-cdn.net/live/ch6_hd/index.m3u8",
   "stream4k": ""
 }
 
@@ -218,11 +190,11 @@
   "homeLogo": "clubs/UEFA Champions League/england_manchester-united_700x700.football-logos.cc.png",
   "awayTeam": "روما - Roma",
   "awayLogo": "clubs/UEFA Champions League/italy_roma_700x700.football-logos.cc.png",
-  "time": "PM 11:00",
-  "status": "لم تبدأ بعد",
+  "time": "0 - 0",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
+  "streamSd": "https://ouou1.b-cdn.net/live/ch4_hd/index.m3u8",
   "stream4k": ""
 }
 
@@ -254,6 +226,39 @@
   "time": "PM 11:00",
   "status": "لم تبدأ بعد",
   "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "غلطة سراي - Galatasaray",
+  "homeLogo": "clubs/UEFA Champions League/turkey_galatasaray_700x700.football-logos.cc.png",
+  "awayTeam": "شتوتجارت - Stuttgart",
+  "awayLogo": "clubs/UEFA Champions League/germany_vfb-stuttgart_700x700.football-logos.cc.png",
+  "time": "0 - 2",
+  "status": "أنتهت   ",
+  "viewers": "54",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "سبورتينغ لشبونة - Sporting",
+  "homeLogo": "clubs/UEFA Champions League/portugal_sporting-cp_700x700.football-logos.cc.png",
+  "awayTeam": "شاختار - Shakhtar",
+  "awayLogo": "clubs/UEFA Champions League/ukraine_shakhtar_700x700.football-logos.cc.png",
+  "time": "0 - 1",
+  "status": "أنتهت   ",
+  "viewers": "10",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
