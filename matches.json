@@ -176,5 +176,37 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/UEFA Champions League/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "سلافيا براغ - Slavia Praha",
+  "awayLogo": "clubs/UEFA Champions League/czech-republic_slavia-praha_700x700.football-logos.cc.png",
+  "time": "PM 11:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+,{
+  "day": "today",
+  "league": "دوري أبطال أوروبا",
+  "leagueLogo": "clubs/UEFA Champions League/tournaments_uefa-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/UEFA Champions League/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "لايبزيج - RB Leipzig",
+  "awayLogo": "clubs/UEFA Champions League/germany_rb-leipzig_700x700.football-logos.cc.png",
+  "time": "PM 11:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ]
