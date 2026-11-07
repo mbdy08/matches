@@ -107,6 +107,37 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "الدوري الاسباني",
+  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
+  "homeTeam": "ريال مدريد - Real Madrid",
+  "homeLogo": "clubs/laliga/spain_real-madrid_700x700.football-logos.cc.png",
+  "awayTeam": "فالنسيا - Valencia",
+  "awayLogo": "clubs/laliga/spain_valencia_700x700.football-logos.cc.png",
+  "time": "PM 11:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+,{
+  "day": "today",
+  "league": "الدوري الفرنسي",
+  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
+  "homeTeam": "باريس - PSG",
+  "homeLogo": "",
+  "awayTeam": "تروا - Troyes",
+  "awayLogo": "",
+  "time": "PM 11:05",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
 ,{
   "day": "today",
