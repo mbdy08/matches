@@ -1,60 +1,19 @@
 ﻿[
 {
   "day": "yesterday",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "يوفينتوس - Juventus",
-  "homeLogo": "clubs/UEFA Europa League/italy_juventus_700x700.football-logos.cc.png",
-  "awayTeam": "ألكمار - AZ Alkmaar",
-  "awayLogo": "clubs/UEFA Europa League/netherlands_az-alkmaar_700x700.football-logos.cc.png",
-  "time": "1 - 2",
-  "status": "أنتهت   ",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "ايفرتون - Everton",
+  "homeLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
+  "awayTeam": "كوفنتري - Coventry",
+  "awayLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
+  "time": "1 - 3",
+  "status": "أنتهت",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
-,{
-  "day": "yesterday",
-  "league": "دوري الأوروبي",
-  "leagueLogo": "clubs/UEFA Europa League/tournaments_uefa-europa-league_700x700.football-logos.cc.png",
-  "homeTeam": "ميلان - AC Milan",
-  "homeLogo": "clubs/UEFA Europa League/italy_milan_700x700.football-logos.cc.png",
-  "awayTeam": "فيرينتسفاروشي - Ferencváros",
-  "awayLogo": "clubs/UEFA Europa League/hungary_ferencvaros_700x700.football-logos.cc.png",
-  "time": "2 - 0",
-  "status": "أنتهت   ",
-  "viewers": "125",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-,{
-  "day": "yesterday",
-  "league": "دوري المؤتمر الأوروبي",
-  "leagueLogo": "clubs/UEFA Conference League/tournaments_uefa-conference-league_700x700.football-logos.cc.png",
-  "homeTeam": "طرابزون سبور - Trabzonspor",
-  "homeLogo": "clubs/Super_Lig/turkey_trabzonspor_700x700.football-logos.cc.png",
-  "awayTeam": "فرايبورغ - Freiburg",
-  "awayLogo": "clubs/Bundesliga/germany_freiburg_700x700.football-logos.cc.png",
-  "time": "1 - 0",
-  "status": "أنتهت   ",
-  "viewers": "42",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
 
 
 
@@ -83,15 +42,34 @@
   "day": "today",
   "league": "الدوري الانجليزي",
   "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "ايفرتون - Everton",
-  "homeLogo": "clubs/premier_league/england_everton_700x700.football-logos.cc.png",
-  "awayTeam": "كوفنتري - Coventry",
-  "awayLogo": "clubs/premier_league/england_coventry-city_700x700.football-logos.cc.png",
-  "time": "1 - 3",
-  "status": "أنتهت   ",
+  "homeTeam": "توتنهام - Tottenham",
+  "homeLogo": "clubs/premier_league/england_tottenham_700x700.football-logos.cc.png",
+  "awayTeam": "ليدز - Leeds",
+  "awayLogo": "clubs/premier_league/england_leeds-united_700x700.football-logos.cc.png",
+  "time": "PM 3:30",
+  "status": "لم تبدأ بعد",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
+
+,{
+  "day": "today",
+  "league": "الدوري الألماني",
+  "leagueLogo": "clubs/Bundesliga/germany_bundesliga_700x700.football-logos.cc.png",
+  "homeTeam": "بايرن ميونخ - Bayern Munich",
+  "homeLogo": "",
+  "awayTeam": "",
+  "awayLogo": "",
+  "time": "PM 5:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
 ]
