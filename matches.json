@@ -66,10 +66,10 @@
   "awayTeam": "هال سيتي - Hull City",
   "awayLogo": "clubs/premier_league/england_hull-city_700x700.football-logos.cc.png",
   "time": "PM 6:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
+  "streamSd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
   "stream4k": ""
 }
 
@@ -82,10 +82,10 @@
   "awayTeam": "فولهام - Fulham",
   "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
   "time": "PM 6:00",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamSd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
   "stream4k": ""
 }
 
