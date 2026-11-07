@@ -42,37 +42,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "أرسنال - Arsenal",
-  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
-  "awayTeam": "هال سيتي - Hull City",
-  "awayLogo": "clubs/premier_league/england_hull-city_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "295",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch1_hd/index.m3u8",
-  "stream4k": ""
-}
 
-,{
-  "day": "today",
-  "league": "الدوري الانجليزي",
-  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-  "homeTeam": "نيوكاسل - Newcastle",
-  "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
-  "awayTeam": "فولهام - Fulham",
-  "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "74",
-  "streamHd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "https://ouou1.b-cdn.net/live/ch3_hd/index.m3u8",
-  "stream4k": ""
-}
 
 
 ,{
@@ -148,7 +118,7 @@
   "homeTeam": "انتر ميامي - Inter Miami",
   "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
   "awayTeam": "شارلوت - Charlotte",
-  "awayLogo": "",
+  "awayLogo": "clubs/MLS-Major_League_Soccer/usa_charlotte-fc_700x700.football-logos.cc.png",
   "time": "AM 12:00",
   "status": "لم تبدأ بعد",
   "viewers": "12",
@@ -206,5 +176,35 @@
   "streamSd": "",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "أرسنال - Arsenal",
+  "homeLogo": "clubs/premier_league/england_arsenal_700x700.football-logos.cc.png",
+  "awayTeam": "هال سيتي - Hull City",
+  "awayLogo": "clubs/premier_league/england_hull-city_700x700.football-logos.cc.png",
+  "time": "0 - 1",
+  "status": "أنتهت",
+  "viewers": "295",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "نيوكاسل - Newcastle",
+  "homeLogo": "clubs/premier_league/england_newcastle_700x700.football-logos.cc.png",
+  "awayTeam": "فولهام - Fulham",
+  "awayLogo": "clubs/premier_league/england_fulham_700x700.football-logos.cc.png",
+  "time": "1 - 1",
+  "status": "أنتهت",
+  "viewers": "74",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ]
