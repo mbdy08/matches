@@ -91,6 +91,22 @@
   "stream4k": ""
 }
 
+,{
+  "day": "today",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+  "homeTeam": "مان سيتي - Man City",
+  "homeLogo": "clubs/premier_league/england_manchester-city_700x700.football-logos.cc.png",
+  "awayTeam": "نوتينغام - Nottingham",
+  "awayLogo": "clubs/premier_league/england_nottingham-forest_700x700.football-logos.cc.png",
+  "time": "PM 8:30",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
 
 ,{
   "day": "today",
