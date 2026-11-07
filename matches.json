@@ -59,7 +59,7 @@
   "awayLogo": "clubs/laliga/spain_valencia_700x700.football-logos.cc.png",
   "time": "PM 11:00",
   "status": "بث مباشر  ",
-  "viewers": "12",
+  "viewers": "936",
   "streamHd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
   "streamSd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
   "stream4k": ""
@@ -74,10 +74,10 @@
   "awayTeam": "تروا - Troyes",
   "awayLogo": "clubs/Ligue_1/france_troyes_700x700.football-logos.cc.png",
   "time": "PM 11:05",
-  "status": "لم تبدأ بعد",
+  "status": "بث مباشر  ",
   "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
   "stream4k": ""
 }
 
