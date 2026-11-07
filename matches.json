@@ -49,37 +49,9 @@
 
 
 
-,{
-  "day": "today",
-  "league": "الدوري الاسباني",
-  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
-  "homeTeam": "ريال مدريد - Real Madrid",
-  "homeLogo": "clubs/laliga/spain_real-madrid_700x700.football-logos.cc.png",
-  "awayTeam": "فالنسيا - Valencia",
-  "awayLogo": "clubs/laliga/spain_valencia_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "2846",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "stream4k": ""
-}
 
-,{
-  "day": "today",
-  "league": "الدوري الفرنسي",
-  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
-  "homeTeam": "باريس - PSG",
-  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
-  "awayTeam": "تروا - Troyes",
-  "awayLogo": "clubs/Ligue_1/france_troyes_700x700.football-logos.cc.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "51",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch2_sd/index.m3u8",
-  "stream4k": ""
-}
+
+
 
 
 
@@ -91,7 +63,7 @@
   "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
   "awayTeam": "شارلوت - Charlotte",
   "awayLogo": "clubs/MLS-Major_League_Soccer/usa_charlotte-fc_700x700.football-logos.cc.png",
-  "time": "0 - 0",
+  "time": "0 - 3",
   "status": "بث مباشر  ",
   "viewers": "93",
   "streamHd": "https://stream-11.b-cdn.net/live/ch3_hd/index.m3u8",
@@ -116,7 +88,21 @@
   "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "الدوري الفرنسي",
+  "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
+  "homeTeam": "باريس - PSG",
+  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
+  "awayTeam": "تروا - Troyes",
+  "awayLogo": "clubs/Ligue_1/france_troyes_700x700.football-logos.cc.png",
+  "time": "0 - 1",
+  "status": "أنتهت",
+  "viewers": "51",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ,{
   "day": "today",
   "league": "الدوري الألماني",
@@ -206,6 +192,21 @@
   "time": "3 - 1",
   "status": "أنتهت",
   "viewers": "534",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "الدوري الاسباني",
+  "leagueLogo": "clubs/laliga/spain_la-liga_700x700.football-logos.cc.png",
+  "homeTeam": "ريال مدريد - Real Madrid",
+  "homeLogo": "clubs/laliga/spain_real-madrid_700x700.football-logos.cc.png",
+  "awayTeam": "فالنسيا - Valencia",
+  "awayLogo": "clubs/laliga/spain_valencia_700x700.football-logos.cc.png",
+  "time": "0 - 3",
+  "status": "أنتهت",
+  "viewers": "2846",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
