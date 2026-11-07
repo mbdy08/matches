@@ -63,11 +63,11 @@
   "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
   "awayTeam": "شارلوت - Charlotte",
   "awayLogo": "clubs/MLS-Major_League_Soccer/usa_charlotte-fc_700x700.football-logos.cc.png",
-  "time": "0 - 3",
-  "status": "بث مباشر  ",
+  "time": "3 - 3",
+  "status": "أنتهت",
   "viewers": "93",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch3_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch3_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
