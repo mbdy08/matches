@@ -128,9 +128,9 @@
   "league": "الدوري الفرنسي",
   "leagueLogo": "clubs/Ligue_1/france_ligue-1_700x700.football-logos.cc.png",
   "homeTeam": "باريس - PSG",
-  "homeLogo": "",
+  "homeLogo": "clubs/Ligue_1/france_paris-saint-germain_700x700.football-logos.cc.png",
   "awayTeam": "تروا - Troyes",
-  "awayLogo": "",
+  "awayLogo": "clubs/Ligue_1/france_troyes_700x700.football-logos.cc.png",
   "time": "PM 11:05",
   "status": "لم تبدأ بعد",
   "viewers": "12",
@@ -138,6 +138,26 @@
   "streamSd": "",
   "stream4k": ""
 }
+
+
+
+,{
+  "day": "today",
+  "league": "MLS",
+  "leagueLogo": "clubs/MLS-Major_League_Soccer/usa_mls_700x700.football-logos.cc.png",
+  "homeTeam": "انتر ميامي - Inter Miami",
+  "homeLogo": "clubs/MLS-Major_League_Soccer/usa_inter-miami-cf_700x700.football-logos.cc.png",
+  "awayTeam": "شارلوت - Charlotte",
+  "awayLogo": "",
+  "time": "AM 12:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
 
 ,{
   "day": "today",
