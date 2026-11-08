@@ -1,0 +1,27 @@
+{
+  "1": {
+    "name": "beIN SPORTS 1",
+    "category": "⚽ باقة beIN SPORTS",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_1_logo.svg/512px-BeIN_Sports_1_logo.svg.png"
+  },
+  "2": {
+    "name": "beIN SPORTS 2",
+    "category": "⚽ باقة beIN SPORTS",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BeIN_Sports_2_logo.svg/512px-BeIN_Sports_2_logo.svg.png"
+  },
+  "3": {
+    "name": "STARZPLAY Sports 1",
+    "category": "⭐ باقة STARZPLAY",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Starzplay_Sports_logo.png/512px-Starzplay_Sports_logo.png"
+  },
+  "4": {
+    "name": "Alkass 1 HD",
+    "category": "🏆 باقة قنوات الكأس",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Al_Kass_Sports_Channels_logo.svg/512px-Al_Kass_Sports_Channels_logo.svg.png"
+  },
+  "5": {
+    "name": "SSC 1 HD",
+    "category": "🇸🇦 باقة SSC SPORTS",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SSC_Channel_Logo.png/512px-SSC_Channel_Logo.png"
+  }
+}
