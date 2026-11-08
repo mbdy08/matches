@@ -149,21 +149,36 @@
         "streamSd":  "",
         "stream4k":  ""
     },
-    {
-        "day":  "today",
-        "league":  "الدوري الانجليزي",
-        "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
-        "homeTeam":  "مان يونايتد - Man United",
-        "homeLogo":  "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
-        "awayTeam":  "أستون فيلا - Aston Villa",
-        "awayLogo":  "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
-        "time":  "0 - 0",
-        "status":  "بث مباشر  ",
-        "viewers":  "447",
-        "streamHd":  "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
-        "streamSd":  "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
-        "stream4k":  ""
-    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
         "day":  "today",
         "league":  "الدوري الايطالي",
@@ -280,6 +295,21 @@
         "time":  "0 - 2",
         "status":  "أنتهت",
         "viewers":  "11",
+        "streamHd":  "",
+        "streamSd":  "",
+        "stream4k":  ""
+    }
+    ,{
+        "day":  "today",
+        "league":  "الدوري الانجليزي",
+        "leagueLogo":  "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
+        "homeTeam":  "مان يونايتد - Man United",
+        "homeLogo":  "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
+        "awayTeam":  "أستون فيلا - Aston Villa",
+        "awayLogo":  "clubs/premier_league/england_aston-villa_700x700.football-logos.cc.png",
+        "time":  "4 - 4",
+        "status":  "أنتهت",
+        "viewers":  "447",
         "streamHd":  "",
         "streamSd":  "",
         "stream4k":  ""
