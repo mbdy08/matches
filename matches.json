@@ -191,8 +191,8 @@
 
 ,{
   "day": "today",
-  "league": "Super Lig",
-  "leagueLogo": "clubs/Super_Lig/turkey_super-lig_700x700.football-logos.cc.png",
+  "league": "الدوري الانجليزي",
+  "leagueLogo": "clubs/premier_league/england_english-premier-league_700x700.football-logos.cc.png",
   "homeTeam": "مان يونايتد - Man United",
   "homeLogo": "clubs/premier_league/england_manchester-united_700x700.football-logos.cc.png",
   "awayTeam": "أستون فيلا - Aston Villa",
