@@ -12,7 +12,7 @@ echo.
 echo ======================================================
 echo [2/3] جاري رفع التحديث المشفر إلى GitHub...
 echo ======================================================
-git add matches.json
+git add .
 git commit -m "Auto Encrypt Matches"
 git push origin main
 
