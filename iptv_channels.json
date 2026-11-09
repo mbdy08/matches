@@ -2,7 +2,7 @@
   "1": {
     "name": "beIN SPORTS NEWS",
     "category": "beIN SPORTS",
-    "icon": "clubs/EFL Cup/england_arsenal_700x700.football-logos.cc.png",
+    "icon": "beinsport.png",
     "stream_id": "ch11_hd"
   },
   "2": {
@@ -57,60 +57,6 @@
     "name": "beIN SPORTS 9",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch20_hd"
-  },
-  "11": {
-    "name": "Kurd Sport 1",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch12_hd"
-  },
-  "12": {
-    "name": "Kurd Sport 2",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch13_hd"
-  },
-  "13": {
-    "name": "Kurd Sport 3",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch14_hd"
-  },
-  "14": {
-    "name": "Kurd Sport 4",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch15_hd"
-  },
-  "15": {
-    "name": "Kurd Sport 5",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch16_hd"
-  },
-  "16": {
-    "name": "Kurd Sport 6",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch17_hd"
-  },
-  "17": {
-    "name": "Kurd Sport 7",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch18_hd"
-  },
-  "18": {
-    "name": "Kurd Sport 8",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch19_hd"
-  },
-  "19": {
-    "name": "Kurd Sport 9",
-    "category": "Kurd Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
     "stream_id": "ch20_hd"
   }
 }
