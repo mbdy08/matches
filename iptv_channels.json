@@ -3,120 +3,114 @@
     "name": "beIN SPORTS NEWS",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BeIN_Sports_News_logo.svg/512px-BeIN_Sports_News_logo.svg.png",
-    "stream_id": "ch1_hd"
+    "stream_id": "ch11_hd"
   },
   "2": {
     "name": "beIN SPORTS 1",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_1_logo.svg/512px-BeIN_Sports_1_logo.svg.png",
-    "stream_id": "ch2_hd"
+    "stream_id": "ch12_hd"
   },
   "3": {
     "name": "beIN SPORTS 2",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BeIN_Sports_2_logo.svg/512px-BeIN_Sports_2_logo.svg.png",
-    "stream_id": "ch3_hd"
+    "stream_id": "ch13_hd"
   },
   "4": {
     "name": "beIN SPORTS 3",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BeIN_Sports_3_logo.svg/512px-BeIN_Sports_3_logo.svg.png",
-    "stream_id": "ch4_hd"
+    "stream_id": "ch14_hd"
   },
   "5": {
     "name": "beIN SPORTS 4",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BeIN_Sports_4_logo.svg/512px-BeIN_Sports_4_logo.svg.png",
-    "stream_id": "ch5_hd"
+    "stream_id": "ch15_hd"
   },
   "6": {
     "name": "beIN SPORTS 5",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BeIN_Sports_5_logo.svg/512px-BeIN_Sports_5_logo.svg.png",
-    "stream_id": "ch6_hd"
+    "stream_id": "ch16_hd"
   },
   "7": {
     "name": "beIN SPORTS 6",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BeIN_Sports_6_logo.svg/512px-BeIN_Sports_6_logo.svg.png",
-    "stream_id": "ch7_hd"
+    "stream_id": "ch17_hd"
   },
   "8": {
     "name": "beIN SPORTS 7",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BeIN_Sports_7_logo.svg/512px-BeIN_Sports_7_logo.svg.png",
-    "stream_id": "ch8_hd"
+    "stream_id": "ch18_hd"
   },
   "9": {
     "name": "beIN SPORTS 8",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports_8_logo.svg/512px-BeIN_Sports_8_logo.svg.png",
-    "stream_id": "ch9_hd"
+    "stream_id": "ch19_hd"
   },
   "10": {
     "name": "beIN SPORTS 9",
     "category": "beIN SPORTS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BeIN_Sports_9_logo.svg/512px-BeIN_Sports_9_logo.svg.png",
-    "stream_id": "ch10_hd"
+    "stream_id": "ch20_hd"
   },
   "11": {
-    "name": "NHN Sport 1",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 1",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch11_hd"
+    "stream_id": "ch21_hd"
   },
   "12": {
-    "name": "NHN Sport 2",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 2",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch12_hd"
+    "stream_id": "ch22_hd"
   },
   "13": {
-    "name": "NHN Sport 3",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 3",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch13_hd"
+    "stream_id": "ch23_hd"
   },
   "14": {
-    "name": "NHN Sport 4",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 4",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch14_hd"
+    "stream_id": "ch24_hd"
   },
   "15": {
-    "name": "NHN Sport 5",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 5",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch15_hd"
+    "stream_id": "ch25_hd"
   },
   "16": {
-    "name": "NHN Sport 6",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 6",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch16_hd"
+    "stream_id": "ch26_hd"
   },
   "17": {
-    "name": "NHN Sport 7",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 7",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch17_hd"
+    "stream_id": "ch27_hd"
   },
   "18": {
-    "name": "NHN Sport 8",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 8",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch18_hd"
+    "stream_id": "ch28_hd"
   },
   "19": {
-    "name": "NHN Sport 9",
-    "category": "NHN Sport",
+    "name": "Kurd Sport 9",
+    "category": "Kurd Sport",
     "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch19_hd"
-  },
-  "20": {
-    "name": "NHN Sport 10",
-    "category": "NHN Sport",
-    "icon": "https://nhnlive-now.com/clubs/nhn_logo.png",
-    "stream_id": "ch20_hd"
+    "stream_id": "ch29_hd"
   }
 }
