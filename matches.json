@@ -190,8 +190,8 @@
         "time":  "1 - 2",
         "status":  "أنتهت",
         "viewers":  "1033",
-        "streamHd":  "nolivenow.mp4",
-        "streamSd":  "nolivenow.mp4",
+        "streamHd":  "https://raw.githubusercontent.com/mbdy08/matches/main/nolivenow.mp4",
+        "streamSd":  "https://raw.githubusercontent.com/mbdy08/matches/main/nolivenow.mp4",
         "stream4k":  ""
     },
     {

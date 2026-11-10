@@ -3,13 +3,13 @@
     "name": "beIN SPORTS NEWS",
     "category": "beIN SPORTS FHD",
     "icon": "beinsport.png",
-    "stream_id": "nolivenow.mp4"
+    "stream_id": "https://raw.githubusercontent.com/mbdy08/matches/main/nolivenow.mp4"
   },
   "2": {
     "name": "beIN SPORTS 1 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch12_hd"
+    "stream_id": "https://raw.githubusercontent.com/mbdy08/matches/main/nolivenow.mp4"
   },
   "3": {
     "name": "beIN SPORTS 2 FHD",
