@@ -1,7 +1,7 @@
 {
   "1": {
-    "name": "beIN SPORTS NEWS",
-    "category": "beIN SPORTS FHD",
+    "name": "beIN SPORTS NEWS FHD",
+    "category": "beIN SPORTS ",
     "icon": "beinsport.png",
     "stream_id": "https://raw.githubusercontent.com/mbdy08/matches/main/nolivenow.mp4"
   },
