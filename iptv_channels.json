@@ -45,18 +45,18 @@
     "name": "beIN SPORTS 7 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch18_hd"
+    "stream_id": "nolivenow.mp4"
   },
   "9": {
     "name": "beIN SPORTS 8 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch19_hd"
+    "stream_id": "nolivenow.mp4"
   },
   "10": {
     "name": "beIN SPORTS 9 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch20_hd"
+    "stream_id": "nolivenow.mp4"
   }
 }
