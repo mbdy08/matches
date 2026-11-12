@@ -1,36 +1,4 @@
 ﻿[
-
-    {
-  "day": "today",
-  "league": "تصفيات كأس أمم أفريقيا    ",
-  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
-  "homeTeam": "غانا - Ghana",
-  "homeLogo": "clubs/Africa Cup of Nation/ghana_ghana-national-team_700x700.football-logos.cc.png",
-  "awayTeam": "الصومال - Somalia",
-  "awayLogo": "clubs/Africa Cup of Nation/somalia_somalia-national-team_700x700.football-logos.cc.png",
-  "time": "PM 6:00",
-  "status": "بث مباشر  ",
-  "viewers": "12",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
-  "stream4k": ""
-}
-
-,{
-  "day": "today",
-  "league": "تصفيات كأس أمم أفريقيا    ",
-  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
-  "homeTeam": "السودان - Sudan",
-  "homeLogo": "clubs/Africa Cup of Nation/sudan_sudan-national-team_700x700.football-logos.cc.png",
-  "awayTeam": "السنغال - Senegal",
-  "awayLogo": "clubs/Africa Cup of Nation/senegal_senegal-national-team_700x700.football-logos.cc.png",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "https://raw.githubusercontent.com/mbdy08/matches/main/nolivenow.mp4",
-  "streamSd": "",
-  "stream4k": ""
-},
 {
   "day": "today",
   "league": "دوري الأمم الأوروبية  ",
