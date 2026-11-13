@@ -86,21 +86,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "مباراة ودية ",
-  "leagueLogo": "",
-  "homeTeam": "العراق",
-  "homeLogo": "clubs/Khaleeji_27/Flag_of_Iraq.png",
-  "awayTeam": "لبنان",
-  "awayLogo": "clubs/Khaleeji_27/libanon.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "174",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "stream4k": ""
-}
+
 
 
 ,{
@@ -149,5 +135,19 @@
   "streamSd": "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "مباراة ودية ",
+  "leagueLogo": "",
+  "homeTeam": "العراق",
+  "homeLogo": "clubs/Khaleeji_27/Flag_of_Iraq.png",
+  "awayTeam": "لبنان",
+  "awayLogo": "clubs/Khaleeji_27/libanon.png",
+  "time": "0 - 0",
+  "status": "أنتهت   ",
+  "viewers": "174",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ]
