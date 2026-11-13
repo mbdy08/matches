@@ -97,11 +97,11 @@
   "homeLogo": "clubs/Africa Cup of Nation/tuns.png",
   "awayTeam": "ليبيا",
   "awayLogo": "clubs/Africa Cup of Nation/libia.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "2 - 0",
+  "status": "  أنتهت ",
   "viewers": "57",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -112,11 +112,11 @@
   "homeLogo": "clubs/Africa Cup of Nation/muritania.png",
   "awayTeam": "بوركينا فاسو",
   "awayLogo": "clubs/Africa Cup of Nation/burcinafaso.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 0",
+  "status": "أنتهت   ",
   "viewers": "52",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
@@ -128,11 +128,11 @@
   "homeLogo": "clubs/ودية/syria.png",
   "awayTeam": "الكويت",
   "awayLogo": "clubs/ودية/kuwit.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "3 - 0",
+  "status": "أنتهت   ",
   "viewers": "12",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch2_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
