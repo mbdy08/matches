@@ -137,6 +137,21 @@
   "day": "today",
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
+  "homeTeam": "المغرب",
+  "homeLogo": "clubs/Africa Cup of Nation/moroco.png",
+  "awayTeam": "النيجر",
+  "awayLogo": "clubs/Africa Cup of Nation/nigr.png",
+  "time": "PM 11:00",
+  "status": "بث مباشر  ",
+  "viewers": "61",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "تصفيات كأس أمم أفريقيا    ",
+  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "تونس",
   "homeLogo": "clubs/Africa Cup of Nation/tuns.png",
   "awayTeam": "ليبيا",
