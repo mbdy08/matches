@@ -111,11 +111,11 @@
   "homeLogo": "clubs/UEFA Nations League/germmany.png",
   "awayTeam": "صربيا - Serbia",
   "awayLogo": "clubs/UEFA Nations League/sirbia.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 3",
+  "status": "أنتهت   ",
   "viewers": "67",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch14_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch14_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -126,11 +126,11 @@
   "homeLogo": "clubs/UEFA Nations League/northland.png",
   "awayTeam": "يونان - Greece",
   "awayLogo": "clubs/UEFA Nations League/greece.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "0 - 7",
+  "status": "أنتهت   ",
   "viewers": "36",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch15_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch15_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
