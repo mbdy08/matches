@@ -108,14 +108,14 @@
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "تونس",
-  "homeLogo": "",
+  "homeLogo": "clubs/Africa Cup of Nation/tuns.png",
   "awayTeam": "ليبيا",
-  "awayLogo": "",
+  "awayLogo": "clubs/Africa Cup of Nation/libia.png",
   "time": "PM 7:00",
   "status": "بث مباشر  ",
   "viewers": "57",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
   "stream4k": ""
 }
 ,{
@@ -123,14 +123,14 @@
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "موريتانيا",
-  "homeLogo": "",
+  "homeLogo": "clubs/Africa Cup of Nation/muritania.png",
   "awayTeam": "بوركينا فاسو",
-  "awayLogo": "",
+  "awayLogo": "clubs/Africa Cup of Nation/burcinafaso.png",
   "time": "PM 7:00",
   "status": "بث مباشر  ",
   "viewers": "52",
-  "streamHd": "",
-  "streamSd": "",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
   "stream4k": ""
 }
 
