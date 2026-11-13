@@ -1,5 +1,5 @@
 ﻿[{
-  "day": "today",
+  "day": "yesterday",
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "المغرب",
@@ -15,7 +15,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "ألمانيا - Germany",
@@ -30,7 +30,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "هولندا - Netherlands",
@@ -45,7 +45,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "مصر",
@@ -60,7 +60,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "تونس",
@@ -75,7 +75,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "تصفيات كأس أمم أفريقيا    ",
   "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
   "homeTeam": "موريتانيا",
@@ -91,7 +91,7 @@
 }
 
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "   ",
   "leagueLogo": "",
   "homeTeam": "سوريا",
@@ -106,7 +106,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "مباراة ودية ",
   "leagueLogo": "",
   "homeTeam": "العراق",
@@ -160,13 +160,13 @@
 
 
 ,{
-  "day": "yesterday",
+  "day": "today",
   "league": "مباراة ودية ",
   "leagueLogo": "",
   "homeTeam": "ارجنتين - Argentina",
   "homeLogo": "",
-  "awayTeam": "برازيل - Brazil",
-  "awayLogo": "",
+  "awayTeam": "ارغواي - Uruguay",
+  "awayLogo": "clubs/ودية/Arguai.png",
   "time": "AM 2:00",
   "status": "بث مباشر  ",
   "viewers": "62",
