@@ -158,21 +158,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "مباراة ودية ",
-  "leagueLogo": "",
-  "homeTeam": "برازيل - Brazil",
-  "homeLogo": "clubs/ودية/Brazil.png",
-  "awayTeam": "يابان - Japan",
-  "awayLogo": "clubs/ودية/japan.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "62",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "stream4k": ""
-}
+
 ,{
   "day": "today",
   "league": "دوري الأمم الأوروبية  ",
@@ -235,5 +221,19 @@
   "streamSd": "",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "مباراة ودية ",
+  "leagueLogo": "",
+  "homeTeam": "برازيل - Brazil",
+  "homeLogo": "clubs/ودية/Brazil.png",
+  "awayTeam": "يابان - Japan",
+  "awayLogo": "clubs/ودية/japan.png",
+  "time": "3 - 2",
+  "status": "أنتهت   ",
+  "viewers": "62",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ]
