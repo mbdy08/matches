@@ -159,21 +159,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "دوري الأمم الأوروبية  ",
-  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "نرويج - Norway",
-  "homeLogo": "clubs/UEFA Nations League/norway.png",
-  "awayTeam": "ويلز - Wales",
-  "awayLogo": "clubs/UEFA Nations League/wilz.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "1",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch1_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
-  "stream4k": ""
-}
+
 ,{
   "day": "today",
   "league": "تصفيات كأس أمم أفريقيا    ",
@@ -182,7 +168,7 @@
   "homeLogo": "clubs/Africa Cup of Nation/algeria.png",
   "awayTeam": "توغو",
   "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
-  "time": "PM 10:00",
+  "time": "0 - 0",
   "status": "بث مباشر  ",
   "viewers": "5",
   "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
@@ -205,7 +191,21 @@
   "stream4k": ""
 }
 
-
+,{
+  "day": "today",
+  "league": "دوري الأمم الأوروبية  ",
+  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
+  "homeTeam": "نرويج - Norway",
+  "homeLogo": "clubs/UEFA Nations League/norway.png",
+  "awayTeam": "ويلز - Wales",
+  "awayLogo": "clubs/UEFA Nations League/wilz.png",
+  "time": "1 - 3",
+  "status": "أنتهت   ",
+  "viewers": "1",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ,{
   "day": "today",
   "league": "مباراة ودية ",
