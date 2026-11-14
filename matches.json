@@ -190,6 +190,21 @@
 }
 ,{
   "day": "today",
+  "league": "تصفيات كأس أمم أفريقيا    ",
+  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
+  "homeTeam": "الجزائر",
+  "homeLogo": "clubs/Africa Cup of Nation/algeria.png",
+  "awayTeam": "توغو",
+  "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
+  "time": "PM 10:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+,{
+  "day": "today",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "برتغال - Portugal",
@@ -203,21 +218,7 @@
   "streamSd": "",
   "stream4k": ""
 }
-,{
-  "day": "today",
-  "league": "تصفيات كأس أمم أفريقيا    ",
-  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
-  "homeTeam": "",
-  "homeLogo": "",
-  "awayTeam": "",
-  "awayLogo": "",
-  "time": "PM 10:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
+
 
 ,{
   "day": "today",
