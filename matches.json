@@ -160,21 +160,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "تصفيات كأس أمم أفريقيا    ",
-  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
-  "homeTeam": "الجزائر",
-  "homeLogo": "clubs/Africa Cup of Nation/algeria.png",
-  "awayTeam": "توغو",
-  "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
-  "viewers": "5",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "stream4k": ""
-}
+
 ,{
   "day": "today",
   "league": "دوري الأمم الأوروبية  ",
@@ -190,7 +176,21 @@
   "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
   "stream4k": ""
 }
-
+,{
+  "day": "today",
+  "league": "تصفيات كأس أمم أفريقيا    ",
+  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
+  "homeTeam": "الجزائر",
+  "homeLogo": "clubs/Africa Cup of Nation/algeria.png",
+  "awayTeam": "توغو",
+  "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
+  "time": "0 - 1",
+  "status": "أنتهت   ",
+  "viewers": "5",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ,{
   "day": "today",
   "league": "دوري الأمم الأوروبية  ",
