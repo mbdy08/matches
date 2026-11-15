@@ -33,30 +33,30 @@
     "name": "beIN SPORTS 5 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "nolivenow.mp4"
+    "stream_id": "ch16_hd"
   },
   "7": {
     "name": "beIN SPORTS 6 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "nolivenow.mp4"
+    "stream_id": "ch17_hd"
   },
   "8": {
     "name": "beIN SPORTS 7 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch17_hd"
+    "stream_id": "ch18_hd"
   },
   "9": {
     "name": "beIN SPORTS 8 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch18_hd"
+    "stream_id": "ch19_hd"
   },
   "10": {
     "name": "beIN SPORTS 9 FHD",
     "category": "beIN SPORTS",
     "icon": "beinsport.png",
-    "stream_id": "ch19_hd"
+    "stream_id": "ch20_hd"
   }
 }
