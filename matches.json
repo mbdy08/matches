@@ -108,11 +108,11 @@
   "homeLogo": "clubs/UEFA Nations League/spain.png",
   "awayTeam": "انجلترا - England",
   "awayLogo": "clubs/UEFA Nations League/England.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "3 - 2",
+  "status": "أنتهت   ",
   "viewers": "198",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -123,11 +123,11 @@
   "homeLogo": "clubs/UEFA Nations League/France.png",
   "awayTeam": "تركيا - Turkey",
   "awayLogo": "clubs/UEFA Nations League/Turky.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 2",
+  "status": "أنتهت   ",
   "viewers": "44",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -138,11 +138,11 @@
   "homeLogo": "clubs/UEFA Nations League/Itali.png",
   "awayTeam": "بلجيكا - Belgium",
   "awayLogo": "clubs/UEFA Nations League/Belgium.png",
-  "time": "0 - 0",
-  "status": "بث مباشر  ",
+  "time": "1 - 4",
+  "status": "أنتهت   ",
   "viewers": "12",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch14_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch14_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ]
