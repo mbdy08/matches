@@ -2,108 +2,6 @@
   "day": "yesterday",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "برتغال - Portugal",
-  "homeLogo": "clubs/UEFA Nations League/portogal.png",
-  "awayTeam": "الدنمارك - Denmark",
-  "awayLogo": "clubs/UEFA Nations League/danimark.png",
-  "time": "4 - 1",
-  "status": "أنتهت   ",
-  "viewers": "2",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "تصفيات كأس أمم أفريقيا    ",
-  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
-  "homeTeam": "الجزائر",
-  "homeLogo": "clubs/Africa Cup of Nation/algeria.png",
-  "awayTeam": "توغو",
-  "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
-  "time": "0 - 1",
-  "status": "أنتهت   ",
-  "viewers": "5",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "دوري الأمم الأوروبية  ",
-  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "نرويج - Norway",
-  "homeLogo": "clubs/UEFA Nations League/norway.png",
-  "awayTeam": "ويلز - Wales",
-  "awayLogo": "clubs/UEFA Nations League/wilz.png",
-  "time": "1 - 3",
-  "status": "أنتهت   ",
-  "viewers": "1",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "مباراة ودية ",
-  "leagueLogo": "",
-  "homeTeam": "ارجنتين - Argentina",
-  "homeLogo": "clubs/ودية/Argentina.png",
-  "awayTeam": "ارغواي - Uruguay",
-  "awayLogo": "clubs/ودية/Arguai.png",
-  "time": "2 - 1",
-  "status": "أنتهت   ",
-  "viewers": "62",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "مباراة ودية ",
-  "leagueLogo": "",
-  "homeTeam": "برازيل - Brazil",
-  "homeLogo": "clubs/ودية/Brazil.png",
-  "awayTeam": "يابان - Japan",
-  "awayLogo": "clubs/ودية/japan.png",
-  "time": "3 - 2",
-  "status": "أنتهت   ",
-  "viewers": "62",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-,{
-  "day": "today",
-  "league": "دوري الأمم الأوروبية  ",
-  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "اسبانيا - Spain",
   "homeLogo": "clubs/UEFA Nations League/spain.png",
   "awayTeam": "انجلترا - England",
@@ -116,7 +14,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "فرنسا - France",
@@ -131,7 +29,7 @@
   "stream4k": ""
 }
 ,{
-  "day": "today",
+  "day": "yesterday",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "ايطاليا - Italy",
@@ -140,6 +38,57 @@
   "awayLogo": "clubs/UEFA Nations League/Belgium.png",
   "time": "1 - 4",
   "status": "أنتهت   ",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,{
+  "day": "today",
+  "league": "دوري الأمم الأوروبية  ",
+  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
+  "homeTeam": "ألمانيا - Germany",
+  "homeLogo": "",
+  "awayTeam": "هولندا - Netherlands",
+  "awayLogo": "",
+  "time": "PM 10:45",
+  "status": "لم تبدأ بعد",
   "viewers": "12",
   "streamHd": "",
   "streamSd": "",
