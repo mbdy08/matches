@@ -84,14 +84,14 @@
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
   "homeTeam": "ألمانيا - Germany",
-  "homeLogo": "",
+  "homeLogo": "clubs/UEFA Nations League/germmany.png",
   "awayTeam": "هولندا - Netherlands",
-  "awayLogo": "",
+  "awayLogo": "clubs/UEFA Nations League/northland.png",
   "time": "PM 10:45",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "status": "بث مباشر  ",
+  "viewers": "3",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch9_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch9_hd/index.m3u8",
   "stream4k": ""
 }
 ]
