@@ -2,50 +2,17 @@
   "day": "yesterday",
   "league": "دوري الأمم الأوروبية  ",
   "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "اسبانيا - Spain",
-  "homeLogo": "clubs/UEFA Nations League/spain.png",
-  "awayTeam": "انجلترا - England",
-  "awayLogo": "clubs/UEFA Nations League/England.png",
-  "time": "3 - 2",
+  "homeTeam": "ألمانيا - Germany",
+  "homeLogo": "clubs/UEFA Nations League/germmany.png",
+  "awayTeam": "هولندا - Netherlands",
+  "awayLogo": "clubs/UEFA Nations League/northland.png",
+  "time": "0 - 5",
   "status": "أنتهت   ",
-  "viewers": "198",
+  "viewers": "3",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
 }
-,{
-  "day": "yesterday",
-  "league": "دوري الأمم الأوروبية  ",
-  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "فرنسا - France",
-  "homeLogo": "clubs/UEFA Nations League/France.png",
-  "awayTeam": "تركيا - Turkey",
-  "awayLogo": "clubs/UEFA Nations League/Turky.png",
-  "time": "1 - 2",
-  "status": "أنتهت   ",
-  "viewers": "44",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-,{
-  "day": "yesterday",
-  "league": "دوري الأمم الأوروبية  ",
-  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "ايطاليا - Italy",
-  "homeLogo": "clubs/UEFA Nations League/Itali.png",
-  "awayTeam": "بلجيكا - Belgium",
-  "awayLogo": "clubs/UEFA Nations League/Belgium.png",
-  "time": "1 - 4",
-  "status": "أنتهت   ",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
-  "stream4k": ""
-}
-
-
-
 
 
 
@@ -81,17 +48,17 @@
 
 ,{
   "day": "today",
-  "league": "دوري الأمم الأوروبية  ",
-  "leagueLogo": "clubs/UEFA Nations League/tournaments_uefa-nations-league_700x700.football-logos.cc.png",
-  "homeTeam": "ألمانيا - Germany",
-  "homeLogo": "clubs/UEFA Nations League/germmany.png",
-  "awayTeam": "هولندا - Netherlands",
-  "awayLogo": "clubs/UEFA Nations League/northland.png",
-  "time": "0 - 5",
-  "status": "أنتهت   ",
-  "viewers": "3",
-  "streamHd": "",
-  "streamSd": "",
+  "league": "دوري أبطال أفريقيا",
+  "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "مصر",
+  "homeLogo": "clubs/Africa Cup of Nation/egypt.png",
+  "awayTeam": "مالاوي",
+  "awayLogo": "clubs/Africa Cup of Nation/malawi.png",
+  "time": "0 - 0",
+  "status": " بث مباشر ",
+  "viewers": "12",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
   "stream4k": ""
 }
 ]
