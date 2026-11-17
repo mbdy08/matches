@@ -52,11 +52,11 @@
   "homeLogo": "clubs/Africa Cup of Nation/moroco.png",
   "awayTeam": "النيجر",
   "awayLogo": "clubs/Africa Cup of Nation/nigr.png",
-  "time": "PM 11:00",
-  "status": "بث مباشر  ",
+  "time": "0 - 1",
+  "status": "أنتهت   ",
   "viewers": "3",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -67,11 +67,11 @@
   "homeLogo": "clubs/UEFA Nations League/portogal.png",
   "awayTeam": "ويلز - Wales",
   "awayLogo": "clubs/UEFA Nations League/wilz.png",
-  "time": "PM 10:45",
-  "status": "بث مباشر  ",
+  "time": "2 - 3",
+  "status": "أنتهت   ",
   "viewers": "4",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 ,{
@@ -82,11 +82,11 @@
   "homeLogo": "clubs/UEFA Nations League/danimark.png",
   "awayTeam": "نرويج - Norway",
   "awayLogo": "clubs/UEFA Nations League/norway.png",
-  "time": "PM 10:45",
-  "status": "بث مباشر  ",
+  "time": "3 - 2",
+  "status": "أنتهت   ",
   "viewers": "4",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch14_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch14_hd/index.m3u8",
+  "streamHd": "",
+  "streamSd": "",
   "stream4k": ""
 }
 
