@@ -45,21 +45,7 @@
 
 
 
-,{
-  "day": "today",
-  "league": "تصفيات كأس أمم أفريقيا    ",
-  "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
-  "homeTeam": "مصر",
-  "homeLogo": "clubs/Africa Cup of Nation/egypt.png",
-  "awayTeam": "مالاوي",
-  "awayLogo": "clubs/Africa Cup of Nation/malawi.png",
-  "time": "PM 7:00",
-  "status": " بث مباشر ",
-  "viewers": "9",
-  "streamHd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
-  "stream4k": ""
-}
+
 ,{
   "day": "today",
   "league": "دوري أبطال أفريقيا",
@@ -84,10 +70,10 @@
   "awayTeam": "تونس",
   "awayLogo": "clubs/Africa Cup of Nation/tuns.png",
   "time": "PM 7:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
-  "streamHd": "",
-  "streamSd": "",
+  "status": " بث مباشر ",
+  "viewers": "1",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch8_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch8_hd/index.m3u8",
   "stream4k": ""
 }
 ,{
@@ -99,8 +85,23 @@
   "awayTeam": "توجو",
   "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
   "time": "PM 7:00",
-  "status": "لم تبدأ بعد",
-  "viewers": "12",
+  "status": " بث مباشر ",
+  "viewers": "2",
+  "streamHd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
+  "streamSd": "https://stream-11.b-cdn.net/live/ch13_hd/index.m3u8",
+  "stream4k": ""
+}
+,{
+  "day": "today",
+  "league": "تصفيات كأس أمم أفريقيا    ",
+  "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "مصر",
+  "homeLogo": "clubs/Africa Cup of Nation/egypt.png",
+  "awayTeam": "مالاوي",
+  "awayLogo": "clubs/Africa Cup of Nation/malawi.png",
+  "time": "0- 0",
+  "status": "أنتهت   ",
+  "viewers": "9",
   "streamHd": "",
   "streamSd": "",
   "stream4k": ""
