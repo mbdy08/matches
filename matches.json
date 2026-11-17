@@ -61,4 +61,19 @@
   "streamSd": "https://stream-11.b-cdn.net/live/ch12_hd/index.m3u8",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "دوري أبطال أفريقيا",
+  "leagueLogo": "clubs/CAF Champions League/tournaments_caf-champions-league_700x700.football-logos.cc.png",
+  "homeTeam": "سوريا",
+  "homeLogo": "clubs/ودية/syria.png",
+  "awayTeam": "الامارات",
+  "awayLogo": "",
+  "time": "PM 5:10",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ]
