@@ -90,4 +90,19 @@
   "streamSd": "",
   "stream4k": ""
 }
+,{
+  "day": "today",
+  "league": "تصفيات كأس أمم أفريقيا    ",
+  "leagueLogo": "clubs/Africa Cup of Nation/logo Africa cup.png",
+  "homeTeam": "الجزائر",
+  "homeLogo": "clubs/Africa Cup of Nation/algeria.png",
+  "awayTeam": "توجو",
+  "awayLogo": "clubs/Africa Cup of Nation/tugo.png",
+  "time": "PM 7:00",
+  "status": "لم تبدأ بعد",
+  "viewers": "12",
+  "streamHd": "",
+  "streamSd": "",
+  "stream4k": ""
+}
 ]
