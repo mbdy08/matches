@@ -82,30 +82,30 @@
     "name": "Sport TV 1",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
-    "stream_id": "ch10_hd"
+    "stream_id": "ch101_hd"
   },
   "102": {
     "name": "Sport TV 2",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
-    "stream_id": "ch10_hd"
+    "stream_id": "ch102_hd"
   },
   "103": {
     "name": "Sport TV 3",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
-    "stream_id": "ch10_hd"
+    "stream_id": "ch103_hd"
   },
   "104": {
     "name": "Sport TV 4",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
-    "stream_id": "ch10_hd"
+    "stream_id": "ch104_hd"
   },
   "105": {
     "name": "Sport TV 5",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
-    "stream_id": "ch10_hd"
+    "stream_id": "ch105_hd"
   }
 }
