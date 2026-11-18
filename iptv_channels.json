@@ -1,60 +1,60 @@
 {
   "1": {
-    "name": "beIN SPORTS news",
+    "name": "AR| beIN SPORTS news",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch1_hd"
   },
   "2": {
-    "name": "beIN SPORTS 1 FHD",
+    "name": "AR| beIN SPORTS 1 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch2_hd"
   },
   "3": {
-    "name": "beIN SPORTS 2 FHD",
+    "name": "AR| beIN SPORTS 2 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch3_hd"
   },
   "4": {
-    "name": "beIN SPORTS 3 FHD",
+    "name": "AR| beIN SPORTS 3 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch4_hd"
   },
   "5": {
-    "name": "beIN SPORTS 4 FHD",
+    "name": "AR| beIN SPORTS 4 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch5_hd"
   },
   "6": {
-    "name": "beIN SPORTS 5 FHD",
+    "name": "AR| beIN SPORTS 5 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch6_hd"
   },
   "7": {
-    "name": "beIN SPORTS 6 FHD",
+    "name": "AR| beIN SPORTS 6 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch7_hd"
   },
   "8": {
-    "name": "beIN SPORTS 7 FHD",
+    "name": "AR| beIN SPORTS 7 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch8_hd"
   },
   "9": {
-    "name": "beIN SPORTS 8 FHD",
+    "name": "AR| beIN SPORTS 8 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch9_hd"
   },
   "10": {
-    "name": "beIN SPORTS 9 FHD",
+    "name": "AR| beIN SPORTS 9 FHD",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch10_hd"
@@ -79,31 +79,31 @@
 
 
   "101": {
-    "name": "Sport TV 1",
+    "name": "PT| Sport TV 1",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
     "stream_id": "ch301_hd"
   },
   "102": {
-    "name": "Sport TV 2",
+    "name": "PT| Sport TV 2",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
     "stream_id": "ch302_hd"
   },
   "103": {
-    "name": "Sport TV 3",
+    "name": "PT| Sport TV 3",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
     "stream_id": "ch303_hd"
   },
   "104": {
-    "name": "Sport TV 4",
+    "name": "PT| Sport TV 4",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
     "stream_id": "ch304_hd"
   },
   "105": {
-    "name": "Sport TV 5",
+    "name": "PT| Sport TV 5",
     "category": "PT| Sport TV",
     "icon": "sport_tv.png",
     "stream_id": "ch305_hd"
