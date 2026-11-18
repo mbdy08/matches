@@ -111,31 +111,31 @@
   "311": {
     "name": "PT| DAZN SPORT 1",
     "category": "PT| DAZN SPORT",
-    "icon": "sport_tv.png",
+    "icon": "dazn.png",
     "stream_id": "ch311_hd"
   },
   "312": {
     "name": "PT| DAZN SPORT 2",
     "category": "PT| DAZN SPORT",
-    "icon": "sport_tv.png",
+    "icon": "dazn.png",
     "stream_id": "ch312_hd"
   },
   "313": {
     "name": "PT| DAZN SPORT 3",
     "category": "PT| DAZN SPORT",
-    "icon": "sport_tv.png",
+    "icon": "dazn.png",
     "stream_id": "ch313_hd"
   },
   "314": {
     "name": "PT| DAZN SPORT 4",
     "category": "PT| DAZN SPORT",
-    "icon": "sport_tv.png",
+    "icon": "dazn.png",
     "stream_id": "ch314_hd"
   },
   "315": {
     "name": "PT| DAZN SPORT 5",
     "category": "PT| DAZN SPORT",
-    "icon": "sport_tv.png",
+    "icon": "dazn.png",
     "stream_id": "ch315_hd"
   }
 }
