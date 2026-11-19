@@ -137,5 +137,60 @@
     "category": "PT| DAZN SPORT",
     "icon": "dazn.png",
     "stream_id": "ch315_hd"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "401": {
+    "name": "PL| CANAL+EXTRA 1",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_1.png",
+    "stream_id": "ch401_hd"
+  },
+  "402": {
+    "name": "PL| CANAL+EXTRA 2",
+    "category": "canal+extra_2.png",
+    "icon": "dazn.png",
+    "stream_id": "ch402_hd"
+  },
+  "403": {
+    "name": "PL| CANAL+EXTRA 3",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_3.png",
+    "stream_id": "ch403_hd"
+  },
+  "404": {
+    "name": "PL| CANAL+EXTRA 4",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_4.png",
+    "stream_id": "ch404_hd"
   }
 }
