@@ -68,6 +68,37 @@
 
 
 
+  "101": {
+    "name": "UK| TNT SPORT 1",
+    "category": "UK| TNT SPORT",
+    "icon": "tnt_sport.png",
+    "stream_id": "ch101_hd"
+  },
+  "102": {
+    "name": "UK| TNT SPORT 2",
+    "category": "UK| TNT SPORT",
+    "icon": "tnt_sport.png",
+    "stream_id": "ch102_hd"
+  },
+
+  "103": {
+    "name": "UK| TNT SPORT 3",
+    "category": "UK| TNT SPORT",
+    "icon": "tnt_sport.png",
+    "stream_id": "ch103_hd"
+  },
+  "111": {
+    "name": "UK| SKY SPORT MAIN EVENT",
+    "category": "UK| SKY",
+    "icon": "Sky-sports-main-event.png",
+    "stream_id": "ch111_hd"
+  },
+  "112": {
+    "name": "UK| SKY SPORT FOOTBALL",
+    "category": "UK| SKY",
+    "icon": "Sky-sports-football.png",
+    "stream_id": "ch112_hd"
+  },
 
 
 
