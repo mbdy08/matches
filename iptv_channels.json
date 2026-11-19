@@ -226,5 +226,32 @@
     "category": "PL| CANAL+SPORT",
     "icon": "canal+sport.png",
     "stream_id": "ch415_hd"
+  },
+
+
+
+  "421": {
+    "name": "PL| ELEVEN+SPORT 1",
+    "category": "PL| ELEVEN+SPORT",
+    "icon": "ELEVEN+SPORT.png",
+    "stream_id": "ch421_hd"
+  },
+  "422": {
+    "name": "PL| ELEVEN+SPORT 2",
+    "category": "PL| ELEVEN+SPORT",
+    "icon": "ELEVEN+SPORT.png",
+    "stream_id": "ch422_hd"
+  },
+  "423": {
+    "name": "PL| ELEVEN+SPORT 3",
+    "category": "PL| ELEVEN+SPORT",
+    "icon": "ELEVEN+SPORT.png",
+    "stream_id": "ch423_hd"
+  },
+  "424": {
+    "name": "PL| ELEVEN+SPORT 4",
+    "category": "PL| ELEVEN+SPORT",
+    "icon": "ELEVEN+SPORT.png",
+    "stream_id": "ch424_hd"
   }
 }
