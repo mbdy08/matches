@@ -194,6 +194,12 @@
     "icon": "Sky_Sports_Tennis.png",
     "stream_id": "ch114_hd"
   },
+  "115": {
+    "name": "UK| SKY SPORT NFL",
+    "category": "UK| SKY SPORT",
+    "icon": "sky_sport_nfl.png",
+    "stream_id": "ch115_hd"
+  },
 
   "121": {
     "name": "UK| EUORSPORT 1",
