@@ -193,34 +193,38 @@
     "icon": "canal+extra_4.png",
     "stream_id": "ch404_hd"
   },
+
+
+
+
   "411": {
-    "name": "PL| CANAL+EXTRA 4",
-    "category": "PL| CANAL+EXTRA",
-    "icon": "canal+extra_4.png",
+    "name": "PL| CANAL+SPORT 1",
+    "category": "PL| CANAL+SPORT",
+    "icon": "canal+sport.png",
     "stream_id": "ch411_hd"
   },
   "412": {
-    "name": "PL| CANAL+EXTRA 4",
-    "category": "PL| CANAL+EXTRA",
-    "icon": "canal+extra_4.png",
+    "name": "PL| CANAL+SPORT 2",
+    "category": "PL| CANAL+SPORT",
+    "icon": "canal+sport.png",
     "stream_id": "ch412_hd"
   },
   "413": {
-    "name": "PL| CANAL+EXTRA 4",
-    "category": "PL| CANAL+EXTRA",
-    "icon": "canal+extra_4.png",
+    "name": "PL| CANAL+SPORT 3",
+    "category": "PL| CANAL+SPORT",
+    "icon": "canal+sport.png",
     "stream_id": "ch413_hd"
   },
   "414": {
-    "name": "PL| CANAL+EXTRA 4",
-    "category": "PL| CANAL+EXTRA",
-    "icon": "canal+extra_4.png",
+    "name": "PL| CANAL+SPORT 4",
+    "category": "PL| CANAL+SPORT",
+    "icon": "canal+sport.png",
     "stream_id": "ch414_hd"
   },
   "415": {
-    "name": "PL| CANAL+EXTRA 4",
-    "category": "PL| CANAL+EXTRA",
-    "icon": "canal+extra_4.png",
+    "name": "PL| CANAL+SPORT 5",
+    "category": "PL| CANAL+SPORT",
+    "icon": "canal+sport.png",
     "stream_id": "ch415_hd"
   }
 }
