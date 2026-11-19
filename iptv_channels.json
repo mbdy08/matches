@@ -59,6 +59,36 @@
     "icon": "beinsport.png",
     "stream_id": "ch10_hd"
   },
+  "11": {
+    "name": "EN| beIN SPORTS English 1",
+    "category": "EN| beIN SPORTS",
+    "icon": "beinsport.png",
+    "stream_id": "ch11_hd"
+  },
+  "12": {
+    "name": "EN| beIN SPORTS English 2",
+    "category": "EN| beIN SPORTS",
+    "icon": "beinsport.png",
+    "stream_id": "ch12_hd"
+  },
+  "13": {
+    "name": "FR| beIN SPORTS French 1",
+    "category": "FR| beIN SPORTS",
+    "icon": "beinsport.png",
+    "stream_id": "ch13_hd"
+  },
+  "14": {
+    "name": "FR| beIN SPORTS French 2",
+    "category": "FR| beIN SPORTS",
+    "icon": "beinsport.png",
+    "stream_id": "ch14_hd"
+  },
+  "15": {
+    "name": "FR| beIN SPORTS French 3",
+    "category": "FR| beIN SPORTS",
+    "icon": "beinsport.png",
+    "stream_id": "ch15_hd"
+  },
 
 
   "41": {
