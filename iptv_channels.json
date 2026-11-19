@@ -87,6 +87,12 @@
     "icon": "mbc2.png",
     "stream_id": "ch62_hd"
   },
+  "66": {
+    "name": "AR| MBC ACTION",
+    "category": "AR| MBC",
+    "icon": "MBC_Action.png",
+    "stream_id": "ch66_hd"
+  },
   "91": {
     "name": "AR| ALWAN SPORT 1",
     "category": "AR| ALWAN SPORT",
