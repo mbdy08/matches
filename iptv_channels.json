@@ -137,13 +137,13 @@
   "211": {
     "name": "ES| DANZ LALIGA 1",
     "category": "ES| DANZ",
-    "icon": "dazn.png",
+    "icon": "dazn_laliga.png",
     "stream_id": "ch211_hd"
   },
   "212": {
     "name": "ES| DANZ LALIGA 2",
     "category": "ES| DANZ",
-    "icon": "dazn.png",
+    "icon": "dazn_laliga.png",
     "stream_id": "ch212_hd"
   },
 
