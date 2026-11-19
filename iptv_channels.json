@@ -109,6 +109,50 @@
 
 
 
+  "201": {
+    "name": "ES| DANZ 1",
+    "category": "ES| DANZ",
+    "icon": "dazn.png",
+    "stream_id": "ch201_hd"
+  },
+  "202": {
+    "name": "ES| DANZ 2",
+    "category": "ES| DANZ",
+    "icon": "dazn.png",
+    "stream_id": "ch202_hd"
+  },
+  "203": {
+    "name": "ES| DANZ 3",
+    "category": "ES| DANZ",
+    "icon": "dazn.png",
+    "stream_id": "ch203_hd"
+  },
+  "204": {
+    "name": "ES| DANZ 4",
+    "category": "ES| DANZ",
+    "icon": "dazn.png",
+    "stream_id": "ch204_hd"
+  },
+
+  "211": {
+    "name": "ES| DANZ LALIGA 1",
+    "category": "ES| DANZ",
+    "icon": "dazn.png",
+    "stream_id": "ch211_hd"
+  },
+  "212": {
+    "name": "ES| DANZ LALIGA 2",
+    "category": "ES| DANZ",
+    "icon": "dazn.png",
+    "stream_id": "ch212_hd"
+  },
+
+
+
+
+
+
+
   "301": {
     "name": "PT| Sport TV 1",
     "category": "PT| Sport TV",
