@@ -6,55 +6,55 @@
     "stream_id": "ch1_hd"
   },
   "2": {
-    "name": "AR| beIN SPORTS 1 FHD",
+    "name": "AR| beIN SPORTS 1",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch2_hd"
   },
   "3": {
-    "name": "AR| beIN SPORTS 2 FHD",
+    "name": "AR| beIN SPORTS 2",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch3_hd"
   },
   "4": {
-    "name": "AR| beIN SPORTS 3 FHD",
+    "name": "AR| beIN SPORTS 3",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch4_hd"
   },
   "5": {
-    "name": "AR| beIN SPORTS 4 FHD",
+    "name": "AR| beIN SPORTS 4",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch5_hd"
   },
   "6": {
-    "name": "AR| beIN SPORTS 5 FHD",
+    "name": "AR| beIN SPORTS 5",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch6_hd"
   },
   "7": {
-    "name": "AR| beIN SPORTS 6 FHD",
+    "name": "AR| beIN SPORTS 6",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch7_hd"
   },
   "8": {
-    "name": "AR| beIN SPORTS 7 FHD",
+    "name": "AR| beIN SPORTS 7",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch8_hd"
   },
   "9": {
-    "name": "AR| beIN SPORTS 8 FHD",
+    "name": "AR| beIN SPORTS 8",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch9_hd"
   },
   "10": {
-    "name": "AR| beIN SPORTS 9 FHD",
+    "name": "AR| beIN SPORTS 9",
     "category": "AR| beIN SPORTS",
     "icon": "beinsport.png",
     "stream_id": "ch10_hd"
@@ -177,8 +177,8 @@
   },
   "402": {
     "name": "PL| CANAL+EXTRA 2",
-    "category": "canal+extra_2.png",
-    "icon": "dazn.png",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_2.png",
     "stream_id": "ch402_hd"
   },
   "403": {
@@ -192,5 +192,35 @@
     "category": "PL| CANAL+EXTRA",
     "icon": "canal+extra_4.png",
     "stream_id": "ch404_hd"
+  },
+  "411": {
+    "name": "PL| CANAL+EXTRA 4",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_4.png",
+    "stream_id": "ch411_hd"
+  },
+  "412": {
+    "name": "PL| CANAL+EXTRA 4",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_4.png",
+    "stream_id": "ch412_hd"
+  },
+  "413": {
+    "name": "PL| CANAL+EXTRA 4",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_4.png",
+    "stream_id": "ch413_hd"
+  },
+  "414": {
+    "name": "PL| CANAL+EXTRA 4",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_4.png",
+    "stream_id": "ch414_hd"
+  },
+  "415": {
+    "name": "PL| CANAL+EXTRA 4",
+    "category": "PL| CANAL+EXTRA",
+    "icon": "canal+extra_4.png",
+    "stream_id": "ch415_hd"
   }
 }
