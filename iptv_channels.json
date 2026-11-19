@@ -61,8 +61,24 @@
   },
 
 
-
-
+  "41": {
+    "name": "AR| THMANYAH 1",
+    "category": "AR| THMANYAH",
+    "icon": "thmanya.png",
+    "stream_id": "ch41_hd"
+  },
+  "42": {
+    "name": "AR| THMANYAH 2",
+    "category": "AR| THMANYAH",
+    "icon": "thmanya.png",
+    "stream_id": "ch42_hd"
+  },
+  "43": {
+    "name": "AR| THMANYAH 3",
+    "category": "AR| THMANYAH",
+    "icon": "thmanya.png",
+    "stream_id": "ch43_hd"
+  },
   "51": {
     "name": "AR| Al Hadath - الحدث",
     "category": "AR| NEWS",
