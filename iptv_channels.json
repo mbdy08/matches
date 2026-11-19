@@ -81,6 +81,48 @@
     "icon": "Al_Ekhbariya.png",
     "stream_id": "ch53_hd"
   },
+  "62": {
+    "name": "AR| MBC 2",
+    "category": "AR| MBC",
+    "icon": "mbc2.png",
+    "stream_id": "ch62_hd"
+  },
+  "91": {
+    "name": "AR| ALWAN SPORT 1",
+    "category": "AR| ALWAN SPORT",
+    "icon": "alwan_sport.png",
+    "stream_id": "ch91_hd"
+  },
+  "92": {
+    "name": "AR| ALWAN SPORT 2",
+    "category": "AR| ALWAN SPORT",
+    "icon": "alwan_sport.png",
+    "stream_id": "ch92_hd"
+  },
+  "93": {
+    "name": "AR| ALWAN SPORT 3",
+    "category": "AR| ALWAN SPORT",
+    "icon": "alwan_sport.png",
+    "stream_id": "ch93_hd"
+  },
+  "94": {
+    "name": "AR| ALWAN SPORT 4",
+    "category": "AR| ALWAN SPORT",
+    "icon": "alwan_sport.png",
+    "stream_id": "ch94_hd"
+  },
+  "95": {
+    "name": "AR| ALWAN SPORT 5",
+    "category": "AR| ALWAN SPORT",
+    "icon": "alwan_sport.png",
+    "stream_id": "ch95_hd"
+  },
+  "96": {
+    "name": "AR| ALWAN SPORT 6",
+    "category": "AR| ALWAN SPORT",
+    "icon": "alwan_sport.png",
+    "stream_id": "ch96_hd"
+  },
 
 
 
