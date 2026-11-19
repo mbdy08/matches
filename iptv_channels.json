@@ -63,6 +63,19 @@
 
 
 
+  "51": {
+    "name": "AR| Al Hadath - الحدث",
+    "category": "AR| NEWS",
+    "icon": "Al_Hadath.png",
+    "stream_id": "ch51_hd"
+  },
+  "52": {
+    "name": "AR| Asharq News - الشرق ",
+    "category": "AR| NEWS",
+    "icon": "Asharq_News.png",
+    "stream_id": "ch52_hd"
+  },
+
 
 
 
