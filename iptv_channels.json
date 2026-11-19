@@ -196,6 +196,19 @@
     "stream_id": "ch122_hd"
   },
 
+  "131": {
+    "name": "NT| NETFLIX Movies 1",
+    "category": "NT| NETFLIX",
+    "icon": "netflix.png",
+    "stream_id": "ch131_hd"
+  },
+  "132": {
+    "name": "NT| NETFLIX Movies 2",
+    "category": "NT| NETFLIX",
+    "icon": "netflix.png",
+    "stream_id": "ch132_hd"
+  },
+
 
 
 
