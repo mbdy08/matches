@@ -100,6 +100,18 @@
     "stream_id": "ch112_hd"
   },
 
+  "121": {
+    "name": "UK| EUORSPORT 1",
+    "category": "UK| EUORSPORT",
+    "icon": "eurosport.png",
+    "stream_id": "ch121_hd"
+  },
+  "122": {
+    "name": "UK| EUORSPORT 2",
+    "category": "UK| EUORSPORT",
+    "icon": "eurosport.png",
+    "stream_id": "ch122_hd"
+  },
 
 
 
