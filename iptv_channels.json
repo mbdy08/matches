@@ -172,15 +172,27 @@
   },
   "111": {
     "name": "UK| SKY SPORT MAIN EVENT",
-    "category": "UK| SKY",
+    "category": "UK| SKY SPORT",
     "icon": "Sky-sports-main-event.png",
     "stream_id": "ch111_hd"
   },
   "112": {
     "name": "UK| SKY SPORT FOOTBALL",
-    "category": "UK| SKY",
+    "category": "UK| SKY SPORT",
     "icon": "Sky-sports-football.png",
     "stream_id": "ch112_hd"
+  },
+  "113": {
+    "name": "UK| SKY SPORT Premier League",
+    "category": "UK| SKY SPORT",
+    "icon": "sky_sport_Premier_League.png",
+    "stream_id": "ch113_hd"
+  },
+  "114": {
+    "name": "UK| SKY SPORT tennis",
+    "category": "UK| SKY SPORT",
+    "icon": "Sky_Sports_Tennis.png",
+    "stream_id": "ch114_hd"
   },
 
   "121": {
