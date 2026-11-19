@@ -127,6 +127,12 @@
     "icon": "Al_Ekhbariya.png",
     "stream_id": "ch53_hd"
   },
+  "54": {
+    "name": "AR| Al Jazeera - الجزيزه",
+    "category": "AR| NEWS",
+    "icon": "Al_Ekhbariya.png",
+    "stream_id": "ch54_hd"
+  },
   "62": {
     "name": "AR| MBC 2",
     "category": "AR| MBC",
