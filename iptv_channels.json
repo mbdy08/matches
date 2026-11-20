@@ -585,6 +585,24 @@
     "icon": "ELEVEN+SPORT.png",
     "stream_id": "ch424_hd"
   },
+  "488": {
+    "name": "PL| HBO 1",
+    "category": "PL| POLAND",
+    "icon": "hbo.png",
+    "stream_id": "ch488_hd"
+  },
+  "489": {
+    "name": "PL| HBO 2",
+    "category": "PL| POLAND",
+    "icon": "hbo.png",
+    "stream_id": "ch489_hd"
+  },
+  "490": {
+    "name": "PL| HBO 3",
+    "category": "PL| POLAND",
+    "icon": "hbo.png",
+    "stream_id": "ch490_hd"
+  },
   "491": {
     "name": "PL| TVP 1",
     "category": "PL| POLAND",
