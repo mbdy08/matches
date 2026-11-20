@@ -313,6 +313,49 @@
     "icon": "netflix.png",
     "stream_id": "ch132_hd"
   },
+  "151": {
+    "name": "UK| BBC NEWS",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/bbc_news.png",
+    "stream_id": "ch151_hd"
+  },
+  "152": {
+    "name": "UK| BBC NEWS ARABIC",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/bbc_news_arabic.png",
+    "stream_id": "ch152_hd"
+  },
+  "153": {
+    "name": "UK| CNN",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/cnn.png",
+    "stream_id": "ch153_hd"
+  },
+  "154": {
+    "name": "UK| FRANCE 24",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/france_24.png",
+    "stream_id": "ch154_hd"
+  },
+  "155": {
+    "name": "UK| GB NEWS",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/gb_news.png",
+    "stream_id": "ch155_hd"
+  },
+  "156": {
+    "name": "UK| RT NEWS",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/rt_news.png",
+    "stream_id": "ch156_hd"
+  },
+  "157": {
+    "name": "UK| SKY NEWS",
+    "category": "UK| NEWS",
+    "icon": "UK-NEWS/sky_news.png",
+    "stream_id": "ch157_hd"
+  },
+
 
 
 
