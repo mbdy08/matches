@@ -587,20 +587,20 @@
   },
   "491": {
     "name": "PL| TVP 1",
-    "category": "PL| ",
-    "icon": "",
+    "category": "PL| POLAND",
+    "icon": "tvp1.png",
     "stream_id": "ch491_hd"
   },
   "492": {
     "name": "PL| TVP 2",
-    "category": "PL| ",
-    "icon": "",
+    "category": "PL| POLAND",
+    "icon": "tvp2.png",
     "stream_id": "ch492_hd"
   },
   "493": {
     "name": "PL| TVN",
-    "category": "PL| ",
-    "icon": "",
+    "category": "PL| POLAND",
+    "icon": "tvn.png",
     "stream_id": "ch493_hd"
   }
 }
