@@ -91,6 +91,8 @@
   },
 
 
+
+
   "41": {
     "name": "AR| THMANYAH 1",
     "category": "AR| THMANYAH",
@@ -109,6 +111,17 @@
     "icon": "thmanya.png",
     "stream_id": "ch43_hd"
   },
+
+
+
+
+
+
+
+
+
+
+
   "51": {
     "name": "AR| Al Hadath - الحدث",
     "category": "AR| NEWS",
@@ -133,6 +146,11 @@
     "icon": "Al_Ekhbariya.png",
     "stream_id": "ch54_hd"
   },
+
+
+
+
+
   "62": {
     "name": "AR| MBC 2",
     "category": "AR| MBC",
@@ -144,6 +162,39 @@
     "category": "AR| MBC",
     "icon": "MBC_Action.png",
     "stream_id": "ch66_hd"
+  },
+
+
+
+  "81": {
+    "name": "AR| STARZPLAY 1",
+    "category": "AR| STARZPLAY / AD SPORT",
+    "icon": "strazplay.png",
+    "stream_id": "ch81_hd"
+  },
+  "82": {
+    "name": "AR| STARZPLAY 2",
+    "category": "AR| STARZPLAY / AD SPORT",
+    "icon": "strazplay.png",
+    "stream_id": "ch82_hd"
+  },
+  "83": {
+    "name": "AR| STARZPLAY 3",
+    "category": "AR| STARZPLAY / AD SPORT",
+    "icon": "strazplay.png",
+    "stream_id": "ch83_hd"
+  },
+  "84": {
+    "name": "AR| AD SPORT 1",
+    "category": "AR| STARZPLAY / AD SPORT",
+    "icon": "strazplay.png",
+    "stream_id": "ch84_hd"
+  },
+  "85": {
+    "name": "AR| AD SPORT 2",
+    "category": "AR| STARZPLAY / AD SPORT",
+    "icon": "strazplay.png",
+    "stream_id": "ch85_hd"
   },
   "91": {
     "name": "AR| ALWAN SPORT 1",
