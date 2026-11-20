@@ -614,11 +614,5 @@
     "category": "PL| POLAND",
     "icon": "tvp2.png",
     "stream_id": "ch492_hd"
-  },
-  "493": {
-    "name": "PL| TVN",
-    "category": "PL| POLAND",
-    "icon": "tvn.png",
-    "stream_id": "ch493_hd"
   }
 }
