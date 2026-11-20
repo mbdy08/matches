@@ -584,5 +584,23 @@
     "category": "PL| ELEVEN+SPORT",
     "icon": "ELEVEN+SPORT.png",
     "stream_id": "ch424_hd"
+  },
+  "491": {
+    "name": "PL| TVP 1",
+    "category": "PL| ",
+    "icon": "",
+    "stream_id": "ch491_hd"
+  },
+  "492": {
+    "name": "PL| TVP 2",
+    "category": "PL| ",
+    "icon": "",
+    "stream_id": "ch492_hd"
+  },
+  "493": {
+    "name": "PL| TVN",
+    "category": "PL| ",
+    "icon": "",
+    "stream_id": "ch493_hd"
   }
 }
